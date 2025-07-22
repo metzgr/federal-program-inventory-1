@@ -4,7 +4,7 @@ agencies: '[{"title":"Department of Energy","total_num_programs":8,"total_obs":4
   of Agriculture","total_num_programs":9,"total_obs":3452572733.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":2293444239.0},{"title":"Department
   of State","total_num_programs":4,"total_obs":1243552132.0},{"title":"Department
-  of the Interior","total_num_programs":3,"total_obs":1241974507.0},{"title":"Environmental
+  of the Interior","total_num_programs":3,"total_obs":1228714900.0},{"title":"Environmental
   Protection Agency","total_num_programs":4,"total_obs":1113176312.0},{"title":"Department
   of Education","total_num_programs":2,"total_obs":715455000.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Southeast Crescent
@@ -491,11 +491,11 @@ programs: '[{"cfda":"93.568","permalink":"/program/93.568","title":"Low-Income H
   Guard Military Operations and Maintenance (O&M) Projects","popular_name":"National
   Guard Facility Operations and Maintenance Activities","agency":"Department of Defense","total_obs":2293444239.0,"program_type":"assistance_listing"},{"cfda":"10.758","permalink":"/program/10.758","title":"New
   Empowering Rural America (New ERA) Program","popular_name":"22004","agency":"Department
-  of Agriculture","total_obs":2041000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
-  Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"19.017","permalink":"/program/19.017","title":"Environmental
+  of Agriculture","total_obs":2041000000.0,"program_type":"assistance_listing"},{"cfda":"19.017","permalink":"/program/19.017","title":"Environmental
   and Scientific Partnerships and Programs","popular_name":null,"agency":"Department
-  of State","total_obs":1223802133.0,"program_type":"assistance_listing"},{"cfda":"81.087","permalink":"/program/81.087","title":"Renewable
+  of State","total_obs":1223802133.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
+  Social, and Political Development of the Territories","popular_name":null,"agency":"Department
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"81.087","permalink":"/program/81.087","title":"Renewable
   Energy Research and Development","popular_name":"Renewable Energy (RE)","agency":"Department
   of Energy","total_obs":1079663502.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
   School Bus Program","popular_name":"Clean School Bus Program","agency":"Environmental
@@ -555,5 +555,5 @@ title: Conservation
 total_num_agencies: 11
 total_num_applicant_types: 39
 total_num_programs: 37
-total_obs: 19262837644.0
+total_obs: 19249578037.0
 ---

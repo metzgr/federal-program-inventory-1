@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Social Security Administration","total_num_programs":3,"total_obs":153607725001.0},{"title":"Department
-  of Health and Human Services","total_num_programs":98,"total_obs":13128373192.05},{"title":"Department
+  of Health and Human Services","total_num_programs":97,"total_obs":13128373192.05},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":484964106.65999997},{"title":"Department
   of Agriculture","total_num_programs":5,"total_obs":326497478.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Department
@@ -17,19 +17,19 @@ agencies: '[{"title":"Social Security Administration","total_num_programs":3,"to
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":93},{"title":"Private nonprofit
   institution/organization (includes institutions of higher education and hospitals)","total_num_programs":78},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":74},{"title":"Federally
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":73},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":62},{"title":"Local (includes
   State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":57},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":52},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":45},{"title":"Other public institution/organization","total_num_programs":42},{"title":"U.S.
-  Territories and possessions","total_num_programs":40},{"title":"State","total_num_programs":34},{"title":"Profit
+  Territories and possessions","total_num_programs":39},{"title":"State","total_num_programs":34},{"title":"Profit
   organization","total_num_programs":27},{"title":"Other private institutions/organizations","total_num_programs":26},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":22},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":21},{"title":"Non-Government
   - General","total_num_programs":20},{"title":"Small business (less than 500 employees)","total_num_programs":16},{"title":"Government
-  - General","total_num_programs":14},{"title":"Federal","total_num_programs":13},{"title":"Individual/Family","total_num_programs":11},{"title":"Sponsored
-  organization","total_num_programs":11},{"title":"Interstate","total_num_programs":9},{"title":"Intrastate","total_num_programs":9},{"title":"Minority
+  - General","total_num_programs":13},{"title":"Federal","total_num_programs":12},{"title":"Sponsored
+  organization","total_num_programs":11},{"title":"Individual/Family","total_num_programs":10},{"title":"Interstate","total_num_programs":9},{"title":"Intrastate","total_num_programs":9},{"title":"Minority
   group","total_num_programs":8},{"title":"Anyone/general public","total_num_programs":7},{"title":"City
   or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1}]'
 categories_subcategories:
@@ -750,9 +750,7 @@ programs: '[{"cfda":"96.001","permalink":"/program/96.001","title":"Social Secur
   cultural/educational/alumni/information and media efforts in the Middle East and
   North Africa.","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.345","permalink":"/program/93.345","title":"Leading
   Edge Acceleration Projects (LEAP) in Health Information Technology","popular_name":"LEAP","agency":"Department
-  of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.232","permalink":"/program/93.232","title":"Loan
-  Repayment Program for General Research","popular_name":"(NIH General Research Loan
-  Repayment Program; GR-LRP)","agency":"Department of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"21.032","permalink":"/program/21.032","title":"Local
+  of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"21.032","permalink":"/program/21.032","title":"Local
   Assistance and Tribal Consistency Fund","popular_name":"LATCF","agency":"Department
   of the Treasury","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.983","permalink":"/program/93.983","title":"Market
   Transparency Project for Health IT Interoperability Services Cooperative Agreement
@@ -784,6 +782,6 @@ programs: '[{"cfda":"96.001","permalink":"/program/96.001","title":"Social Secur
 title: Education and Training
 total_num_agencies: 16
 total_num_applicant_types: 41
-total_num_programs: 131
+total_num_programs: 130
 total_obs: 167671773016.71
 ---

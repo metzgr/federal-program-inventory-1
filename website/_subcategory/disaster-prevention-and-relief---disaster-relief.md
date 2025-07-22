@@ -2,12 +2,12 @@
 agencies: '[{"title":"Department of Homeland Security","total_num_programs":16,"total_obs":35841796831.0},{"title":"Department
   of Agriculture","total_num_programs":28,"total_obs":4769772019.53},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":2328833261.0},{"title":"Department
-  of Education","total_num_programs":2,"total_obs":1620316000.0},{"title":"Department
-  of the Interior","total_num_programs":4,"total_obs":1247282747.0},{"title":"Small
-  Business Administration","total_num_programs":1,"total_obs":1100000000.0},{"title":"Department
+  of Education","total_num_programs":2,"total_obs":1620316000.0},{"title":"Small Business
+  Administration","total_num_programs":1,"total_obs":1386897912.0},{"title":"Department
+  of the Interior","total_num_programs":4,"total_obs":1234023140.0},{"title":"Department
   of Commerce","total_num_programs":3,"total_obs":373420000.0},{"title":"Environmental
   Protection Agency","total_num_programs":5,"total_obs":341729940.0},{"title":"Department
-  of Health and Human Services","total_num_programs":3,"total_obs":218705209.0},{"title":"Department
+  of Health and Human Services","total_num_programs":3,"total_obs":243705209.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":4,"total_obs":72030085.0},{"title":"Department
   of Transportation","total_num_programs":2,"total_obs":38658796.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Southeast Crescent
@@ -18,7 +18,7 @@ agencies: '[{"title":"Department of Homeland Security","total_num_programs":16,"
   for National and Community Service","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","total_num_programs":33},{"title":"Individual/Family","total_num_programs":28},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":28},{"title":"Public nonprofit institution/organization
+  and hospitals","total_num_programs":27},{"title":"Public nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":25},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":21},{"title":"Profit organization","total_num_programs":21},{"title":"State","total_num_programs":18},{"title":"State
@@ -498,10 +498,10 @@ programs: '[{"cfda":"97.036","permalink":"/program/97.036","title":"Disaster Gra
   Relief Program 2022","popular_name":"ERP 2022","agency":"Department of Agriculture","total_obs":2148404879.0,"program_type":"assistance_listing"},{"cfda":"84.041","permalink":"/program/84.041","title":"Impact
   Aid","popular_name":null,"agency":"Department of Education","total_obs":1620316000.0,"program_type":"assistance_listing"},{"cfda":"97.048","permalink":"/program/97.048","title":"Federal
   Disaster Assistance to Individuals and Households in Presidential Declared Disaster
-  Areas","popular_name":"(IHP)","agency":"Department of Homeland Security","total_obs":1551930432.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
+  Areas","popular_name":"(IHP)","agency":"Department of Homeland Security","total_obs":1551930432.0,"program_type":"assistance_listing"},{"cfda":"59.008","permalink":"/program/59.008","title":"Disaster
+  Assistance Loans","popular_name":"7(b) Loans","agency":"Small Business Administration","total_obs":1386897912.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"59.008","permalink":"/program/59.008","title":"Disaster
-  Assistance Loans","popular_name":"7(b) Loans","agency":"Small Business Administration","total_obs":1100000000.0,"program_type":"assistance_listing"},{"cfda":"10.970","permalink":"/program/10.970","title":"Farm
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"10.970","permalink":"/program/10.970","title":"Farm
   Loan Borrower Relief Program","popular_name":"FLBRP","agency":"Department of Agriculture","total_obs":888423000.0,"program_type":"assistance_listing"},{"cfda":"10.964","permalink":"/program/10.964","title":"Emergency
   Relief Program","popular_name":"ERP","agency":"Department of Agriculture","total_obs":486239201.0,"program_type":"assistance_listing"},{"cfda":"11.477","permalink":"/program/11.477","title":"Fisheries
   Disaster Relief","popular_name":null,"agency":"Department of Commerce","total_obs":373420000.0,"program_type":"assistance_listing"},{"cfda":"10.511","permalink":"/program/10.511","title":"Smith-Lever
@@ -540,7 +540,10 @@ programs: '[{"cfda":"97.036","permalink":"/program/97.036","title":"Disaster Gra
   Instructor Training Grants (HMIT), Supplemental Public Sector Training Grants (SPST),
   Assistance for Local Emergency Response Training Grants (ALERT), Community Safety
   Grants (CS)","agency":"Department of Transportation","total_obs":31311555.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
-  Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":31000000.0,"program_type":"assistance_listing"},{"cfda":"10.443","permalink":"/program/10.443","title":"Outreach
+  Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":31000000.0,"program_type":"assistance_listing"},{"cfda":"93.661","permalink":"/program/93.661","title":"Extramural
+  Research Restoration Program:  Hurricanes Fiona and Ian","popular_name":"Extramural
+  Research Restoration Program:  Hurricanes Fiona and Ian","agency":"Department of
+  Health and Human Services","total_obs":25000000.0,"program_type":"assistance_listing"},{"cfda":"10.443","permalink":"/program/10.443","title":"Outreach
   and Assistance for Socially Disadvantaged and Veteran Farmers and Ranchers","popular_name":"USDA
   2501 Grant Program ","agency":"Department of Agriculture","total_obs":22600000.0,"program_type":"assistance_listing"},{"cfda":"15.674","permalink":"/program/15.674","title":"National
   Fire Plan-Wildland Urban Interface Community Fire Assistance","popular_name":null,"agency":"Department
@@ -552,7 +555,7 @@ programs: '[{"cfda":"97.036","permalink":"/program/97.036","title":"Disaster Gra
   Unemployment Assistance","popular_name":"(DUA)","agency":"Department of Homeland
   Security","total_obs":17000000.0,"program_type":"assistance_listing"},{"cfda":"10.130","permalink":"/program/10.130","title":"Coronavirus
   Food Assistance Program 1","popular_name":"CFAP","agency":"Department of Agriculture","total_obs":14800000.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"97.111","permalink":"/program/97.111","title":"Regional
   Catastrophic Preparedness Grant Program (RCPGP)","popular_name":"(RCPGP)","agency":"Department
   of Homeland Security","total_obs":11999999.0,"program_type":"assistance_listing"},{"cfda":"10.404","permalink":"/program/10.404","title":"Emergency
@@ -598,10 +601,7 @@ programs: '[{"cfda":"97.036","permalink":"/program/97.036","title":"Disaster Gra
   Relief Fund","popular_name":"CRF","agency":"Department of the Treasury","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.974","permalink":"/program/10.974","title":"DSA
   COVID Relief Program","popular_name":"DSACOVRP","agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.124","permalink":"/program/19.124","title":"East
   Asia and Pacific Grants Program","popular_name":"U.S. Department of State, Bureau
-  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.661","permalink":"/program/93.661","title":"Extramural
-  Research Restoration Program:  Hurricanes Fiona and Ian","popular_name":"Extramural
-  Research Restoration Program:  Hurricanes Fiona and Ian","agency":"Department of
-  Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"14.269","permalink":"/program/14.269","title":"Hurricane
+  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"14.269","permalink":"/program/14.269","title":"Hurricane
   Sandy Community Development Block Grant Disaster Recovery Grants (CDBG-DR)","popular_name":"Community
   Development Block Grant Disaster Recovery program for Hurricane Sandy and other
   qualifying disasters occurring in 2011, 2012 and 2013","agency":"Department of Housing
@@ -640,5 +640,5 @@ title: Disaster Relief
 total_num_agencies: 18
 total_num_applicant_types: 39
 total_num_programs: 83
-total_obs: 48008656100.53
+total_obs: 48307294405.53
 ---

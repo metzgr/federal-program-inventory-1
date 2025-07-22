@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":4,"total_obs":2617965983.0},{"title":"Department
   of Agriculture","total_num_programs":6,"total_obs":2250539393.0},{"title":"Department
-  of the Interior","total_num_programs":10,"total_obs":1929345194.0},{"title":"Department
+  of the Interior","total_num_programs":10,"total_obs":1916085587.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":583069205.0},{"title":"Department
   of Commerce","total_num_programs":2,"total_obs":122444816.0},{"title":"Department
   of Homeland Security","total_num_programs":1,"total_obs":118104023.0},{"title":"Department
@@ -497,7 +497,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   and Industry Guaranteed Loans","popular_name":"B&I Guaranteed Loan Program","agency":"Department
   of Agriculture","total_obs":1828800290.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"12.777","permalink":"/program/12.777","title":"Defense
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"12.777","permalink":"/program/12.777","title":"Defense
   Production Act Title III (DPA Title III)","popular_name":"DPA Title III","agency":"Department
   of Defense","total_obs":583069205.0,"program_type":"assistance_listing"},{"cfda":"15.605","permalink":"/program/15.605","title":"Sport
   Fish Restoration ","popular_name":"Dingell-Johnson Sport Fish Restoration Program","agency":"Department
@@ -570,5 +570,5 @@ title: Recreation
 total_num_agencies: 17
 total_num_applicant_types: 39
 total_num_programs: 38
-total_obs: 7947425930.0
+total_obs: 7934166323.0
 ---

@@ -1,16 +1,16 @@
 ---
 agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":2,"total_obs":824800000.0},{"title":"Department
   of Justice","total_num_programs":7,"total_obs":112113699.0},{"title":"Department
-  of Housing and Urban Development","total_num_programs":5,"total_obs":102875908.0},{"title":"Corporation
+  of Housing and Urban Development","total_num_programs":4,"total_obs":63930451.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":13275048.0},{"title":"Department
   of State","total_num_programs":2,"total_obs":5999999.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":13},{"title":"Local (includes
-  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":11},{"title":"Private
+  of higher education and hospitals)","total_num_programs":12},{"title":"Local (includes
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":10},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":11},{"title":"State (includes District of Columbia,
-  public institutions of higher education and hospitals)","total_num_programs":9},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":8},{"title":"State","total_num_programs":7},{"title":"Other
+  hospitals)","total_num_programs":10},{"title":"Federally Recognized Indian Tribal
+  Governments","total_num_programs":8},{"title":"State (includes District of Columbia,
+  public institutions of higher education and hospitals)","total_num_programs":8},{"title":"State","total_num_programs":7},{"title":"Other
   public institution/organization","total_num_programs":6},{"title":"Profit organization","total_num_programs":4},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":4},{"title":"Individual/Family","total_num_programs":3},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":3},{"title":"Anyone/general
@@ -480,10 +480,7 @@ programs: '[{"cfda":"64.033","permalink":"/program/64.033","title":"VA Supportiv
   Services for Veteran Families Program","popular_name":null,"agency":"Department
   of Veterans Affairs","total_obs":798000000.0,"program_type":"assistance_listing"},{"cfda":"16.045","permalink":"/program/16.045","title":"Community-Based
   Violence Intervention and Prevention Initiative","popular_name":"CVIPI","agency":"Department
-  of Justice","total_obs":86921273.0,"program_type":"assistance_listing"},{"cfda":"14.408","permalink":"/program/14.408","title":"Fair
-  Housing Initiatives Program","popular_name":"(FHIP) Department of Housing and Urban
-  Development, Office of Fair Housing and Equal Opportunity","agency":"Department
-  of Housing and Urban Development","total_obs":38945457.0,"program_type":"assistance_listing"},{"cfda":"64.056","permalink":"/program/64.056","title":"Legal
+  of Justice","total_obs":86921273.0,"program_type":"assistance_listing"},{"cfda":"64.056","permalink":"/program/64.056","title":"Legal
   Services for Veterans Grants","popular_name":"LSV-H","agency":"Department of Veterans
   Affairs","total_obs":26800000.0,"program_type":"assistance_listing"},{"cfda":"14.401","permalink":"/program/14.401","title":"Fair
   Housing Assistance Program","popular_name":"(FHAP)","agency":"Department of Housing
@@ -515,6 +512,6 @@ programs: '[{"cfda":"64.033","permalink":"/program/64.033","title":"VA Supportiv
 title: Legal Services - Housing Rights
 total_num_agencies: 6
 total_num_applicant_types: 31
-total_num_programs: 18
-total_obs: 1059064654.0
+total_num_programs: 17
+total_obs: 1020119197.0
 ---

@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":2,"total_obs":1238541722.0},{"title":"Environmental
+agencies: '[{"title":"Department of the Interior","total_num_programs":2,"total_obs":1225282115.0},{"title":"Environmental
   Protection Agency","total_num_programs":3,"total_obs":1107910103.0},{"title":"Department
   of Energy","total_num_programs":3,"total_obs":107048382.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -479,7 +479,7 @@ parent_title: Energy
 permalink: /category/energy/general-information-services
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
   School Bus Program","popular_name":"Clean School Bus Program","agency":"Environmental
   Protection Agency","total_obs":939221379.0,"program_type":"assistance_listing"},{"cfda":"66.039","permalink":"/program/66.039","title":"Diesel
   Emission Reduction Act (DERA) National Grants","popular_name":"DERA National Grants","agency":"Environmental
@@ -508,5 +508,5 @@ title: General Information Services
 total_num_agencies: 7
 total_num_applicant_types: 35
 total_num_programs: 13
-total_obs: 2499917076.0
+total_obs: 2486657469.0
 ---

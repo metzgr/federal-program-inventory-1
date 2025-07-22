@@ -2,7 +2,7 @@
 agencies: '[{"title":"Environmental Protection Agency","total_num_programs":49,"total_obs":17540245626.0},{"title":"Department
   of Agriculture","total_num_programs":4,"total_obs":2655123400.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":2293444239.0},{"title":"Department
-  of the Interior","total_num_programs":6,"total_obs":1862646666.0},{"title":"Department
+  of the Interior","total_num_programs":6,"total_obs":1709823374.0},{"title":"Department
   of State","total_num_programs":5,"total_obs":1297356134.0},{"title":"Gulf Coast
   Ecosystem Restoration Council","total_num_programs":2,"total_obs":226607582.0},{"title":"National
   Aeronautics and Space Administration","total_num_programs":1,"total_obs":56711829.0},{"title":"Department
@@ -508,11 +508,10 @@ programs: '[{"cfda":"66.957","permalink":"/program/66.957","title":"Greenhouse G
   Protection Agency","total_obs":939221379.0,"program_type":"assistance_listing"},{"cfda":"66.202","permalink":"/program/66.202","title":"Congressionally
   Mandated Projects","popular_name":null,"agency":"Environmental Protection Agency","total_obs":675063889.0,"program_type":"assistance_listing"},{"cfda":"10.757","permalink":"/program/10.757","title":"Powering
   Affordable Clean Energy (PACE) Program","popular_name":"22001","agency":"Department
-  of Agriculture","total_obs":610000000.0,"program_type":"assistance_listing"},{"cfda":"15.018","permalink":"/program/15.018","title":"Energy
+  of Agriculture","total_obs":610000000.0,"program_type":"assistance_listing"},{"cfda":"66.605","permalink":"/program/66.605","title":"Performance
+  Partnership Grants","popular_name":"PPGs","agency":"Environmental Protection Agency","total_obs":497912123.0,"program_type":"assistance_listing"},{"cfda":"15.018","permalink":"/program/15.018","title":"Energy
   Community Revitalization Program (ECRP)","popular_name":"Orphaned Well Site Plugging
-  and Remediation, Methane Reduction, and Infrastructure Grants and Assistance","agency":"Department
-  of the Interior","total_obs":572223292.0,"program_type":"assistance_listing"},{"cfda":"66.605","permalink":"/program/66.605","title":"Performance
-  Partnership Grants","popular_name":"PPGs","agency":"Environmental Protection Agency","total_obs":497912123.0,"program_type":"assistance_listing"},{"cfda":"66.818","permalink":"/program/66.818","title":"Brownfields
+  and Remediation, and Restoration","agency":"Department of the Interior","total_obs":419400000.0,"program_type":"assistance_listing"},{"cfda":"66.818","permalink":"/program/66.818","title":"Brownfields
   Multipurpose, Assessment, Revolving Loan Fund, and Cleanup Cooperative Agreements","popular_name":"Brownfields
   MARC Grants","agency":"Environmental Protection Agency","total_obs":313406497.0,"program_type":"assistance_listing"},{"cfda":"66.615","permalink":"/program/66.615","title":"Environmental
   Justice Thriving Communities Grantmaking Program (EJ TCGM)","popular_name":null,"agency":"Environmental
@@ -561,12 +560,12 @@ programs: '[{"cfda":"66.957","permalink":"/program/66.957","title":"Greenhouse G
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.511","permalink":"/program/66.511","title":"Office
   of Research and Development Consolidated Research/Training/Fellowships","popular_name":"Not
   applicable","agency":"Environmental Protection Agency","total_obs":16905992.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"15.041","permalink":"/program/15.041","title":"Environmental
   Management Indian ","popular_name":null,"agency":"Department of the Interior","total_obs":11240495.0,"program_type":"assistance_listing"},{"cfda":"66.044","permalink":"/program/66.044","title":"Wildfire
   Smoke Preparedness in Community Buildings Grant Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":10670000.0,"program_type":"assistance_listing"},{"cfda":"66.961","permalink":"/program/66.961","title":"Superfund
-  State and Indian Tribe Combined Cooperative Agreements (Site-Specfic and Core)","popular_name":"Superfund
+  State and Indian Tribe Combined Cooperative Agreements (Site-Specific and Core)","popular_name":"Superfund
   Combined, Bulk or Block Cooperative Agreements","agency":"Environmental Protection
   Agency","total_obs":9382019.0,"program_type":"assistance_listing"},{"cfda":"81.092","permalink":"/program/81.092","title":"Remedial
   Action and Waste Management","popular_name":"Federal Facility Agreement","agency":"Department
@@ -651,5 +650,5 @@ title: Air Pollution Control
 total_num_agencies: 12
 total_num_applicant_types: 50
 total_num_programs: 75
-total_obs: 25980304501.0
+total_obs: 25827481209.0
 ---

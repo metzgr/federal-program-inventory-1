@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Energy","total_num_programs":17,"total_obs":9816447598.0},{"title":"Department
-  of the Interior","total_num_programs":4,"total_obs":1257065467.0},{"title":"Environmental
+  of the Interior","total_num_programs":4,"total_obs":1246004390.0},{"title":"Environmental
   Protection Agency","total_num_programs":4,"total_obs":1107910103.0},{"title":"Department
   of Transportation","total_num_programs":6,"total_obs":347602737.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":345589964.0},{"title":"Department
@@ -12,18 +12,17 @@ agencies: '[{"title":"Department of Energy","total_num_programs":17,"total_obs":
   Regional Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":32},{"title":"State (includes
-  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":30},{"title":"Private
+  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":29},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":26},{"title":"Local (includes State-designated
-  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":22},{"title":"Profit
-  organization","total_num_programs":18},{"title":"State","total_num_programs":16},{"title":"U.S.
+  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":21},{"title":"Profit
+  organization","total_num_programs":18},{"title":"State","total_num_programs":15},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":15},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":14},{"title":"Other public
   institution/organization","total_num_programs":14},{"title":"Small business (less
-  than 500 employees)","total_num_programs":14},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":13},{"title":"U.S.
-  Territories and possessions","total_num_programs":13},{"title":"Native American
-  Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":12},{"title":"Federal","total_num_programs":10},{"title":"Other
+  than 500 employees)","total_num_programs":14},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":13},{"title":"Native
+  American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
+  associations)","total_num_programs":12},{"title":"U.S. Territories and possessions","total_num_programs":12},{"title":"Federal","total_num_programs":10},{"title":"Other
   private institutions/organizations","total_num_programs":10},{"title":"Anyone/general
   public","total_num_programs":9},{"title":"Individual/Family","total_num_programs":9},{"title":"Interstate","total_num_programs":9},{"title":"Non-Government
   - General","total_num_programs":9},{"title":"Government - General","total_num_programs":8},{"title":"Intrastate","total_num_programs":8},{"title":"Specialized
@@ -497,7 +496,7 @@ programs: '[{"cfda":"81.254","permalink":"/program/81.254","title":"Grid Infrast
   R&D and Production (DOE IP), Accelerator R&D and Production (ARDAP))","agency":"Department
   of Energy","total_obs":1547434169.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"81.089","permalink":"/program/81.089","title":"Fossil
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"81.089","permalink":"/program/81.089","title":"Fossil
   Energy Research and Development","popular_name":"Fossil Energy and Carbon Management
   (FECM)","agency":"Department of Energy","total_obs":1109035314.0,"program_type":"assistance_listing"},{"cfda":"81.087","permalink":"/program/81.087","title":"Renewable
   Energy Research and Development","popular_name":"Renewable Energy (RE)","agency":"Department
@@ -532,7 +531,9 @@ programs: '[{"cfda":"81.254","permalink":"/program/81.254","title":"Grid Infrast
   Protection Agency","total_obs":28363597.0,"program_type":"assistance_listing"},{"cfda":"81.123","permalink":"/program/81.123","title":"National
   Nuclear Security Administration (NNSA) Minority Serving Institutions (MSI) Program","popular_name":"Minority
   Serving Institution Partnership Program (MSIPP) & Tribal Education Partnership Program
-  (TEPP)","agency":"Department of Energy","total_obs":20797670.0,"program_type":"assistance_listing"},{"cfda":"81.104","permalink":"/program/81.104","title":"Environmental
+  (TEPP)","agency":"Department of Energy","total_obs":20797670.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"81.104","permalink":"/program/81.104","title":"Environmental
   Remediation and Waste Processing and Disposal","popular_name":"Environmental Management","agency":"Department
   of Energy","total_obs":20642542.0,"program_type":"assistance_listing"},{"cfda":"81.113","permalink":"/program/81.113","title":"Defense
   Nuclear Nonproliferation Research","popular_name":"Defense Nuclear Nonproliferation","agency":"Department
@@ -543,9 +544,7 @@ programs: '[{"cfda":"81.254","permalink":"/program/81.254","title":"Grid Infrast
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"81.108","permalink":"/program/81.108","title":"Epidemiology
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"81.108","permalink":"/program/81.108","title":"Epidemiology
   and Other Health Studies Financial Assistance Program","popular_name":"Health Studies","agency":"Department
   of Energy","total_obs":14984062.0,"program_type":"assistance_listing"},{"cfda":"15.148","permalink":"/program/15.148","title":"Tribal
   Energy Development Capacity Grants","popular_name":"(TEDC )","agency":"Department
@@ -586,5 +585,5 @@ title: Research and Development
 total_num_agencies: 12
 total_num_applicant_types: 41
 total_num_programs: 45
-total_obs: 13452577315.0
+total_obs: 13441516238.0
 ---

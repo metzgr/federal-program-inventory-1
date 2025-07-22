@@ -4,7 +4,7 @@ agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":1,"to
   of Health and Human Services","total_num_programs":2,"total_obs":4170751425.0},{"title":"Department
   of Agriculture","total_num_programs":15,"total_obs":3731048019.0},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":2844556171.0},{"title":"Department
-  of the Interior","total_num_programs":5,"total_obs":1260498252.0},{"title":"Department
+  of the Interior","total_num_programs":5,"total_obs":1249437175.0},{"title":"Department
   of State","total_num_programs":5,"total_obs":1243552132.0},{"title":"Environmental
   Protection Agency","total_num_programs":5,"total_obs":1113176312.0},{"title":"Department
   of Education","total_num_programs":2,"total_obs":715455000.0},{"title":"Department
@@ -19,14 +19,14 @@ agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":1,"to
   Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":48},{"title":"State (includes
-  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":44},{"title":"Private
+  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":43},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":38},{"title":"Local (includes State-designated
-  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":36},{"title":"Profit
-  organization","total_num_programs":29},{"title":"State","total_num_programs":29},{"title":"Federally
+  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":35},{"title":"Profit
+  organization","total_num_programs":29},{"title":"State","total_num_programs":28},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":27},{"title":"Other public
   institution/organization","total_num_programs":26},{"title":"U.S. Territories and
-  possessions","total_num_programs":23},{"title":"U.S. Territories and possessions
+  possessions","total_num_programs":22},{"title":"U.S. Territories and possessions
   (includes institutions of higher education and hospitals)","total_num_programs":22},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":21},{"title":"Small business (less than 500
@@ -492,16 +492,16 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/energy
-sub_cats: '[{"title":"Conservation","permalink":"/category/energy/conservation","total_num_programs":37,"total_obs":19262837644.0},{"title":"Education
-  and Training","permalink":"/category/energy/education-and-training","total_num_programs":24,"total_obs":3254541215.0},{"title":"Facilities
-  and Equipment","permalink":"/category/energy/facilities-and-equipment","total_num_programs":30,"total_obs":52871321436.0},{"title":"General
-  Information Services","permalink":"/category/energy/general-information-services","total_num_programs":13,"total_obs":2499917076.0},{"title":"Research
-  and Development","permalink":"/category/energy/research-and-development","total_num_programs":45,"total_obs":13452577315.0},{"title":"Specialized
-  Technical Services","permalink":"/category/energy/specialized-technical-services","total_num_programs":19,"total_obs":21078902750.0}]'
+sub_cats: '[{"title":"Conservation","permalink":"/category/energy/conservation","total_num_programs":37,"total_obs":19249578037.0},{"title":"Education
+  and Training","permalink":"/category/energy/education-and-training","total_num_programs":24,"total_obs":3241281608.0},{"title":"Facilities
+  and Equipment","permalink":"/category/energy/facilities-and-equipment","total_num_programs":30,"total_obs":52858061829.0},{"title":"General
+  Information Services","permalink":"/category/energy/general-information-services","total_num_programs":13,"total_obs":2486657469.0},{"title":"Research
+  and Development","permalink":"/category/energy/research-and-development","total_num_programs":45,"total_obs":13441516238.0},{"title":"Specialized
+  Technical Services","permalink":"/category/energy/specialized-technical-services","total_num_programs":19,"total_obs":21065643143.0}]'
 title: Energy
 total_num_agencies: 18
 total_num_applicant_types: 41
 total_num_programs: 85
 total_num_sub_cats: 6
-total_obs: 84610061562.0
+total_obs: 84599000485.0
 ---

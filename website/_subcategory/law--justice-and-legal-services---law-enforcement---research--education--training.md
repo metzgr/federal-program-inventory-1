@@ -1,8 +1,8 @@
 ---
 agencies: '[{"title":"Department of Justice","total_num_programs":64,"total_obs":1504157508.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":1224448195.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":1211188588.0},{"title":"Department
   of State","total_num_programs":18,"total_obs":774878994.0},{"title":"Department
-  of Homeland Security","total_num_programs":5,"total_obs":474847893.0},{"title":"Department
+  of Homeland Security","total_num_programs":5,"total_obs":474722893.0},{"title":"Department
   of Transportation","total_num_programs":2,"total_obs":441241297.72},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":251840523.0},{"title":"Executive
   Office of the President","total_num_programs":4,"total_obs":22850000.0},{"title":"Department
@@ -25,11 +25,11 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   organization","total_num_programs":11},{"title":"Federal","total_num_programs":9},{"title":"Individual/Family","total_num_programs":9},{"title":"Small
   business (less than 500 employees)","total_num_programs":9},{"title":"Minority group","total_num_programs":6},{"title":"Anyone/general
   public","total_num_programs":5},{"title":"Interstate","total_num_programs":5},{"title":"Intrastate","total_num_programs":5},{"title":"City
-  or Township Government","total_num_programs":3},{"title":"County Government","total_num_programs":3},{"title":"For-Profit
+  or Township Government","total_num_programs":3},{"title":"County Government","total_num_programs":3},{"title":"Nonprofit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"For-Profit
   Organization (Other than Small Business)","total_num_programs":1},{"title":"Independent
   School District","total_num_programs":1},{"title":"Indian/Native American Tribal
-  Government (Other than Federally Recognized)","total_num_programs":1},{"title":"Nonprofit
-  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1}]'
+  Government (Other than Federally Recognized)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -488,7 +488,7 @@ parent_title: Law, Justice and Legal Services
 permalink: /category/law--justice-and-legal-services/law-enforcement---research--education--training
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"19.705","permalink":"/program/19.705","title":"Trans-National
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"19.705","permalink":"/program/19.705","title":"Trans-National
   Crime","popular_name":null,"agency":"Department of State","total_obs":404199999.0,"program_type":"assistance_listing"},{"cfda":"20.600","permalink":"/program/20.600","title":"State
   and Community Highway Safety","popular_name":null,"agency":"Department of Transportation","total_obs":394770000.0,"program_type":"assistance_listing"},{"cfda":"97.008","permalink":"/program/97.008","title":"Non-Profit
   Security Program","popular_name":"NSGP","agency":"Department of Homeland Security","total_obs":360000000.0,"program_type":"assistance_listing"},{"cfda":"16.753","permalink":"/program/16.753","title":"Congressionally
@@ -526,7 +526,7 @@ programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, So
   Sexual Assault Kit Initiative","popular_name":"SAKI","agency":"Department of Justice","total_obs":44532160.0,"program_type":"assistance_listing"},{"cfda":"16.526","permalink":"/program/16.526","title":"OVW
   Technical Assistance Initiative","popular_name":"TA Program","agency":"Department
   of Justice","total_obs":43378861.0,"program_type":"assistance_listing"},{"cfda":"16.610","permalink":"/program/16.610","title":"Regional
-  Information Sharing Systems","popular_name":"(RISS)","agency":"Department of Justice","total_obs":41360000.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  Information Sharing Systems","popular_name":"(RISS)","agency":"Department of Justice","total_obs":41360000.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"16.839","permalink":"/program/16.839","title":"STOP
   School Violence","popular_name":null,"agency":"Department of Justice","total_obs":36621379.0,"program_type":"assistance_listing"},{"cfda":"19.901","permalink":"/program/19.901","title":"Export
   Control and Related Border Security","popular_name":"Export Control and Related
@@ -602,10 +602,10 @@ programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, So
   of Homeland Security","total_obs":1472893.0,"program_type":"assistance_listing"},{"cfda":"16.031","permalink":"/program/16.031","title":"Emmett
   Till Cold Case Investigations Program","popular_name":null,"agency":"Department
   of Justice","total_obs":1420000.0,"program_type":"assistance_listing"},{"cfda":"19.888","permalink":"/program/19.888","title":"Global
-  Defense Reform Program","popular_name":"GDRP","agency":"Department of State","total_obs":1000000.0,"program_type":"assistance_listing"},{"cfda":"97.007","permalink":"/program/97.007","title":"Homeland
+  Defense Reform Program","popular_name":"GDRP","agency":"Department of State","total_obs":1000000.0,"program_type":"assistance_listing"},{"cfda":"19.036","permalink":"/program/19.036","title":"Cultural
+  Antiquities Task Force","popular_name":"CATF","agency":"Department of State","total_obs":499999.0,"program_type":"assistance_listing"},{"cfda":"97.007","permalink":"/program/97.007","title":"Homeland
   Security Preparedness Technical Assistance Program","popular_name":"(HSPTAP)","agency":"Department
-  of Homeland Security","total_obs":525000.0,"program_type":"assistance_listing"},{"cfda":"19.036","permalink":"/program/19.036","title":"Cultural
-  Antiquities Task Force","popular_name":"CATF","agency":"Department of State","total_obs":499999.0,"program_type":"assistance_listing"},{"cfda":"93.843","permalink":"/program/93.843","title":"ACL
+  of Homeland Security","total_obs":400000.0,"program_type":"assistance_listing"},{"cfda":"93.843","permalink":"/program/93.843","title":"ACL
   Assistive Technology State Grants for Protection and Advocacy","popular_name":null,"agency":"Department
   of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"16.032","permalink":"/program/16.032","title":"Academic-based
   Drug Field Testing and Training Initiative","popular_name":null,"agency":"Department
@@ -664,5 +664,5 @@ title: Law Enforcement - Research, Education, Training
 total_num_agencies: 9
 total_num_applicant_types: 45
 total_num_programs: 97
-total_obs: 4694264410.719999
+total_obs: 4680879803.719999
 ---

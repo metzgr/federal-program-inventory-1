@@ -1,6 +1,6 @@
 ---
-agencies: '[{"title":"Department of Agriculture","total_num_programs":244,"total_obs":56797619963.92},{"title":"Department
-  of the Interior","total_num_programs":22,"total_obs":665843566.0},{"title":"Department
+agencies: '[{"title":"Department of Agriculture","total_num_programs":244,"total_obs":56515185405.92},{"title":"Department
+  of the Interior","total_num_programs":22,"total_obs":662843566.0},{"title":"Department
   of Defense","total_num_programs":8,"total_obs":464935814.0},{"title":"Environmental
   Protection Agency","total_num_programs":6,"total_obs":96095603.0},{"title":"Department
   of Commerce","total_num_programs":6,"total_obs":86410839.0},{"title":"Inter-American
@@ -11,30 +11,29 @@ agencies: '[{"title":"Department of Agriculture","total_num_programs":244,"total
   Permitting Improvement Steering Council","total_num_programs":1,"total_obs":5000000.0},{"title":"Department
   of Energy","total_num_programs":1,"total_obs":4542269.0},{"title":"Department of
   Justice","total_num_programs":1,"total_obs":3000000.0},{"title":"Department of State","total_num_programs":6,"total_obs":1000000.0},{"title":"Northern
-  Border Regional Commission","total_num_programs":1,"total_obs":0.0},{"title":"Federal
-  Financial Institutions Examination Council Appraisal Subcommittee","total_num_programs":1,"total_obs":0.0},{"title":"Denali
+  Border Regional Commission","total_num_programs":1,"total_obs":0.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":145},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":130},{"title":"State (includes District of Columbia,
+  hospitals)","total_num_programs":129},{"title":"State (includes District of Columbia,
   public institutions of higher education and hospitals)","total_num_programs":123},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":116},{"title":"Federally Recognized Indian Tribal
-  Governments","total_num_programs":113},{"title":"State","total_num_programs":92},{"title":"Other
+  and hospitals","total_num_programs":115},{"title":"Federally Recognized Indian Tribal
+  Governments","total_num_programs":114},{"title":"State","total_num_programs":92},{"title":"Other
   public institution/organization","total_num_programs":86},{"title":"Individual/Family","total_num_programs":69},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":69},{"title":"Profit organization","total_num_programs":67},{"title":"Other
+  associations)","total_num_programs":68},{"title":"Profit organization","total_num_programs":66},{"title":"Other
   private institutions/organizations","total_num_programs":51},{"title":"U.S. Territories
   and possessions (includes institutions of higher education and hospitals)","total_num_programs":50},{"title":"Federal","total_num_programs":44},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":41},{"title":"Small business
-  (less than 500 employees)","total_num_programs":38},{"title":"U.S. Territories and
+  nonprofit institution/organization","total_num_programs":40},{"title":"Small business
+  (less than 500 employees)","total_num_programs":37},{"title":"U.S. Territories and
   possessions","total_num_programs":33},{"title":"Government - General","total_num_programs":31},{"title":"Anyone/general
   public","total_num_programs":27},{"title":"Non-Government - General","total_num_programs":26},{"title":"Minority
   group","total_num_programs":25},{"title":"Specialized group (e.g. health professionals,
   students, veterans)","total_num_programs":21},{"title":"Sponsored organization","total_num_programs":16},{"title":"Interstate","total_num_programs":13},{"title":"Intrastate","total_num_programs":13},{"title":"Nonprofit
-  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":7},{"title":"City
-  or Township Government","total_num_programs":3},{"title":"County Government","total_num_programs":3},{"title":"For-Profit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":7},{"title":"County
+  Government","total_num_programs":4},{"title":"City or Township Government","total_num_programs":3},{"title":"For-Profit
   Organization (Other than Small Business)","total_num_programs":3},{"title":"Indian/Native
   American Tribally Designated Organization","total_num_programs":3},{"title":"Nonprofit
   without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":3},{"title":"Alaska
@@ -499,16 +498,16 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/agricultural
-sub_cats: '[{"title":"Forestry","permalink":"/category/agricultural/forestry","total_num_programs":82,"total_obs":9176615100.0},{"title":"Marketing","permalink":"/category/agricultural/marketing","total_num_programs":71,"total_obs":5107655996.25},{"title":"Production
-  and Operation","permalink":"/category/agricultural/production-and-operation","total_num_programs":79,"total_obs":33577664563.95},{"title":"Research
-  and Development","permalink":"/category/agricultural/research-and-development","total_num_programs":77,"total_obs":5191257639.0},{"title":"Resource
-  Conservation and Development","permalink":"/category/agricultural/resource-conservation-and-development","total_num_programs":74,"total_obs":16181399275.0},{"title":"Stabilization
-  and Conservation Service","permalink":"/category/agricultural/stabilization-and-conservation-service","total_num_programs":50,"total_obs":31873907057.12},{"title":"Technical
-  Assistance, Information and Services","permalink":"/category/agricultural/technical-assistance--information-and-services","total_num_programs":112,"total_obs":8243878731.8}]'
+sub_cats: '[{"title":"Forestry","permalink":"/category/agricultural/forestry","total_num_programs":82,"total_obs":9157564100.0},{"title":"Marketing","permalink":"/category/agricultural/marketing","total_num_programs":71,"total_obs":5107891890.25},{"title":"Production
+  and Operation","permalink":"/category/agricultural/production-and-operation","total_num_programs":79,"total_obs":33577900457.95},{"title":"Research
+  and Development","permalink":"/category/agricultural/research-and-development","total_num_programs":77,"total_obs":5191493533.0},{"title":"Resource
+  Conservation and Development","permalink":"/category/agricultural/resource-conservation-and-development","total_num_programs":74,"total_obs":16155551275.0},{"title":"Stabilization
+  and Conservation Service","permalink":"/category/agricultural/stabilization-and-conservation-service","total_num_programs":50,"total_obs":31633135605.12},{"title":"Technical
+  Assistance, Information and Services","permalink":"/category/agricultural/technical-assistance--information-and-services","total_num_programs":111,"total_obs":7980259279.8}]'
 title: Agricultural
-total_num_agencies: 16
+total_num_agencies: 15
 total_num_applicant_types: 53
-total_num_programs: 303
+total_num_programs: 302
 total_num_sub_cats: 7
-total_obs: 58235507330.92
+total_obs: 57950072772.92
 ---

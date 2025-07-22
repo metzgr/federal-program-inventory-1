@@ -1,33 +1,33 @@
 ---
-agencies: '[{"title":"Department of Health and Human Services","total_num_programs":62,"total_obs":27016406374.0},{"title":"Department
+agencies: '[{"title":"Department of Health and Human Services","total_num_programs":60,"total_obs":26470813374.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":251840523.0},{"title":"Department
   of Justice","total_num_programs":1,"total_obs":30193359.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":16999998.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":16999997.0},{"title":"Department
   of Agriculture","total_num_programs":3,"total_obs":9411907.0},{"title":"Environmental
   Protection Agency","total_num_programs":1,"total_obs":80000.0},{"title":"Department
   of State","total_num_programs":3,"total_obs":0.0},{"title":"Department of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0},{"title":"Corporation for National
   and Community Service","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":60},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":51},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":45},{"title":"Local
+  of higher education and hospitals)","total_num_programs":59},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":50},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":43},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":38},{"title":"Native American Organizations
+  and hospitals","total_num_programs":37},{"title":"Native American Organizations
   (includes Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":28},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":27},{"title":"U.S. Territories
   and possessions (includes institutions of higher education and hospitals)","total_num_programs":26},{"title":"Other
-  public institution/organization","total_num_programs":24},{"title":"U.S. Territories
-  and possessions","total_num_programs":21},{"title":"Profit organization","total_num_programs":20},{"title":"State","total_num_programs":18},{"title":"Individual/Family","total_num_programs":17},{"title":"Small
+  public institution/organization","total_num_programs":24},{"title":"Profit organization","total_num_programs":20},{"title":"U.S.
+  Territories and possessions","total_num_programs":20},{"title":"State","total_num_programs":18},{"title":"Small
   business (less than 500 employees)","total_num_programs":17},{"title":"Other private
   institutions/organizations","total_num_programs":16},{"title":"Specialized group
-  (e.g. health professionals, students, veterans)","total_num_programs":16},{"title":"Federal","total_num_programs":14},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":13},{"title":"Non-Government
-  - General","total_num_programs":12},{"title":"Government - General","total_num_programs":8},{"title":"Interstate","total_num_programs":8},{"title":"Intrastate","total_num_programs":8},{"title":"Minority
-  group","total_num_programs":8},{"title":"Sponsored organization","total_num_programs":5},{"title":"Anyone/general
-  public","total_num_programs":4},{"title":"City or Township Government","total_num_programs":1},{"title":"County
-  Government","total_num_programs":1}]'
+  (e.g. health professionals, students, veterans)","total_num_programs":16},{"title":"Individual/Family","total_num_programs":15},{"title":"Quasi-public
+  nonprofit institution/organization","total_num_programs":13},{"title":"Federal","total_num_programs":12},{"title":"Non-Government
+  - General","total_num_programs":12},{"title":"Interstate","total_num_programs":8},{"title":"Intrastate","total_num_programs":8},{"title":"Minority
+  group","total_num_programs":8},{"title":"Government - General","total_num_programs":7},{"title":"Sponsored
+  organization","total_num_programs":5},{"title":"Anyone/general public","total_num_programs":4},{"title":"City
+  or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -503,9 +503,7 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
   of Health and Human Services","total_obs":983000000.0,"program_type":"assistance_listing"},{"cfda":"93.838","permalink":"/program/93.838","title":"Lung
   Diseases Research","popular_name":null,"agency":"Department of Health and Human
   Services","total_obs":726526831.0,"program_type":"assistance_listing"},{"cfda":"93.867","permalink":"/program/93.867","title":"Vision
-  Research","popular_name":"NEI","agency":"Department of Health and Human Services","total_obs":697992579.0,"program_type":"assistance_listing"},{"cfda":"93.846","permalink":"/program/93.846","title":"Arthritis,
-  Musculoskeletal and Skin Diseases Research","popular_name":"NIAMS","agency":"Department
-  of Health and Human Services","total_obs":545593000.0,"program_type":"assistance_listing"},{"cfda":"93.136","permalink":"/program/93.136","title":"Injury
+  Research","popular_name":"NEI","agency":"Department of Health and Human Services","total_obs":697992579.0,"program_type":"assistance_listing"},{"cfda":"93.136","permalink":"/program/93.136","title":"Injury
   Prevention and Control Research and State and Community Based Programs","popular_name":"National
   Center for Injury Prevention and Control","agency":"Department of Health and Human
   Services","total_obs":457078397.0,"program_type":"assistance_listing"},{"cfda":"93.113","permalink":"/program/93.113","title":"Environmental
@@ -555,7 +553,8 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
   of Health and Human Services","total_obs":51280552.0,"program_type":"assistance_listing"},{"cfda":"93.143","permalink":"/program/93.143","title":"NIEHS
   Superfund Hazardous Substances_Basic Research and Education","popular_name":"NIEHS
   Superfund Research Program","agency":"Department of Health and Human Services","total_obs":48775723.0,"program_type":"assistance_listing"},{"cfda":"93.211","permalink":"/program/93.211","title":"Telehealth
-  Programs","popular_name":"Telehealth Programs Department of Health and Human Services","agency":"Department
+  Programs","popular_name":"Telehealth Network Grant Program, Telehealth Resource
+  Centers Program (national and regional), Licensure Portability Grant Program, Evidence-Bas","agency":"Department
   of Health and Human Services","total_obs":36406582.0,"program_type":"assistance_listing"},{"cfda":"93.135","permalink":"/program/93.135","title":"Centers
   for Research and Demonstration for Health Promotion and Disease Prevention","popular_name":"(Prevention
   Research Centers)","agency":"Department of Health and Human Services","total_obs":31656962.0,"program_type":"assistance_listing"},{"cfda":"16.593","permalink":"/program/16.593","title":"Residential
@@ -565,7 +564,7 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
   of Health and Human Services","total_obs":21176712.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"15.616","permalink":"/program/15.616","title":"Clean
-  Vessel Act ","popular_name":"CVA","agency":"Department of the Interior","total_obs":16999998.0,"program_type":"assistance_listing"},{"cfda":"93.088","permalink":"/program/93.088","title":"Advancing
+  Vessel Act ","popular_name":"CVA","agency":"Department of the Interior","total_obs":16999997.0,"program_type":"assistance_listing"},{"cfda":"93.088","permalink":"/program/93.088","title":"Advancing
   System Improvements for Key Issues in Women''s Health","popular_name":"Improving
   Health of Women and Girls","agency":"Department of Health and Human Services","total_obs":15340000.0,"program_type":"assistance_listing"},{"cfda":"93.240","permalink":"/program/93.240","title":"State
   Capacity Building","popular_name":"(Site Specific Activities Cooperative Agreement
@@ -628,9 +627,7 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
   Programs to Combat Human Trafficking","popular_name":"International Programs to
   Combat Human Trafficking","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.345","permalink":"/program/93.345","title":"Leading
   Edge Acceleration Projects (LEAP) in Health Information Technology","popular_name":"LEAP","agency":"Department
-  of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.232","permalink":"/program/93.232","title":"Loan
-  Repayment Program for General Research","popular_name":"(NIH General Research Loan
-  Repayment Program; GR-LRP)","agency":"Department of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.983","permalink":"/program/93.983","title":"Market
+  of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.983","permalink":"/program/93.983","title":"Market
   Transparency Project for Health IT Interoperability Services Cooperative Agreement
   Program","popular_name":"Market Transparency Project","agency":"Department of Health
   and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.982","permalink":"/program/93.982","title":"Mental
@@ -656,6 +653,6 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
 title: Specialized Health Research and Training
 total_num_agencies: 11
 total_num_applicant_types: 41
-total_num_programs: 76
-total_obs: 27344932161.0
+total_num_programs: 74
+total_obs: 26799339160.0
 ---

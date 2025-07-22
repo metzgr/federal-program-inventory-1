@@ -513,7 +513,7 @@ programs: '[{"cfda":"93.600","permalink":"/program/93.600","title":"Head Start",
   Health Service Educational Loan Repayment","popular_name":"(IHS Loan Repayment Program)","agency":"Department
   of Health and Human Services","total_obs":50365761.0,"program_type":"assistance_listing"},{"cfda":"66.306","permalink":"/program/66.306","title":"Environmental
   Justice Collaborative Problem-Solving Cooperative Agreement Program","popular_name":"EJCPS","agency":"Environmental
-  Protection Agency","total_obs":43192607.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  Protection Agency","total_obs":43192607.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"45.301","permalink":"/program/45.301","title":"Museums
   for America","popular_name":"MFA; ME; Inspire","agency":"The Institute of Museum
   and Library Services","total_obs":30014398.0,"program_type":"assistance_listing"},{"cfda":"81.123","permalink":"/program/81.123","title":"National

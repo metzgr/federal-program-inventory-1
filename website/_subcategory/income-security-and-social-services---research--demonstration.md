@@ -491,7 +491,7 @@ programs: '[{"cfda":"93.652","permalink":"/program/93.652","title":"Adoption Opp
   for Medicare and Medicaid Services (CMS) Research, Demonstrations and Evaluations","popular_name":"(CMS
   Research)","agency":"Department of Health and Human Services","total_obs":1423865.0,"program_type":"assistance_listing"},{"cfda":"94.017","permalink":"/program/94.017","title":"AmeriCorps
   Seniors Senior Demonstration Program (FGP) 94.017","popular_name":"Senior Demonstration
-  Program (FGP) 94.017","agency":"Corporation for National and Community Service","total_obs":518674.0,"program_type":"assistance_listing"},{"cfda":"94.026","permalink":"/program/94.026","title":"AmeriCorps
+  Program (SDP) 94.017","agency":"Corporation for National and Community Service","total_obs":518674.0,"program_type":"assistance_listing"},{"cfda":"94.026","permalink":"/program/94.026","title":"AmeriCorps
   National Service and Civic Engagement Research Competition 94.026","popular_name":"National
   Service and Civic Engagement Research Competition 94.026","agency":"Corporation
   for National and Community Service","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"16.601","permalink":"/program/16.601","title":"Corrections

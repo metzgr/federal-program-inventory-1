@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Health and Human Services","total_num_programs":82,"total_obs":1669151312095.0},{"title":"Social
   Security Administration","total_num_programs":8,"total_obs":1500386644069.0},{"title":"Department
-  of Veterans Affairs","total_num_programs":23,"total_obs":175683383268.17},{"title":"Department
+  of Veterans Affairs","total_num_programs":23,"total_obs":175849474268.17},{"title":"Department
   of Agriculture","total_num_programs":15,"total_obs":39212688220.0},{"title":"Federal
   Communications Commission","total_num_programs":3,"total_obs":26618000000.0},{"title":"Railroad
   Retirement Board","total_num_programs":1,"total_obs":14809000000.0},{"title":"Department
@@ -16,7 +16,7 @@ agencies: '[{"title":"Department of Health and Human Services","total_num_progra
   of State","total_num_programs":7,"total_obs":140000000.0},{"title":"Department of
   the Interior","total_num_programs":6,"total_obs":116372662.0},{"title":"Department
   of the Treasury","total_num_programs":9,"total_obs":67187202.0},{"title":"Small
-  Business Administration","total_num_programs":2,"total_obs":18681205.0},{"title":"Equal
+  Business Administration","total_num_programs":2,"total_obs":25199998.0},{"title":"Equal
   Employment Opportunity Commission","total_num_programs":1,"total_obs":0.0},{"title":"Department
   of Energy","total_num_programs":1,"total_obs":0.0},{"title":"Department of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0}]'
@@ -495,7 +495,7 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/income-security-and-social-services
-sub_cats: '[{"title":"Disabled Veterans","permalink":"/category/income-security-and-social-services/disabled-veterans","total_num_programs":20,"total_obs":161112150172.79},{"title":"Disabled
+sub_cats: '[{"title":"Disabled Veterans","permalink":"/category/income-security-and-social-services/disabled-veterans","total_num_programs":20,"total_obs":161118668965.79},{"title":"Disabled
   and Handicapped Services","permalink":"/category/income-security-and-social-services/disabled-and-handicapped-services","total_num_programs":26,"total_obs":1240728126655.0},{"title":"Emergency
   and Crisis Assistance","permalink":"/category/income-security-and-social-services/emergency-and-crisis-assistance","total_num_programs":30,"total_obs":15605648946.0},{"title":"Families
   and Child Welfare Services","permalink":"/category/income-security-and-social-services/families-and-child-welfare-services","total_num_programs":43,"total_obs":49323372386.0},{"title":"Indian
@@ -510,12 +510,12 @@ sub_cats: '[{"title":"Disabled Veterans","permalink":"/category/income-security-
   Family and Child Welfare Services","permalink":"/category/income-security-and-social-services/specialized-family-and-child-welfare-services","total_num_programs":27,"total_obs":21486569272.0},{"title":"Specialized
   Services","permalink":"/category/income-security-and-social-services/specialized-services","total_num_programs":39,"total_obs":837202684.0},{"title":"Training
   Assistance","permalink":"/category/income-security-and-social-services/training-assistance","total_num_programs":22,"total_obs":18423215278.0},{"title":"Veterans
-  Services","permalink":"/category/income-security-and-social-services/veterans-services","total_num_programs":27,"total_obs":18079281250.170002},{"title":"Youth
+  Services","permalink":"/category/income-security-and-social-services/veterans-services","total_num_programs":27,"total_obs":18251891043.170002},{"title":"Youth
   Services","permalink":"/category/income-security-and-social-services/youth-services","total_num_programs":17,"total_obs":5378126689.0}]'
 title: Income Security and Social Services
 total_num_agencies: 22
 total_num_applicant_types: 43
 total_num_programs: 216
 total_num_sub_cats: 19
-total_obs: 3432338155542.17
+total_obs: 3432510765335.17
 ---

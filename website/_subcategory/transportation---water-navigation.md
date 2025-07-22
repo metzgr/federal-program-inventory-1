@@ -2,7 +2,7 @@
 agencies: '[{"title":"Department of Transportation","total_num_programs":13,"total_obs":4127775937.0},{"title":"Environmental
   Protection Agency","total_num_programs":5,"total_obs":1140434114.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":16999998.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":16999997.0},{"title":"Department
   of Veterans Affairs","total_num_programs":1,"total_obs":6365411.0},{"title":"Department
   of the Treasury","total_num_programs":2,"total_obs":5111212.0},{"title":"Northern
   Border Regional Commission","total_num_programs":1,"total_obs":0.0},{"title":"Department
@@ -506,7 +506,7 @@ programs: '[{"cfda":"20.937","permalink":"/program/20.937","title":"National Inf
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"20.945","permalink":"/program/20.945","title":"Asset
   Concessions and Innovative Finance Assistance","popular_name":"Innovative Finance
   and Asset Concession Grant Program","agency":"Department of Transportation","total_obs":18860000.0,"program_type":"assistance_listing"},{"cfda":"15.616","permalink":"/program/15.616","title":"Clean
-  Vessel Act ","popular_name":"CVA","agency":"Department of the Interior","total_obs":16999998.0,"program_type":"assistance_listing"},{"cfda":"20.824","permalink":"/program/20.824","title":"Cable
+  Vessel Act ","popular_name":"CVA","agency":"Department of the Interior","total_obs":16999997.0,"program_type":"assistance_listing"},{"cfda":"20.824","permalink":"/program/20.824","title":"Cable
   Security Fleet Program","popular_name":"CSF Program","agency":"Department of Transportation","total_obs":10000000.0,"program_type":"assistance_listing"},{"cfda":"20.825","permalink":"/program/20.825","title":"Tanker
   Security Program","popular_name":"TSP","agency":"Department of Transportation","total_obs":9700000.0,"program_type":"assistance_listing"},{"cfda":"64.035","permalink":"/program/64.035","title":"Veterans
   Transportation Program","popular_name":"Veterans Transportation Program/Grants for
@@ -533,5 +533,5 @@ title: Water Navigation
 total_num_agencies: 9
 total_num_applicant_types: 37
 total_num_programs: 26
-total_obs: 5316686672.0
+total_obs: 5316686671.0
 ---

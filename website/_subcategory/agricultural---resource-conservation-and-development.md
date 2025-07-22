@@ -1,6 +1,6 @@
 ---
-agencies: '[{"title":"Department of Agriculture","total_num_programs":42,"total_obs":15351464374.0},{"title":"Department
-  of the Interior","total_num_programs":14,"total_obs":395499298.0},{"title":"Department
+agencies: '[{"title":"Department of Agriculture","total_num_programs":42,"total_obs":15328616374.0},{"title":"Department
+  of the Interior","total_num_programs":14,"total_obs":392499298.0},{"title":"Department
   of Defense","total_num_programs":5,"total_obs":209595291.0},{"title":"Department
   of Commerce","total_num_programs":2,"total_obs":85500106.0},{"title":"Environmental
   Protection Agency","total_num_programs":3,"total_obs":83340206.0},{"title":"Inter-American
@@ -11,14 +11,14 @@ agencies: '[{"title":"Department of Agriculture","total_num_programs":42,"total_
   of State","total_num_programs":2,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"State (includes District of Columbia, public institutions
   of higher education and hospitals)","total_num_programs":36},{"title":"Local (includes
-  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":34},{"title":"Public
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":33},{"title":"Public
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":30},{"title":"Private nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":28},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":25},{"title":"State","total_num_programs":21},{"title":"Other
+  Recognized Indian Tribal Governments","total_num_programs":26},{"title":"State","total_num_programs":21},{"title":"Other
   public institution/organization","total_num_programs":16},{"title":"Native American
   Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":15},{"title":"U.S. Territories and possessions
+  associations)","total_num_programs":14},{"title":"U.S. Territories and possessions
   (includes institutions of higher education and hospitals)","total_num_programs":13},{"title":"Individual/Family","total_num_programs":11},{"title":"Profit
   organization","total_num_programs":10},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":10},{"title":"Intrastate","total_num_programs":8},{"title":"Other
   private institutions/organizations","total_num_programs":8},{"title":"Sponsored
@@ -26,8 +26,8 @@ applicant_types: '[{"title":"State (includes District of Columbia, public instit
   public","total_num_programs":5},{"title":"Government - General","total_num_programs":4},{"title":"U.S.
   Territories and possessions","total_num_programs":4},{"title":"Small business (less
   than 500 employees)","total_num_programs":3},{"title":"Specialized group (e.g. health
-  professionals, students, veterans)","total_num_programs":3},{"title":"Minority group","total_num_programs":2},{"title":"City
-  or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1},{"title":"For-Profit
+  professionals, students, veterans)","total_num_programs":3},{"title":"County Government","total_num_programs":2},{"title":"Minority
+  group","total_num_programs":2},{"title":"City or Township Government","total_num_programs":1},{"title":"For-Profit
   Organization (Other than Small Business)","total_num_programs":1},{"title":"Nonprofit
   with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1}]'
 categories_subcategories:
@@ -519,24 +519,24 @@ programs: '[{"cfda":"10.912","permalink":"/program/10.912","title":"Environmenta
   Programs - Great Lakes Restoration Initiative","popular_name":"Great Lakes Restoration
   Initiative (GLRI)","agency":"Environmental Protection Agency","total_obs":68185831.0,"program_type":"assistance_listing"},{"cfda":"10.215","permalink":"/program/10.215","title":"Sustainable
   Agriculture Research and Education","popular_name":"(SARE)","agency":"Department
-  of Agriculture","total_obs":45020388.0,"program_type":"assistance_listing"},{"cfda":"10.916","permalink":"/program/10.916","title":"Watershed
-  Rehabilitation Program","popular_name":"(Watershed Rehabilitation; PL-566 Watershed
-  Program)","agency":"Department of Agriculture","total_obs":42551000.0,"program_type":"assistance_listing"},{"cfda":"12.021","permalink":"/program/12.021","title":"Army
+  of Agriculture","total_obs":45020388.0,"program_type":"assistance_listing"},{"cfda":"12.021","permalink":"/program/12.021","title":"Army
   National Guard Army Compatible Use Buffer Program","popular_name":"NGB ACUB","agency":"Department
   of Defense","total_obs":36789704.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
   Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":31000000.0,"program_type":"assistance_listing"},{"cfda":"15.034","permalink":"/program/15.034","title":"Agriculture
   on Indian Lands","popular_name":null,"agency":"Department of the Interior","total_obs":28995266.0,"program_type":"assistance_listing"},{"cfda":"15.676","permalink":"/program/15.676","title":"Youth
   Engagement, Education, and Employment ","popular_name":"YEEEP","agency":"Department
-  of the Interior","total_obs":27000000.0,"program_type":"assistance_listing"},{"cfda":"10.443","permalink":"/program/10.443","title":"Outreach
+  of the Interior","total_obs":24000000.0,"program_type":"assistance_listing"},{"cfda":"10.443","permalink":"/program/10.443","title":"Outreach
   and Assistance for Socially Disadvantaged and Veteran Farmers and Ranchers","popular_name":"USDA
   2501 Grant Program ","agency":"Department of Agriculture","total_obs":22600000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"10.028","permalink":"/program/10.028","title":"Wildlife
-  Services","popular_name":null,"agency":"Department of Agriculture","total_obs":19726814.0,"program_type":"assistance_listing"},{"cfda":"10.691","permalink":"/program/10.691","title":"Good
+  Services","popular_name":null,"agency":"Department of Agriculture","total_obs":19726814.0,"program_type":"assistance_listing"},{"cfda":"10.916","permalink":"/program/10.916","title":"Watershed
+  Rehabilitation Program","popular_name":"(Watershed Rehabilitation; PL-566 Watershed
+  Program)","agency":"Department of Agriculture","total_obs":19703000.0,"program_type":"assistance_listing"},{"cfda":"10.691","permalink":"/program/10.691","title":"Good
   Neighbor Authority ","popular_name":"Good Neighbor","agency":"Department of Agriculture","total_obs":18312837.0,"program_type":"assistance_listing"},{"cfda":"10.913","permalink":"/program/10.913","title":"Farm
   and Ranch Lands Protection Program","popular_name":"FRPP","agency":"Department of
   Agriculture","total_obs":15124000.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"10.763","permalink":"/program/10.763","title":"Emergency
   Community Water Assistance Grants","popular_name":"Emergency Community Water Assistance
   Grants","agency":"Department of Agriculture","total_obs":14048600.0,"program_type":"assistance_listing"},{"cfda":"10.960","permalink":"/program/10.960","title":"Technical
@@ -619,5 +619,5 @@ title: Resource Conservation and Development
 total_num_agencies: 11
 total_num_applicant_types: 43
 total_num_programs: 74
-total_obs: 16181399275.0
+total_obs: 16155551275.0
 ---

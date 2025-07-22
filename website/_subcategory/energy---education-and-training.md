@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":2,"total_obs":1238541722.0},{"title":"Environmental
+agencies: '[{"title":"Department of the Interior","total_num_programs":2,"total_obs":1225282115.0},{"title":"Environmental
   Protection Agency","total_num_programs":3,"total_obs":1107910103.0},{"title":"Department
   of Energy","total_num_programs":11,"total_obs":438831998.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":251840523.0},{"title":"Department
@@ -483,7 +483,7 @@ parent_title: Energy
 permalink: /category/energy/education-and-training
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
   School Bus Program","popular_name":"Clean School Bus Program","agency":"Environmental
   Protection Agency","total_obs":939221379.0,"program_type":"assistance_listing"},{"cfda":"12.333","permalink":"/program/12.333","title":"Advanced
   Manufacturing Technology - Office of the Secretary of Defense (OSD), Manufacturing
@@ -537,5 +537,5 @@ title: Education and Training
 total_num_agencies: 9
 total_num_applicant_types: 39
 total_num_programs: 24
-total_obs: 3254541215.0
+total_obs: 3241281608.0
 ---

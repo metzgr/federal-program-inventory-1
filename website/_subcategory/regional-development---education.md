@@ -1,9 +1,9 @@
 ---
 agencies: '[{"title":"Federal Communications Commission","total_num_programs":2,"total_obs":3923000000.0},{"title":"Department
-  of the Interior","total_num_programs":2,"total_obs":1224448195.0},{"title":"Corporation
+  of the Interior","total_num_programs":2,"total_obs":1211188588.0},{"title":"Corporation
   for National and Community Service","total_num_programs":2,"total_obs":727891588.0},{"title":"Department
   of Commerce","total_num_programs":3,"total_obs":358230693.0},{"title":"Department
-  of Housing and Urban Development","total_num_programs":7,"total_obs":251826812.0},{"title":"Department
+  of Housing and Urban Development","total_num_programs":6,"total_obs":212881355.0},{"title":"Department
   of Labor","total_num_programs":1,"total_obs":171000000.0},{"title":"Department of
   Defense","total_num_programs":1,"total_obs":70952933.0},{"title":"National Aeronautics
   and Space Administration","total_num_programs":1,"total_obs":56711829.0},{"title":"Southeast
@@ -13,11 +13,11 @@ agencies: '[{"title":"Federal Communications Commission","total_num_programs":2,
   Commission","total_num_programs":1,"total_obs":0.0},{"title":"Appalachian Regional
   Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":19},{"title":"Local (includes
-  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":17},{"title":"Private
-  nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":15},{"title":"Other public institution/organization","total_num_programs":14},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":14},{"title":"State","total_num_programs":10},{"title":"Federally
+  of higher education and hospitals)","total_num_programs":18},{"title":"Local (includes
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":16},{"title":"Other
+  public institution/organization","total_num_programs":14},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":14},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":13},{"title":"State","total_num_programs":10},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":8},{"title":"Other private
   institutions/organizations","total_num_programs":8},{"title":"Quasi-public nonprofit
   institution/organization","total_num_programs":8},{"title":"Interstate","total_num_programs":7},{"title":"Intrastate","total_num_programs":7},{"title":"U.S.
@@ -489,7 +489,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   FUND - SCHOOLS and LIBRARIES","popular_name":"UNIVERSAL SERVICE - E-RATE","agency":"Federal
   Communications Commission","total_obs":2977000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"32.003","permalink":"/program/32.003","title":"UNIVERSAL
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"32.003","permalink":"/program/32.003","title":"UNIVERSAL
   SERVICE FUND - LIFELINE","popular_name":"UNIVERSAL SERVICE - Lifeline","agency":"Federal
   Communications Commission","total_obs":946000000.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
   State and National 94.006","popular_name":"AmeriCorps State and National","agency":"Corporation
@@ -504,10 +504,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   4 Capacity Building ","agency":"Department of Housing and Urban Development","total_obs":83000000.0,"program_type":"assistance_listing"},{"cfda":"12.599","permalink":"/program/12.599","title":"Congressionally
   Directed Assistance","popular_name":" Annual Congressionally Directed Assistance","agency":"Department
   of Defense","total_obs":70952933.0,"program_type":"assistance_listing"},{"cfda":"43.002","permalink":"/program/43.002","title":"Aeronautics","popular_name":"Aeronautics","agency":"National
-  Aeronautics and Space Administration","total_obs":56711829.0,"program_type":"assistance_listing"},{"cfda":"14.408","permalink":"/program/14.408","title":"Fair
-  Housing Initiatives Program","popular_name":"(FHIP) Department of Housing and Urban
-  Development, Office of Fair Housing and Equal Opportunity","agency":"Department
-  of Housing and Urban Development","total_obs":38945457.0,"program_type":"assistance_listing"},{"cfda":"14.418","permalink":"/program/14.418","title":"Private
+  Aeronautics and Space Administration","total_obs":56711829.0,"program_type":"assistance_listing"},{"cfda":"14.418","permalink":"/program/14.418","title":"Private
   Enforcement Initiatives ","popular_name":"(FHIP PEI) United States Department of
   Housing and Urban Development - Office of Fair Housing and Equal Opportunity","agency":"Department
   of Housing and Urban Development","total_obs":24779250.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
@@ -516,7 +513,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"94.013","permalink":"/program/94.013","title":"AmeriCorps
   Volunteers In Service to America 94.013","popular_name":"94.013 Volunteers In Service
   To America","agency":"Corporation for National and Community Service","total_obs":13275048.0,"program_type":"assistance_listing"},{"cfda":"11.303","permalink":"/program/11.303","title":"Economic
@@ -544,6 +541,6 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
 title: Education
 total_num_agencies: 13
 total_num_applicant_types: 39
-total_num_programs: 27
-total_obs: 6837870544.0
+total_num_programs: 26
+total_obs: 6785665480.0
 ---

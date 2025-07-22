@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Transportation","total_num_programs":7,"total_obs":1515419814.0},{"title":"Department
-  of the Interior","total_num_programs":4,"total_obs":1258549711.0},{"title":"Department
+  of the Interior","total_num_programs":4,"total_obs":1247488634.0},{"title":"Department
   of Commerce","total_num_programs":6,"total_obs":967651742.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":714616540.0},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":251840523.0},{"title":"Environmental
@@ -17,22 +17,20 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   of higher education and hospitals)","total_num_programs":31},{"title":"Local (includes
   State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":28},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":26},{"title":"State (includes District of Columbia,
-  public institutions of higher education and hospitals)","total_num_programs":23},{"title":"Other
-  public institution/organization","total_num_programs":22},{"title":"Federally Recognized
-  Indian Tribal Governments","total_num_programs":20},{"title":"State","total_num_programs":19},{"title":"Quasi-public
+  hospitals)","total_num_programs":26},{"title":"Other public institution/organization","total_num_programs":22},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":22},{"title":"Federally
+  Recognized Indian Tribal Governments","total_num_programs":20},{"title":"State","total_num_programs":18},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":16},{"title":"Interstate","total_num_programs":15},{"title":"Other
   private institutions/organizations","total_num_programs":15},{"title":"U.S. Territories
   and possessions (includes institutions of higher education and hospitals)","total_num_programs":15},{"title":"Intrastate","total_num_programs":14},{"title":"Government
   - General","total_num_programs":12},{"title":"Native American Organizations (includes
   Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":11},{"title":"Non-Government
-  - General","total_num_programs":11},{"title":"Profit organization","total_num_programs":10},{"title":"U.S.
-  Territories and possessions","total_num_programs":10},{"title":"Federal","total_num_programs":9},{"title":"Small
-  business (less than 500 employees)","total_num_programs":7},{"title":"Sponsored
-  organization","total_num_programs":6},{"title":"Specialized group (e.g. health professionals,
-  students, veterans)","total_num_programs":3},{"title":"Anyone/general public","total_num_programs":2},{"title":"Minority
-  group","total_num_programs":2},{"title":"City or Township Government","total_num_programs":1},{"title":"County
-  Government","total_num_programs":1},{"title":"Individual/Family","total_num_programs":1},{"title":"Special
+  - General","total_num_programs":11},{"title":"Profit organization","total_num_programs":10},{"title":"Federal","total_num_programs":9},{"title":"U.S.
+  Territories and possessions","total_num_programs":9},{"title":"Small business (less
+  than 500 employees)","total_num_programs":7},{"title":"Sponsored organization","total_num_programs":6},{"title":"Specialized
+  group (e.g. health professionals, students, veterans)","total_num_programs":3},{"title":"Anyone/general
+  public","total_num_programs":2},{"title":"Minority group","total_num_programs":2},{"title":"City
+  or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1},{"title":"Individual/Family","total_num_programs":1},{"title":"Special
   District Government","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
@@ -493,7 +491,7 @@ permalink: /category/regional-development/planning-and-technical-assistance
 programs: '[{"cfda":"20.939","permalink":"/program/20.939","title":"Safe Streets and
   Roads for All","popular_name":"SS4A","agency":"Department of Transportation","total_obs":1261494000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
   State and National 94.006","popular_name":"AmeriCorps State and National","agency":"Corporation
   for National and Community Service","total_obs":714616540.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
   Adjustment Assistance","popular_name":"Economic Adjustment Assistance","agency":"Department
@@ -518,15 +516,15 @@ programs: '[{"cfda":"20.939","permalink":"/program/20.939","title":"Safe Streets
   of Transportation","total_obs":35468000.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
   Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":31000000.0,"program_type":"assistance_listing"},{"cfda":"11.302","permalink":"/program/11.302","title":"Economic
   Development Support for Planning Organizations","popular_name":"Planning Investments
-  and Comprehensive Economic Development Strategies\r\n","agency":"Department of Commerce","total_obs":30320496.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  and Comprehensive Economic Development Strategies\r\n","agency":"Department of Commerce","total_obs":30320496.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"97.111","permalink":"/program/97.111","title":"Regional
   Catastrophic Preparedness Grant Program (RCPGP)","popular_name":"(RCPGP)","agency":"Department
   of Homeland Security","total_obs":11999999.0,"program_type":"assistance_listing"},{"cfda":"20.531","permalink":"/program/20.531","title":"Technical
@@ -588,5 +586,5 @@ title: Planning and Technical Assistance
 total_num_agencies: 15
 total_num_applicant_types: 42
 total_num_programs: 50
-total_obs: 5226165506.0
+total_obs: 5215104429.0
 ---

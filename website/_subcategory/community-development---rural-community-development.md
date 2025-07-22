@@ -4,7 +4,7 @@ agencies: '[{"title":"Department of Commerce","total_num_programs":4,"total_obs"
   of Agriculture","total_num_programs":35,"total_obs":11188018064.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":7,"total_obs":3106965983.0},{"title":"Department
   of Education","total_num_programs":2,"total_obs":1330094030.0},{"title":"Department
-  of the Interior","total_num_programs":6,"total_obs":1233838933.0},{"title":"Department
+  of the Interior","total_num_programs":6,"total_obs":1213941032.0},{"title":"Department
   of the Treasury","total_num_programs":8,"total_obs":751141373.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":583069205.0},{"title":"Environmental
   Protection Agency","total_num_programs":7,"total_obs":253927801.0},{"title":"Department
@@ -518,7 +518,7 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   Century Community Learning Centers","popular_name":null,"agency":"Department of
   Education","total_obs":1330094030.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"32.003","permalink":"/program/32.003","title":"UNIVERSAL
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"32.003","permalink":"/program/32.003","title":"UNIVERSAL
   SERVICE FUND - LIFELINE","popular_name":"UNIVERSAL SERVICE - Lifeline","agency":"Federal
   Communications Commission","total_obs":946000000.0,"program_type":"assistance_listing"},{"cfda":"10.752","permalink":"/program/10.752","title":"Rural
   eConnectivity Pilot Program","popular_name":"ReConnect Program","agency":"Department
@@ -595,9 +595,7 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   of Agriculture","total_obs":10000000.0,"program_type":"assistance_listing"},{"cfda":"10.767","permalink":"/program/10.767","title":"Intermediary
   Relending Program","popular_name":"IRP","agency":"Department of Agriculture","total_obs":9999999.0,"program_type":"assistance_listing"},{"cfda":"21.029","permalink":"/program/21.029","title":"Coronavirus
   Capital Projects Fund","popular_name":"CPF, Capital Projects Fund","agency":"Department
-  of the Treasury","total_obs":8582460.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
-  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
-  of the Interior","total_obs":7663756.0,"program_type":"assistance_listing"},{"cfda":"10.521","permalink":"/program/10.521","title":"Children,
+  of the Treasury","total_obs":8582460.0,"program_type":"assistance_listing"},{"cfda":"10.521","permalink":"/program/10.521","title":"Children,
   Youth and Families At-Risk","popular_name":"CYFAR, CYFAR-SCP and CYFAR-PDTA","agency":"Department
   of Agriculture","total_obs":7662907.0,"program_type":"assistance_listing"},{"cfda":"10.870","permalink":"/program/10.870","title":"Rural
   Microentrepreneur Assistance Program","popular_name":"RMAP","agency":"Department
@@ -627,7 +625,9 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   Disabilities ","popular_name":"(Disability Grant Program)","agency":"Department
   of Justice","total_obs":1425000.0,"program_type":"assistance_listing"},{"cfda":"10.864","permalink":"/program/10.864","title":"Grant
   Program to Establish a Fund for Financing Water and Wastewater Projects","popular_name":"Revolving
-  Fund Program (RFP)","agency":"Department of Agriculture","total_obs":1200000.0,"program_type":"assistance_listing"},{"cfda":"15.014","permalink":"/program/15.014","title":"Supporting
+  Fund Program (RFP)","agency":"Department of Agriculture","total_obs":1200000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
+  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
+  of the Interior","total_obs":1025462.0,"program_type":"assistance_listing"},{"cfda":"15.014","permalink":"/program/15.014","title":"Supporting
   the Lower Mississippi Delta Initiative","popular_name":"LMDI","agency":"Department
   of the Interior","total_obs":227700.0,"program_type":"assistance_listing"},{"cfda":"66.717","permalink":"/program/66.717","title":"Source
   Reduction Assistance","popular_name":"SRA Grants","agency":"Environmental Protection
@@ -684,5 +684,5 @@ title: Rural Community Development
 total_num_agencies: 19
 total_num_applicant_types: 51
 total_num_programs: 97
-total_obs: 67885473222.0
+total_obs: 67865575321.0
 ---

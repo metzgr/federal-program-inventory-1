@@ -527,8 +527,8 @@ programs: '[{"cfda":"10.555","permalink":"/program/10.555","title":"National Sch
   the Management of Chronic Conditions in Schools","popular_name":"Improving Student
   Health and Academic Achievement through Nutrition, Physical Activity and the Management
   of Chronic Conditions in Schools","agency":"Department of Health and Human Services","total_obs":7800000.0,"program_type":"assistance_listing"},{"cfda":"10.935","permalink":"/program/10.935","title":"Urban
-  Agriculture and Innovative Production","popular_name":"Urban Agriculture and Innovative
-  Production (UAIP)","agency":"Department of Agriculture","total_obs":5400000.0,"program_type":"assistance_listing"},{"cfda":"10.535","permalink":"/program/10.535","title":"SNAP
+  Agriculture and Innovative Production Grants Program (UAIP)","popular_name":"Urban
+  Agriculture and Innovative Production (UAIP)","agency":"Department of Agriculture","total_obs":5400000.0,"program_type":"assistance_listing"},{"cfda":"10.535","permalink":"/program/10.535","title":"SNAP
   Fraud Framework Implementation Grant","popular_name":"SNAP Fraud Framework Implementation
   Grant","agency":"Department of Agriculture","total_obs":4956517.0,"program_type":"assistance_listing"},{"cfda":"10.185","permalink":"/program/10.185","title":"Local
   Food for Schools Cooperative Agreement Program","popular_name":"LFS","agency":"Department

@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Agriculture","total_num_programs":8,"total_obs":23543528119.0},{"title":"Small
-  Business Administration","total_num_programs":5,"total_obs":1112500000.0},{"title":"National
+  Business Administration","total_num_programs":2,"total_obs":1393794912.0},{"title":"National
   Aeronautics and Space Administration","total_num_programs":1,"total_obs":921764930.0},{"title":"Department
   of Commerce","total_num_programs":7,"total_obs":607037097.0},{"title":"Gulf Coast
   Ecosystem Restoration Council","total_num_programs":1,"total_obs":151139749.0},{"title":"Inter-American
@@ -15,21 +15,22 @@ agencies: '[{"title":"Department of Agriculture","total_num_programs":8,"total_o
 applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, excludes
   institutions of higher education and hospitals","total_num_programs":20},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":17},{"title":"State (includes
-  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":16},{"title":"Profit
-  organization","total_num_programs":15},{"title":"Public nonprofit institution/organization
-  (includes institutions of higher education and hospitals)","total_num_programs":14},{"title":"Private
+  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":16},{"title":"Public
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":13},{"title":"State","total_num_programs":12},{"title":"Other
+  hospitals)","total_num_programs":14},{"title":"Private nonprofit institution/organization
+  (includes institutions of higher education and hospitals)","total_num_programs":13},{"title":"Profit
+  organization","total_num_programs":13},{"title":"State","total_num_programs":12},{"title":"Other
   public institution/organization","total_num_programs":11},{"title":"Non-Government
   - General","total_num_programs":10},{"title":"Other private institutions/organizations","total_num_programs":10},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":9},{"title":"Interstate","total_num_programs":8},{"title":"Intrastate","total_num_programs":8},{"title":"U.S.
   Territories and possessions","total_num_programs":8},{"title":"U.S. Territories
   and possessions (includes institutions of higher education and hospitals)","total_num_programs":8},{"title":"Individual/Family","total_num_programs":7},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":7},{"title":"Small business (less than 500 employees)","total_num_programs":7},{"title":"Federal","total_num_programs":6},{"title":"Government
-  - General","total_num_programs":6},{"title":"Specialized group (e.g. health professionals,
-  students, veterans)","total_num_programs":6},{"title":"Anyone/general public","total_num_programs":5},{"title":"Sponsored
-  organization","total_num_programs":5},{"title":"Minority group","total_num_programs":2}]'
+  associations)","total_num_programs":7},{"title":"Federal","total_num_programs":6},{"title":"Government
+  - General","total_num_programs":6},{"title":"Anyone/general public","total_num_programs":5},{"title":"Small
+  business (less than 500 employees)","total_num_programs":5},{"title":"Specialized
+  group (e.g. health professionals, students, veterans)","total_num_programs":5},{"title":"Sponsored
+  organization","total_num_programs":5},{"title":"Minority group","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -490,7 +491,7 @@ programs: '[{"cfda":"10.450","permalink":"/program/10.450","title":"Crop Insuran
   Insurance","agency":"Department of Agriculture","total_obs":21289063459.0,"program_type":"assistance_listing"},{"cfda":"10.768","permalink":"/program/10.768","title":"Business
   and Industry Guaranteed Loans","popular_name":"B&I Guaranteed Loan Program","agency":"Department
   of Agriculture","total_obs":1828800290.0,"program_type":"assistance_listing"},{"cfda":"59.008","permalink":"/program/59.008","title":"Disaster
-  Assistance Loans","popular_name":"7(b) Loans","agency":"Small Business Administration","total_obs":1100000000.0,"program_type":"assistance_listing"},{"cfda":"43.001","permalink":"/program/43.001","title":"Science","popular_name":"SMD","agency":"National
+  Assistance Loans","popular_name":"7(b) Loans","agency":"Small Business Administration","total_obs":1386897912.0,"program_type":"assistance_listing"},{"cfda":"43.001","permalink":"/program/43.001","title":"Science","popular_name":"SMD","agency":"National
   Aeronautics and Space Administration","total_obs":921764930.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
   Adjustment Assistance","popular_name":"Economic Adjustment Assistance","agency":"Department
   of Commerce","total_obs":446598957.0,"program_type":"assistance_listing"},{"cfda":"10.056","permalink":"/program/10.056","title":"Farm
@@ -513,12 +514,12 @@ programs: '[{"cfda":"10.450","permalink":"/program/10.450","title":"Crop Insuran
   Agriculture Cotton Trust Fund","popular_name":"Pima Agriculture Cotton Trust Fund","agency":"Department
   of Agriculture","total_obs":16000000.0,"program_type":"assistance_listing"},{"cfda":"11.313","permalink":"/program/11.313","title":"Trade
   Adjustment Assistance for Firms","popular_name":"Trade Adjustment Assistance for
-  Firms","agency":"Department of Commerce","total_obs":14601502.0,"program_type":"assistance_listing"},{"cfda":"59.050","permalink":"/program/59.050","title":"Prime
-  Technical Assistance","popular_name":"PRIME","agency":"Small Business Administration","total_obs":12500000.0,"program_type":"assistance_listing"},{"cfda":"97.111","permalink":"/program/97.111","title":"Regional
+  Firms","agency":"Department of Commerce","total_obs":14601502.0,"program_type":"assistance_listing"},{"cfda":"97.111","permalink":"/program/97.111","title":"Regional
   Catastrophic Preparedness Grant Program (RCPGP)","popular_name":"(RCPGP)","agency":"Department
   of Homeland Security","total_obs":11999999.0,"program_type":"assistance_listing"},{"cfda":"12.618","permalink":"/program/12.618","title":"Community
   Economic Adjustment Assistance for Establishment or Expansion of a Military Installation","popular_name":null,"agency":"Department
-  of Defense","total_obs":9036005.0,"program_type":"assistance_listing"},{"cfda":"12.607","permalink":"/program/12.607","title":"Community
+  of Defense","total_obs":9036005.0,"program_type":"assistance_listing"},{"cfda":"59.050","permalink":"/program/59.050","title":"Prime
+  Technical Assistance","popular_name":"PRIME","agency":"Small Business Administration","total_obs":6897000.0,"program_type":"assistance_listing"},{"cfda":"12.607","permalink":"/program/12.607","title":"Community
   Economic Adjustment Assistance for Realignment or Closure of a Military Installation","popular_name":null,"agency":"Department
   of Defense","total_obs":5360259.0,"program_type":"assistance_listing"},{"cfda":"21.027","permalink":"/program/21.027","title":"CORONAVIRUS
   STATE AND LOCAL FISCAL RECOVERY FUNDS","popular_name":"Coronavirus State and Local
@@ -539,9 +540,7 @@ programs: '[{"cfda":"10.450","permalink":"/program/10.450","title":"Crop Insuran
   (PSP3)","agency":"Department of the Treasury","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"21.019","permalink":"/program/21.019","title":"Coronavirus
   Relief Fund","popular_name":"CRF","agency":"Department of the Treasury","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.124","permalink":"/program/19.124","title":"East
   Asia and Pacific Grants Program","popular_name":"U.S. Department of State, Bureau
-  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"59.072","permalink":"/program/59.072","title":"Economic
-  Injury Disaster Loan Emergency Advance","popular_name":"Emergency Federal Financial
-  Assistance; Disaster Prevention and Relief","agency":"Small Business Administration","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"11.013","permalink":"/program/11.013","title":"Education
+  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"11.013","permalink":"/program/11.013","title":"Education
   Quality Award Ambassadorship","popular_name":null,"agency":"Department of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.204","permalink":"/program/19.204","title":"Fishermen''s
   Guaranty Fund","popular_name":"(Section 7)","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"85.750","permalink":"/program/85.750","title":"IAF
   Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"21.032","permalink":"/program/21.032","title":"Local
@@ -553,17 +552,15 @@ programs: '[{"cfda":"10.450","permalink":"/program/10.450","title":"Crop Insuran
   of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"66.721","permalink":"/program/66.721","title":"Reducing
   Embodied Greenhouse Gas Emissions for Construction Materials and Products","popular_name":"Environmental
   Product Declaration (EPD) Assistance for Embodied Carbon in Construction Materials","agency":"Environmental
-  Protection Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"59.078","permalink":"/program/59.078","title":"Restaurant
-  Revitalization Fund","popular_name":"RRF","agency":"Small Business Administration","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"11.023","permalink":"/program/11.023","title":"Science,
+  Protection Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"11.023","permalink":"/program/11.023","title":"Science,
   Technology, Engineering, and Mathematics (STEM) Talent Challenge Program","popular_name":"STEM
   Talent Challenge","agency":"Department of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
-  Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"59.075","permalink":"/program/59.075","title":"Shuttered
-  Venue Operators Grant Program","popular_name":"SVOG","agency":"Small Business Administration","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.989","permalink":"/program/19.989","title":"State/African
+  Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.989","permalink":"/program/19.989","title":"State/African
   Regional - Other Economic Support Funds (ESF) Projects/Programs","popular_name":"African
   Regional ESF - Other","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Economic Injury and Natural Disaster
 total_num_agencies: 14
 total_num_applicant_types: 39
-total_num_programs: 42
-total_obs: 26438227369.0
+total_num_programs: 39
+total_obs: 26719522281.0
 ---

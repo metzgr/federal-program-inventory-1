@@ -481,9 +481,9 @@ fiscal_year: '2024'
 parent_permalink: /category/income-security-and-social-services
 parent_title: Income Security and Social Services
 permalink: /category/income-security-and-social-services/prevention
-programs: '[{"cfda":"93.778","permalink":"/program/93.778","title":"Medical Assistance
-  Program","popular_name":"(Medicaid; Title XIX)","agency":"Department of Health and
-  Human Services","total_obs":689565730000.0,"program_type":"assistance_listing"},{"cfda":"93.774","permalink":"/program/93.774","title":"Medicare
+programs: '[{"cfda":"93.778","permalink":"/program/93.778","title":"Grants to States
+  for Medicaid","popular_name":"(Medicaid; Title XIX)","agency":"Department of Health
+  and Human Services","total_obs":689565730000.0,"program_type":"assistance_listing"},{"cfda":"93.774","permalink":"/program/93.774","title":"Medicare
   Supplementary Medical Insurance","popular_name":"(Medicare Part B)","agency":"Department
   of Health and Human Services","total_obs":519953000000.0,"program_type":"assistance_listing"},{"cfda":"93.773","permalink":"/program/93.773","title":"Medicare
   Hospital Insurance","popular_name":"(Medicare Part A)","agency":"Department of Health

@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":10,"total_obs":161022316034.79},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":70952933.0},{"title":"Small Business
-  Administration","total_num_programs":2,"total_obs":18681205.0},{"title":"Social
+  Administration","total_num_programs":2,"total_obs":25199998.0},{"title":"Social
   Security Administration","total_num_programs":1,"total_obs":200000.0},{"title":"Department
   of the Treasury","total_num_programs":1,"total_obs":0.0},{"title":"Department of
   Health and Human Services","total_num_programs":3,"total_obs":0.0},{"title":"Denali
@@ -502,11 +502,11 @@ programs: '[{"cfda":"64.109","permalink":"/program/64.109","title":"Veterans Com
   Services for Veterans Grants","popular_name":"LSV-H","agency":"Department of Veterans
   Affairs","total_obs":26800000.0,"program_type":"assistance_listing"},{"cfda":"59.044","permalink":"/program/59.044","title":"Veterans
   Outreach Program","popular_name":"Veterans Business Outreach Center Program (VBOC)","agency":"Small
-  Business Administration","total_obs":13220000.0,"program_type":"assistance_listing"},{"cfda":"64.126","permalink":"/program/64.126","title":"Native
-  American Veteran Direct Loan Program","popular_name":"(VA Native American Veterans
-  Housing Loan Program)","agency":"Department of Veterans Affairs","total_obs":9108140.0,"program_type":"assistance_listing"},{"cfda":"59.066","permalink":"/program/59.066","title":"Transition
+  Business Administration","total_obs":13220000.0,"program_type":"assistance_listing"},{"cfda":"59.066","permalink":"/program/59.066","title":"Transition
   Assistance \u2013 Entrepreneurship Track (Boots to Business)","popular_name":"Boots
-  to Business (B2B)","agency":"Small Business Administration","total_obs":5461205.0,"program_type":"assistance_listing"},{"cfda":"96.020","permalink":"/program/96.020","title":"Special
+  to Business (B2B)","agency":"Small Business Administration","total_obs":11979998.0,"program_type":"assistance_listing"},{"cfda":"64.126","permalink":"/program/64.126","title":"Native
+  American Veteran Direct Loan Program","popular_name":"(VA Native American Veterans
+  Housing Loan Program)","agency":"Department of Veterans Affairs","total_obs":9108140.0,"program_type":"assistance_listing"},{"cfda":"96.020","permalink":"/program/96.020","title":"Special
   Benefits for Certain World War II Veterans","popular_name":"(Special Veterans Benefits;
   SVB)","agency":"Social Security Administration","total_obs":200000.0,"program_type":"assistance_listing"},{"cfda":"94.026","permalink":"/program/94.026","title":"AmeriCorps
   National Service and Civic Engagement Research Competition 94.026","popular_name":"National
@@ -527,5 +527,5 @@ title: Disabled Veterans
 total_num_agencies: 8
 total_num_applicant_types: 37
 total_num_programs: 20
-total_obs: 161112150172.79
+total_obs: 161118668965.79
 ---

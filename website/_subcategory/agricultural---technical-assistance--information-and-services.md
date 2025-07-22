@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of Agriculture","total_num_programs":90,"total_obs":7872876706.8},{"title":"Department
+agencies: '[{"title":"Department of Agriculture","total_num_programs":90,"total_obs":7609257254.8},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":252433360.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Agency for
   International Development","total_num_programs":1,"total_obs":31000000.0},{"title":"Environmental
@@ -10,30 +10,29 @@ agencies: '[{"title":"Department of Agriculture","total_num_programs":90,"total_
   Justice","total_num_programs":1,"total_obs":3000000.0},{"title":"Department of the
   Interior","total_num_programs":1,"total_obs":1736191.0},{"title":"Department of
   State","total_num_programs":5,"total_obs":1000000.0},{"title":"Northern Border Regional
-  Commission","total_num_programs":1,"total_obs":0.0},{"title":"Federal Financial
-  Institutions Examination Council Appraisal Subcommittee","total_num_programs":1,"total_obs":0.0},{"title":"Department
-  of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
+  Commission","total_num_programs":1,"total_obs":0.0},{"title":"Department of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali
+  Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":62},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":52},{"title":"State
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":51},{"title":"State
   (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":48},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
   and hospitals","total_num_programs":41},{"title":"Federally Recognized Indian Tribal
-  Governments","total_num_programs":32},{"title":"Other public institution/organization","total_num_programs":30},{"title":"State","total_num_programs":27},{"title":"U.S.
+  Governments","total_num_programs":33},{"title":"Other public institution/organization","total_num_programs":30},{"title":"State","total_num_programs":27},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":22},{"title":"Other
-  private institutions/organizations","total_num_programs":18},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":18},{"title":"Native American
+  private institutions/organizations","total_num_programs":18},{"title":"Native American
   Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":17},{"title":"Profit organization","total_num_programs":15},{"title":"Federal","total_num_programs":13},{"title":"Individual/Family","total_num_programs":13},{"title":"Anyone/general
+  associations)","total_num_programs":17},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":17},{"title":"Profit
+  organization","total_num_programs":14},{"title":"Federal","total_num_programs":13},{"title":"Individual/Family","total_num_programs":13},{"title":"Anyone/general
   public","total_num_programs":10},{"title":"Government - General","total_num_programs":10},{"title":"Non-Government
   - General","total_num_programs":10},{"title":"Specialized group (e.g. health professionals,
-  students, veterans)","total_num_programs":8},{"title":"U.S. Territories and possessions","total_num_programs":8},{"title":"Interstate","total_num_programs":7},{"title":"Small
-  business (less than 500 employees)","total_num_programs":6},{"title":"Sponsored
-  organization","total_num_programs":6},{"title":"Intrastate","total_num_programs":5},{"title":"Minority
-  group","total_num_programs":4},{"title":"City or Township Government","total_num_programs":2},{"title":"County
-  Government","total_num_programs":2},{"title":"For-Profit Organization (Other than
-  Small Business)","total_num_programs":2},{"title":"Independent School District","total_num_programs":2},{"title":"Indian/Native
-  American Tribal Government (Other than Federally Recognized)","total_num_programs":2},{"title":"Indian/Native
+  students, veterans)","total_num_programs":8},{"title":"U.S. Territories and possessions","total_num_programs":8},{"title":"Interstate","total_num_programs":7},{"title":"Sponsored
+  organization","total_num_programs":6},{"title":"Intrastate","total_num_programs":5},{"title":"Small
+  business (less than 500 employees)","total_num_programs":5},{"title":"Minority group","total_num_programs":4},{"title":"City
+  or Township Government","total_num_programs":2},{"title":"County Government","total_num_programs":2},{"title":"For-Profit
+  Organization (Other than Small Business)","total_num_programs":2},{"title":"Independent
+  School District","total_num_programs":2},{"title":"Indian/Native American Tribal
+  Government (Other than Federally Recognized)","total_num_programs":2},{"title":"Indian/Native
   American Tribally Designated Organization","total_num_programs":2},{"title":"Nonprofit
   with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Nonprofit
   without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Special
@@ -518,10 +517,7 @@ programs: '[{"cfda":"10.610","permalink":"/program/10.610","title":"Export Guara
   of Defense","total_obs":251840523.0,"program_type":"assistance_listing"},{"cfda":"10.203","permalink":"/program/10.203","title":"Payments
   to Agricultural Experiment Stations Under the Hatch Act","popular_name":"Hatch Act
   ; The Hatch Act of 1887; The Hatch Act of 1887 (Regular Research); The Hatch Act
-  of 1887 (Multistate Research Fund)","agency":"Department of Agriculture","total_obs":246812381.0,"program_type":"assistance_listing"},{"cfda":"10.928","permalink":"/program/10.928","title":"Emergency
-  Watershed Protection Program - Floodplain Easements \u2013 Disaster Relief Appropriations
-  Act ","popular_name":"EWPP-FPE Additional Supplemental Appropriations for Disaster
-  Relief Act 2019","agency":"Department of Agriculture","total_obs":245496000.0,"program_type":"assistance_listing"},{"cfda":"10.606","permalink":"/program/10.606","title":"Food
+  of 1887 (Multistate Research Fund)","agency":"Department of Agriculture","total_obs":246812381.0,"program_type":"assistance_listing"},{"cfda":"10.606","permalink":"/program/10.606","title":"Food
   for Progress","popular_name":"FFPr","agency":"Department of Agriculture","total_obs":218500000.0,"program_type":"assistance_listing"},{"cfda":"10.601","permalink":"/program/10.601","title":"Market
   Access Program","popular_name":"MAP","agency":"Department of Agriculture","total_obs":200000000.0,"program_type":"assistance_listing"},{"cfda":"10.754","permalink":"/program/10.754","title":"Higher
   Blends Infrastructure Incentive Program","popular_name":"HBIIP","agency":"Department
@@ -536,9 +532,7 @@ programs: '[{"cfda":"10.610","permalink":"/program/10.610","title":"Export Guara
   of Agriculture","total_obs":80340393.0,"program_type":"assistance_listing"},{"cfda":"10.351","permalink":"/program/10.351","title":"Rural
   Business Development Grant","popular_name":"RBDG","agency":"Department of Agriculture","total_obs":57916937.0,"program_type":"assistance_listing"},{"cfda":"10.761","permalink":"/program/10.761","title":"Water
   and Waste Technical Assistance and Training Grants","popular_name":"Water & Waste
-  Disposal TAT Grants","agency":"Department of Agriculture","total_obs":49798979.0,"program_type":"assistance_listing"},{"cfda":"10.916","permalink":"/program/10.916","title":"Watershed
-  Rehabilitation Program","popular_name":"(Watershed Rehabilitation; PL-566 Watershed
-  Program)","agency":"Department of Agriculture","total_obs":42551000.0,"program_type":"assistance_listing"},{"cfda":"10.951","permalink":"/program/10.951","title":"Census
+  Disposal TAT Grants","agency":"Department of Agriculture","total_obs":49798979.0,"program_type":"assistance_listing"},{"cfda":"10.951","permalink":"/program/10.951","title":"Census
   of Agriculture","popular_name":"NASDA","agency":"Department of Agriculture","total_obs":32600000.0,"program_type":"assistance_listing"},{"cfda":"10.175","permalink":"/program/10.175","title":"Farmers
   Market and Local Food Promotion Program","popular_name":"Farmers Market Promotion
   Program or Local Food Promotion Program","agency":"Department of Agriculture","total_obs":31394500.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
@@ -555,11 +549,13 @@ programs: '[{"cfda":"10.610","permalink":"/program/10.610","title":"Export Guara
   Agreements and Orders","popular_name":null,"agency":"Department of Agriculture","total_obs":21501000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"10.028","permalink":"/program/10.028","title":"Wildlife
-  Services","popular_name":null,"agency":"Department of Agriculture","total_obs":19726814.0,"program_type":"assistance_listing"},{"cfda":"10.500","permalink":"/program/10.500","title":"Cooperative
+  Services","popular_name":null,"agency":"Department of Agriculture","total_obs":19726814.0,"program_type":"assistance_listing"},{"cfda":"10.916","permalink":"/program/10.916","title":"Watershed
+  Rehabilitation Program","popular_name":"(Watershed Rehabilitation; PL-566 Watershed
+  Program)","agency":"Department of Agriculture","total_obs":19703000.0,"program_type":"assistance_listing"},{"cfda":"10.500","permalink":"/program/10.500","title":"Cooperative
   Extension Service","popular_name":"CES","agency":"Department of Agriculture","total_obs":15557000.0,"program_type":"assistance_listing"},{"cfda":"10.907","permalink":"/program/10.907","title":"Snow
   Survey and Water Supply Forecasting","popular_name":"Snow Surveys","agency":"Department
   of Agriculture","total_obs":14751000.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"10.960","permalink":"/program/10.960","title":"Technical
   Agricultural Assistance","popular_name":"Technical Agricultural Assistance","agency":"Department
   of Agriculture","total_obs":12931193.0,"program_type":"assistance_listing"},{"cfda":"10.525","permalink":"/program/10.525","title":"Farm
@@ -586,8 +582,8 @@ programs: '[{"cfda":"10.610","permalink":"/program/10.610","title":"Export Guara
   of Agriculture","total_obs":5700000.0,"program_type":"assistance_listing"},{"cfda":"10.326","permalink":"/program/10.326","title":"Capacity
   Building for Non-Land Grant Colleges of Agriculture (NLGCA)","popular_name":null,"agency":"Department
   of Agriculture","total_obs":5699998.0,"program_type":"assistance_listing"},{"cfda":"10.935","permalink":"/program/10.935","title":"Urban
-  Agriculture and Innovative Production","popular_name":"Urban Agriculture and Innovative
-  Production (UAIP)","agency":"Department of Agriculture","total_obs":5400000.0,"program_type":"assistance_listing"},{"cfda":"10.146","permalink":"/program/10.146","title":"Farm
+  Agriculture and Innovative Production Grants Program (UAIP)","popular_name":"Urban
+  Agriculture and Innovative Production (UAIP)","agency":"Department of Agriculture","total_obs":5400000.0,"program_type":"assistance_listing"},{"cfda":"10.146","permalink":"/program/10.146","title":"Farm
   Service Agency Taxpayer Outreach Education and Technical Assistance (American Rescue
   Plan Assistance)","popular_name":"FSA-TOETA (ARPA)","agency":"Department of Agriculture","total_obs":5000000.0,"program_type":"assistance_listing"},{"cfda":"90.800","permalink":"/program/90.800","title":"Federal
   Permitting Improvement Steering Council Environmental Review Improvement Fund (ERIF)
@@ -596,7 +592,10 @@ programs: '[{"cfda":"10.610","permalink":"/program/10.610","title":"Export Guara
   for Food Security Program","popular_name":"Micro-Grants Program, Micro-Grants, MGFSP","agency":"Department
   of Agriculture","total_obs":5000000.0,"program_type":"assistance_listing"},{"cfda":"10.580","permalink":"/program/10.580","title":"Supplemental
   Nutrition Assistance Program, Process and Technology Improvement Grants","popular_name":"Process
-  and Technology Improvement Grants (PTIG) ","agency":"Department of Agriculture","total_obs":5000000.0,"program_type":"assistance_listing"},{"cfda":"81.005","permalink":"/program/81.005","title":"Environmental
+  and Technology Improvement Grants (PTIG) ","agency":"Department of Agriculture","total_obs":5000000.0,"program_type":"assistance_listing"},{"cfda":"10.928","permalink":"/program/10.928","title":"Emergency
+  Watershed Protection Program - Floodplain Easements \u2013 Disaster Relief Appropriations
+  Act ","popular_name":"EWPP-FPE Additional Supplemental Appropriations for Disaster
+  Relief Act 2019","agency":"Department of Agriculture","total_obs":4724548.0,"program_type":"assistance_listing"},{"cfda":"81.005","permalink":"/program/81.005","title":"Environmental
   Monitoring, Independent Research, Technical Analysis","popular_name":null,"agency":"Department
   of Energy","total_obs":4542269.0,"program_type":"assistance_listing"},{"cfda":"10.177","permalink":"/program/10.177","title":"Regional
   Food System Partnerships","popular_name":"RFSP, Partnerships","agency":"Department
@@ -694,16 +693,14 @@ programs: '[{"cfda":"10.610","permalink":"/program/10.610","title":"Export Guara
   Talent Challenge","agency":"Department of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.131","permalink":"/program/10.131","title":"Seafood
   Trade Relief Program (STRP)","popular_name":null,"agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
   Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.350","permalink":"/program/10.350","title":"Technical
-  Assistance to Cooperatives","popular_name":"TAC","agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"38.008","permalink":"/program/38.008","title":"Training
-  and Technical Assistance for State Appraiser Regulatory Agencies","popular_name":null,"agency":"Federal
-  Financial Institutions Examination Council Appraisal Subcommittee","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.612","permalink":"/program/10.612","title":"USDA
+  Assistance to Cooperatives","popular_name":"TAC","agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.612","permalink":"/program/10.612","title":"USDA
   Local and Regional Food Aid Procurement Program","popular_name":"Local and Regional
   Food Aid Procurement Program","agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.971","permalink":"/program/10.971","title":"Urban
   Agriculture and Urban County Committee Outreach, Technical Assistance, and Education","popular_name":"UA-OETA","agency":"Department
   of Agriculture","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Technical Assistance, Information and Services
-total_num_agencies: 15
+total_num_agencies: 14
 total_num_applicant_types: 52
-total_num_programs: 112
-total_obs: 8243878731.8
+total_num_programs: 111
+total_obs: 7980259279.8
 ---

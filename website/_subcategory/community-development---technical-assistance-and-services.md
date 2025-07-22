@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":12,"total_obs":2829619784.0},{"title":"Department
-  of the Interior","total_num_programs":2,"total_obs":1225448195.0},{"title":"Department
+  of the Interior","total_num_programs":2,"total_obs":1212188588.0},{"title":"Department
   of Agriculture","total_num_programs":8,"total_obs":1158427750.0},{"title":"Department
   of Health and Human Services","total_num_programs":4,"total_obs":796544388.0},{"title":"Department
   of Defense","total_num_programs":9,"total_obs":728084039.0},{"title":"Department
@@ -504,7 +504,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Program for Entitlement Communities.","agency":"Department of Housing and Urban
   Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"10.766","permalink":"/program/10.766","title":"Community
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"10.766","permalink":"/program/10.766","title":"Community
   Facilities Loans and Grants","popular_name":null,"agency":"Department of Agriculture","total_obs":1086315683.0,"program_type":"assistance_listing"},{"cfda":"93.569","permalink":"/program/93.569","title":"Community
   Services Block Grant","popular_name":"(CSBG)","agency":"Department of Health and
   Human Services","total_obs":764084255.0,"program_type":"assistance_listing"},{"cfda":"12.777","permalink":"/program/12.777","title":"Defense
@@ -667,5 +667,5 @@ title: Technical Assistance and Services
 total_num_agencies: 19
 total_num_applicant_types: 50
 total_num_programs: 86
-total_obs: 8600987901.0
+total_obs: 8587728294.0
 ---

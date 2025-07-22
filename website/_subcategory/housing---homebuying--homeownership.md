@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":30,"total_obs":50448102068.0},{"title":"Department
+agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":30,"total_obs":50462102071.0},{"title":"Department
   of Veterans Affairs","total_num_programs":3,"total_obs":43713521538.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":7242416103.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0}]'
@@ -509,13 +509,13 @@ programs: '[{"cfda":"64.114","permalink":"/program/64.114","title":"Veterans Hou
   Counseling Assistance Program","popular_name":"Comprehensive Housing Counseling
   NOFA","agency":"Department of Housing and Urban Development","total_obs":61000000.0,"program_type":"assistance_listing"},{"cfda":"14.022","permalink":"/program/14.022","title":"Housing
   Counseling Program Homeownership Initiative","popular_name":null,"agency":"Department
-  of Housing and Urban Development","total_obs":61000000.0,"program_type":"assistance_listing"},{"cfda":"14.873","permalink":"/program/14.873","title":"Native
+  of Housing and Urban Development","total_obs":61000000.0,"program_type":"assistance_listing"},{"cfda":"14.247","permalink":"/program/14.247","title":"Self-Help
+  Homeownership Opportunity Program","popular_name":"Self-Help Homeownership Opportunity
+  Program (SHOP)","agency":"Department of Housing and Urban Development","total_obs":26000000.0,"program_type":"assistance_listing"},{"cfda":"14.873","permalink":"/program/14.873","title":"Native
   Hawaiian Housing Block Grants","popular_name":null,"agency":"Department of Housing
   and Urban Development","total_obs":22300000.0,"program_type":"assistance_listing"},{"cfda":"10.405","permalink":"/program/10.405","title":"Farm
   Labor Housing Loans and Grants","popular_name":"Labor Housing","agency":"Department
-  of Agriculture","total_obs":20646103.0,"program_type":"assistance_listing"},{"cfda":"14.247","permalink":"/program/14.247","title":"Self-Help
-  Homeownership Opportunity Program","popular_name":"Self-Help Homeownership Opportunity
-  Program (SHOP)","agency":"Department of Housing and Urban Development","total_obs":11999997.0,"program_type":"assistance_listing"},{"cfda":"14.316","permalink":"/program/14.316","title":"Housing
+  of Agriculture","total_obs":20646103.0,"program_type":"assistance_listing"},{"cfda":"14.316","permalink":"/program/14.316","title":"Housing
   Counseling Training Program","popular_name":"Housing Counseling Training Grant","agency":"Department
   of Housing and Urban Development","total_obs":5000000.0,"program_type":"assistance_listing"},{"cfda":"14.110","permalink":"/program/14.110","title":"Manufactured
   Home Loan Insurance (Title I)","popular_name":"Manufactured Home Loan Insurance
@@ -555,5 +555,5 @@ title: Homebuying, Homeownership
 total_num_agencies: 4
 total_num_applicant_types: 36
 total_num_programs: 36
-total_obs: 101404039709.0
+total_obs: 101418039712.0
 ---

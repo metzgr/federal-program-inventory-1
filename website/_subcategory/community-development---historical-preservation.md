@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":5,"total_obs":2700965983.0},{"title":"Department
-  of the Interior","total_num_programs":20,"total_obs":1494290757.0},{"title":"Department
+  of the Interior","total_num_programs":19,"total_obs":1447663330.0},{"title":"Department
   of Commerce","total_num_programs":3,"total_obs":841051816.0},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":583069205.0},{"title":"The Institute
   of Museum and Library Services","total_num_programs":3,"total_obs":39786398.0},{"title":"Environmental
@@ -12,23 +12,27 @@ agencies: '[{"title":"Department of Housing and Urban Development","total_num_pr
   of Congress","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0},{"title":"Appalachian
   Regional Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":27},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":26},{"title":"Local
+  of higher education and hospitals)","total_num_programs":28},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":27},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":24},{"title":"Federally Recognized Indian Tribal
+  and hospitals","total_num_programs":25},{"title":"Federally Recognized Indian Tribal
   Governments","total_num_programs":20},{"title":"State (includes District of Columbia,
   public institutions of higher education and hospitals)","total_num_programs":20},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":13},{"title":"Other public institution/organization","total_num_programs":12},{"title":"State","total_num_programs":12},{"title":"Other
-  private institutions/organizations","total_num_programs":11},{"title":"U.S. Territories
-  and possessions (includes institutions of higher education and hospitals)","total_num_programs":9},{"title":"Federal","total_num_programs":8},{"title":"Quasi-public
+  associations)","total_num_programs":14},{"title":"Other public institution/organization","total_num_programs":12},{"title":"Other
+  private institutions/organizations","total_num_programs":11},{"title":"State","total_num_programs":11},{"title":"U.S.
+  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":10},{"title":"Federal","total_num_programs":8},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":8},{"title":"Non-Government
-  - General","total_num_programs":7},{"title":"U.S. Territories and possessions","total_num_programs":7},{"title":"Government
-  - General","total_num_programs":6},{"title":"Interstate","total_num_programs":6},{"title":"Intrastate","total_num_programs":6},{"title":"Profit
-  organization","total_num_programs":6},{"title":"Anyone/general public","total_num_programs":5},{"title":"Specialized
-  group (e.g. health professionals, students, veterans)","total_num_programs":3},{"title":"Individual/Family","total_num_programs":2},{"title":"Minority
-  group","total_num_programs":2},{"title":"Sponsored organization","total_num_programs":2},{"title":"Small
-  business (less than 500 employees)","total_num_programs":1}]'
+  - General","total_num_programs":7},{"title":"Government - General","total_num_programs":6},{"title":"Interstate","total_num_programs":6},{"title":"Intrastate","total_num_programs":6},{"title":"Profit
+  organization","total_num_programs":6},{"title":"U.S. Territories and possessions","total_num_programs":6},{"title":"Anyone/general
+  public","total_num_programs":4},{"title":"Specialized group (e.g. health professionals,
+  students, veterans)","total_num_programs":3},{"title":"Individual/Family","total_num_programs":2},{"title":"Minority
+  group","total_num_programs":2},{"title":"Sponsored organization","total_num_programs":2},{"title":"City
+  or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1},{"title":"Nonprofit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Nonprofit
+  without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Small
+  business (less than 500 employees)","total_num_programs":1},{"title":"Special District
+  Government","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -490,7 +494,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Program for Entitlement Communities.","agency":"Department of Housing and Urban
   Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"12.777","permalink":"/program/12.777","title":"Defense
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"12.777","permalink":"/program/12.777","title":"Defense
   Production Act Title III (DPA Title III)","popular_name":"DPA Title III","agency":"Department
   of Defense","total_obs":583069205.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
   Adjustment Assistance","popular_name":"Economic Adjustment Assistance","agency":"Department
@@ -509,33 +513,31 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Preservation Fund Grants-in-Aid for Competitive Grants","popular_name":null,"agency":"Department
   of the Interior","total_obs":64000000.0,"program_type":"assistance_listing"},{"cfda":"45.301","permalink":"/program/45.301","title":"Museums
   for America","popular_name":"MFA; ME; Inspire","agency":"The Institute of Museum
-  and Library Services","total_obs":30014398.0,"program_type":"assistance_listing"},{"cfda":"15.957","permalink":"/program/15.957","title":"Emergency
-  Supplemental Historic Preservation Fund","popular_name":null,"agency":"Department
-  of the Interior","total_obs":29093943.0,"program_type":"assistance_listing"},{"cfda":"15.939","permalink":"/program/15.939","title":"Heritage
+  and Library Services","total_obs":30014398.0,"program_type":"assistance_listing"},{"cfda":"15.939","permalink":"/program/15.939","title":"Heritage
   Partnership","popular_name":"National Heritage Areas","agency":"Department of the
   Interior","total_obs":29000000.0,"program_type":"assistance_listing"},{"cfda":"66.309","permalink":"/program/66.309","title":"Surveys,
   Studies, Investigations, Training and Special Purpose Activities Relating to Environmental
   Justice","popular_name":"EJSS - Surveys, Studies, Investigations, Training, and
   Special Purpose Activities Relating to Environmental Justice","agency":"Environmental
-  Protection Agency","total_obs":28450000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  Protection Agency","total_obs":28450000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
-  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"15.929","permalink":"/program/15.929","title":"Save
+  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"15.929","permalink":"/program/15.929","title":"Save
   America''s Treasures","popular_name":null,"agency":"Department of the Interior","total_obs":14393226.0,"program_type":"assistance_listing"},{"cfda":"15.928","permalink":"/program/15.928","title":"Battlefield
-  Land Acquisition Grants","popular_name":"BLAGs","agency":"Department of the Interior","total_obs":14000000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
-  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
-  of the Interior","total_obs":7663756.0,"program_type":"assistance_listing"},{"cfda":"45.309","permalink":"/program/45.309","title":"Museum
+  Land Acquisition Grants","popular_name":"BLAGs","agency":"Department of the Interior","total_obs":14000000.0,"program_type":"assistance_listing"},{"cfda":"45.309","permalink":"/program/45.309","title":"Museum
   Grants for African American History and Culture","popular_name":"AAHC","agency":"The
   Institute of Museum and Library Services","total_obs":6000000.0,"program_type":"assistance_listing"},{"cfda":"45.308","permalink":"/program/45.308","title":"Native
   American/Native Hawaiian Museum Services Program ","popular_name":"NANH-Museums","agency":"The
   Institute of Museum and Library Services","total_obs":3772000.0,"program_type":"assistance_listing"},{"cfda":"15.926","permalink":"/program/15.926","title":"American
   Battlefield Protection","popular_name":"ABPP (Planning Grants)","agency":"Department
-  of the Interior","total_obs":1272880.0,"program_type":"assistance_listing"},{"cfda":"15.955","permalink":"/program/15.955","title":"Martin
+  of the Interior","total_obs":1272880.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
+  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
+  of the Interior","total_obs":1025462.0,"program_type":"assistance_listing"},{"cfda":"15.955","permalink":"/program/15.955","title":"Martin
   Luther King Junior National Historic Site and Preservation District","popular_name":null,"agency":"Department
   of the Interior","total_obs":971000.0,"program_type":"assistance_listing"},{"cfda":"15.923","permalink":"/program/15.923","title":"National
   Center for Preservation Technology and Training","popular_name":"NCPTT","agency":"Department
-  of the Interior","total_obs":700000.0,"program_type":"assistance_listing"},{"cfda":"19.036","permalink":"/program/19.036","title":"Cultural
+  of the Interior","total_obs":865887.0,"program_type":"assistance_listing"},{"cfda":"19.036","permalink":"/program/19.036","title":"Cultural
   Antiquities Task Force","popular_name":"CATF","agency":"Department of State","total_obs":499999.0,"program_type":"assistance_listing"},{"cfda":"15.956","permalink":"/program/15.956","title":"Cooperative
   Management of Ebey''s Landing National Historical Reserve.","popular_name":"Cooperative
   Management of Ebey''s Landing","agency":"Department of the Interior","total_obs":229000.0,"program_type":"assistance_listing"},{"cfda":"15.925","permalink":"/program/15.925","title":"National
@@ -552,11 +554,12 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Development Block Grant- PRICE Competition","popular_name":"CDBG-PRICE","agency":"Department
   of Housing and Urban Development","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.124","permalink":"/program/19.124","title":"East
   Asia and Pacific Grants Program","popular_name":"U.S. Department of State, Bureau
-  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"66.604","permalink":"/program/66.604","title":"Environmental
+  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"15.957","permalink":"/program/15.957","title":"Emergency
+  Supplemental Historic Preservation Fund","popular_name":"HPF Disaster Relief Program;
+  Emergency Supplemental Historic Preservation Fund Grants (ESHPF)","agency":"Department
+  of the Interior","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"66.604","permalink":"/program/66.604","title":"Environmental
   Justice Small Grant Program ","popular_name":"EJSG","agency":"Environmental Protection
-  Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"15.961","permalink":"/program/15.961","title":"Federal
-  Historic Preservation Tax Incentive","popular_name":"Historic Tax Credit (HTC)","agency":"Department
-  of the Interior","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"15.912","permalink":"/program/15.912","title":"National
+  Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"15.912","permalink":"/program/15.912","title":"National
   Historic Landmark","popular_name":null,"agency":"Department of the Interior","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"89.003","permalink":"/program/89.003","title":"National
   Historical Publications and Records Grants","popular_name":null,"agency":"National
   Archives and Records Administration","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"12.025","permalink":"/program/12.025","title":"Native
@@ -573,7 +576,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Historical Preservation
 total_num_agencies: 13
-total_num_applicant_types: 39
-total_num_programs: 44
-total_obs: 5708114158.0
+total_num_applicant_types: 44
+total_num_programs: 43
+total_obs: 5661486731.0
 ---

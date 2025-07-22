@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":4,"total_obs":1320493617.0},{"title":"Department
+agencies: '[{"title":"Department of the Interior","total_num_programs":4,"total_obs":1307234010.0},{"title":"Department
   of Commerce","total_num_programs":2,"total_obs":792188921.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":714616540.0},{"title":"Department
   of Transportation","total_num_programs":1,"total_obs":202908650.0},{"title":"Department
@@ -489,7 +489,7 @@ parent_title: Regional Development
 permalink: /category/regional-development/land-acquisition-and-rehabilitation-and-facilities-construction
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
   State and National 94.006","popular_name":"AmeriCorps State and National","agency":"Corporation
   for National and Community Service","total_obs":714616540.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
   Adjustment Assistance","popular_name":"Economic Adjustment Assistance","agency":"Department
@@ -518,7 +518,7 @@ programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, So
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"14.265","permalink":"/program/14.265","title":"Rural
   Capacity Building for Community Development and Affordable Housing Grants","popular_name":"Rural
   Capacity Building Program","agency":"Department of Housing and Urban Development","total_obs":6000000.0,"program_type":"assistance_listing"},{"cfda":"15.234","permalink":"/program/15.234","title":"Secure
@@ -536,5 +536,5 @@ title: Land Acquisition and Rehabilitation and Facilities Construction
 total_num_agencies: 12
 total_num_applicant_types: 41
 total_num_programs: 22
-total_obs: 3331056296.0
+total_obs: 3317796689.0
 ---

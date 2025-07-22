@@ -6,7 +6,7 @@ agencies: '[{"title":"Department of Education","total_num_programs":10,"total_ob
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"National
   Aeronautics and Space Administration","total_num_programs":1,"total_obs":13777683.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":10781549.0},{"title":"Department
-  of Veterans Affairs","total_num_programs":1,"total_obs":4027000.0},{"title":"Department
+  of Veterans Affairs","total_num_programs":1,"total_obs":2798000.0},{"title":"Department
   of State","total_num_programs":1,"total_obs":0.0},{"title":"Department of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0},{"title":"Corporation for National
   and Community Service","total_num_programs":1,"total_obs":0.0}]'
@@ -511,11 +511,11 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   of Agriculture","total_obs":9599998.0,"program_type":"assistance_listing"},{"cfda":"84.021","permalink":"/program/84.021","title":"Overseas
   Programs - Group Projects Abroad","popular_name":null,"agency":"Department of Education","total_obs":5073380.0,"program_type":"assistance_listing"},{"cfda":"84.220","permalink":"/program/84.220","title":"Centers
   for International Business Education","popular_name":null,"agency":"Department of
-  Education","total_obs":5071396.0,"program_type":"assistance_listing"},{"cfda":"64.120","permalink":"/program/64.120","title":"Post-Vietnam
-  Era Veterans'' Educational Assistance","popular_name":"(Veteran''s Educational Assistance
-  Program(VEAP)-Chapter 32)","agency":"Department of Veterans Affairs","total_obs":4027000.0,"program_type":"assistance_listing"},{"cfda":"66.951","permalink":"/program/66.951","title":"Environmental
+  Education","total_obs":5071396.0,"program_type":"assistance_listing"},{"cfda":"66.951","permalink":"/program/66.951","title":"Environmental
   Education Grants Program","popular_name":"EE Grants Program","agency":"Environmental
-  Protection Agency","total_obs":3620309.0,"program_type":"assistance_listing"},{"cfda":"10.220","permalink":"/program/10.220","title":"Higher
+  Protection Agency","total_obs":3620309.0,"program_type":"assistance_listing"},{"cfda":"64.120","permalink":"/program/64.120","title":"Post-Vietnam
+  Era Veterans'' Educational Assistance","popular_name":"(Veteran''s Educational Assistance
+  Program(VEAP)-Chapter 32)","agency":"Department of Veterans Affairs","total_obs":2798000.0,"program_type":"assistance_listing"},{"cfda":"10.220","permalink":"/program/10.220","title":"Higher
   Education - Multicultural Scholars Grant Program","popular_name":"Institution Challenge,
   Multicultural Scholars & Graduate Fellowships Grant Program (Multicultural Scholars)\r\n\r\n[Formerly:
   Minority Scholars Program]","agency":"Department of Agriculture","total_obs":1181551.0,"program_type":"assistance_listing"},{"cfda":"66.614","permalink":"/program/66.614","title":"Financial
@@ -537,5 +537,5 @@ title: Resource Development and Support - Student Financial Aid
 total_num_agencies: 12
 total_num_applicant_types: 45
 total_num_programs: 24
-total_obs: 168392484624.0
+total_obs: 168391255624.0
 ---
