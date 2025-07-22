@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Education","total_num_programs":36,"total_obs":29438957069.0},{"title":"Federal
   Communications Commission","total_num_programs":1,"total_obs":2977000000.0},{"title":"Department
-  of the Interior","total_num_programs":7,"total_obs":1849524002.0},{"title":"National
+  of the Interior","total_num_programs":7,"total_obs":1836264395.0},{"title":"National
   Science Foundation","total_num_programs":1,"total_obs":1496180000.0},{"title":"Department
   of Defense","total_num_programs":7,"total_obs":250205504.0},{"title":"National Aeronautics
   and Space Administration","total_num_programs":5,"total_obs":237083372.0},{"title":"Environmental
@@ -513,7 +513,7 @@ programs: '[{"cfda":"84.010","permalink":"/program/84.010","title":"Title I Gran
   Century Community Learning Centers","popular_name":null,"agency":"Department of
   Education","total_obs":1330094030.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"84.365","permalink":"/program/84.365","title":"English
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"84.365","permalink":"/program/84.365","title":"English
   Language Acquisition State Grants","popular_name":null,"agency":"Department of Education","total_obs":822989250.0,"program_type":"assistance_listing"},{"cfda":"84.002","permalink":"/program/84.002","title":"Adult
   Education - Basic Grants to States","popular_name":null,"agency":"Department of
   Education","total_obs":715455000.0,"program_type":"assistance_listing"},{"cfda":"84.282","permalink":"/program/84.282","title":"Charter
@@ -650,5 +650,5 @@ title: Elementary and Secondary
 total_num_agencies: 19
 total_num_applicant_types: 45
 total_num_programs: 84
-total_obs: 36453478052.0
+total_obs: 36440218445.0
 ---

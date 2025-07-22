@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of Health and Human Services","total_num_programs":119,"total_obs":34682662632.0},{"title":"Federal
+agencies: '[{"title":"Department of Health and Human Services","total_num_programs":118,"total_obs":34137069632.0},{"title":"Federal
   Communications Commission","total_num_programs":2,"total_obs":783000000.0},{"title":"Department
   of Agriculture","total_num_programs":3,"total_obs":75146767.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -10,22 +10,22 @@ agencies: '[{"title":"Department of Health and Human Services","total_num_progra
   State","total_num_programs":4,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":92},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":78},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":72},{"title":"Federally
+  of higher education and hospitals)","total_num_programs":91},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":77},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":71},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":62},{"title":"Local (includes
-  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":61},{"title":"U.S.
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":60},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":43},{"title":"Other
   public institution/organization","total_num_programs":42},{"title":"U.S. Territories
   and possessions","total_num_programs":41},{"title":"Native American Organizations
   (includes Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":40},{"title":"State","total_num_programs":39},{"title":"Small
   business (less than 500 employees)","total_num_programs":27},{"title":"Profit organization","total_num_programs":26},{"title":"Other
   private institutions/organizations","total_num_programs":23},{"title":"Specialized
-  group (e.g. health professionals, students, veterans)","total_num_programs":20},{"title":"Individual/Family","total_num_programs":18},{"title":"Government
+  group (e.g. health professionals, students, veterans)","total_num_programs":20},{"title":"Individual/Family","total_num_programs":17},{"title":"Government
   - General","total_num_programs":15},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":14},{"title":"Non-Government
   - General","total_num_programs":13},{"title":"Minority group","total_num_programs":11},{"title":"Sponsored
-  organization","total_num_programs":11},{"title":"Federal","total_num_programs":10},{"title":"Intrastate","total_num_programs":10},{"title":"Anyone/general
-  public","total_num_programs":9},{"title":"Interstate","total_num_programs":8}]'
+  organization","total_num_programs":11},{"title":"Intrastate","total_num_programs":10},{"title":"Anyone/general
+  public","total_num_programs":9},{"title":"Federal","total_num_programs":9},{"title":"Interstate","total_num_programs":8}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -513,9 +513,7 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
   and Laboratory Capacity for Infectious Diseases (ELC)","popular_name":"ELC Cooperative
   Agreement","agency":"Department of Health and Human Services","total_obs":687609820.0,"program_type":"assistance_listing"},{"cfda":"93.994","permalink":"/program/93.994","title":"Maternal
   and Child Health Services Block Grant to the States","popular_name":"MCH Block Grants","agency":"Department
-  of Health and Human Services","total_obs":571446520.0,"program_type":"assistance_listing"},{"cfda":"93.846","permalink":"/program/93.846","title":"Arthritis,
-  Musculoskeletal and Skin Diseases Research","popular_name":"NIAMS","agency":"Department
-  of Health and Human Services","total_obs":545593000.0,"program_type":"assistance_listing"},{"cfda":"93.136","permalink":"/program/93.136","title":"Injury
+  of Health and Human Services","total_obs":571446520.0,"program_type":"assistance_listing"},{"cfda":"93.136","permalink":"/program/93.136","title":"Injury
   Prevention and Control Research and State and Community Based Programs","popular_name":"National
   Center for Injury Prevention and Control","agency":"Department of Health and Human
   Services","total_obs":457078397.0,"program_type":"assistance_listing"},{"cfda":"93.268","permalink":"/program/93.268","title":"Immunization
@@ -795,6 +793,6 @@ programs: '[{"cfda":"93.855","permalink":"/program/93.855","title":"Allergy and 
 title: Prevention and Control
 total_num_agencies: 11
 total_num_applicant_types: 39
-total_num_programs: 135
-total_obs: 35586428303.0
+total_num_programs: 134
+total_obs: 35040835303.0
 ---

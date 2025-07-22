@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Environmental Protection Agency","total_num_programs":108,"total_obs":24485554678.0},{"title":"Department
-  of Agriculture","total_num_programs":21,"total_obs":4980501451.25},{"title":"Department
-  of the Interior","total_num_programs":19,"total_obs":3358000243.0},{"title":"Department
+  of Agriculture","total_num_programs":21,"total_obs":4975345345.25},{"title":"Department
+  of the Interior","total_num_programs":19,"total_obs":3194115874.0},{"title":"Department
   of Defense","total_num_programs":5,"total_obs":2557272280.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":2,"total_obs":2461000000.0},{"title":"Department
   of Commerce","total_num_programs":14,"total_obs":1614483980.0},{"title":"Department
@@ -20,9 +20,9 @@ applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","to
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":106},{"title":"Private nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":97},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":89},{"title":"State","total_num_programs":85},{"title":"Local
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":88},{"title":"State","total_num_programs":84},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":84},{"title":"U.S. Territories and possessions","total_num_programs":68},{"title":"U.S.
+  and hospitals","total_num_programs":83},{"title":"U.S. Territories and possessions","total_num_programs":67},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":59},{"title":"Other
   public institution/organization","total_num_programs":52},{"title":"Interstate","total_num_programs":42},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
@@ -31,11 +31,11 @@ applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","to
   private institutions/organizations","total_num_programs":26},{"title":"Intrastate","total_num_programs":25},{"title":"Federal","total_num_programs":22},{"title":"Small
   business (less than 500 employees)","total_num_programs":20},{"title":"Government
   - General","total_num_programs":18},{"title":"Specialized group (e.g. health professionals,
-  students, veterans)","total_num_programs":16},{"title":"Sponsored organization","total_num_programs":13},{"title":"Individual/Family","total_num_programs":12},{"title":"Minority
-  group","total_num_programs":12},{"title":"Anyone/general public","total_num_programs":9},{"title":"City
-  or Township Government","total_num_programs":4},{"title":"County Government","total_num_programs":4},{"title":"Special
-  District Government","total_num_programs":4},{"title":"Nonprofit with 501C3 IRS
-  Status (Other than Institution of Higher Education)","total_num_programs":3},{"title":"Nonprofit
+  students, veterans)","total_num_programs":16},{"title":"Sponsored organization","total_num_programs":13},{"title":"Minority
+  group","total_num_programs":12},{"title":"Individual/Family","total_num_programs":11},{"title":"Anyone/general
+  public","total_num_programs":9},{"title":"City or Township Government","total_num_programs":4},{"title":"County
+  Government","total_num_programs":4},{"title":"Special District Government","total_num_programs":4},{"title":"Nonprofit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":3},{"title":"Nonprofit
   without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":3},{"title":"Alaska
   Native and Native Hawaiian Serving Institutions","total_num_programs":2},{"title":"Hispanic-serving
   Institution","total_num_programs":2},{"title":"Historically Black Colleges and Universities
@@ -43,7 +43,8 @@ applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","to
   Organization","total_num_programs":2},{"title":"Tribally Controlled Colleges and
   Universities (TCCUs)","total_num_programs":2},{"title":"For-Profit Organization
   (Other than Small Business)","total_num_programs":1},{"title":"Indian/Native American
-  Tribal Government (Other than Federally Recognized)","total_num_programs":1}]'
+  Tribal Government (Other than Federally Recognized)","total_num_programs":1},{"title":"Other
+  (specify)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -498,16 +499,16 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/environmental-quality
-sub_cats: '[{"title":"Air Pollution Control","permalink":"/category/environmental-quality/air-pollution-control","total_num_programs":75,"total_obs":25980304501.0},{"title":"Pesticides
+sub_cats: '[{"title":"Air Pollution Control","permalink":"/category/environmental-quality/air-pollution-control","total_num_programs":75,"total_obs":25827481209.0},{"title":"Pesticides
   Control","permalink":"/category/environmental-quality/pesticides-control","total_num_programs":62,"total_obs":6580958683.25},{"title":"Radiation
   Control","permalink":"/category/environmental-quality/radiation-control","total_num_programs":50,"total_obs":5974991098.14},{"title":"Research,
-  Education, Training","permalink":"/category/environmental-quality/research--education--training","total_num_programs":105,"total_obs":8759960248.0},{"title":"Solid
-  Waste Management","permalink":"/category/environmental-quality/solid-waste-management","total_num_programs":72,"total_obs":12559389846.0},{"title":"Water
-  Pollution Control","permalink":"/category/environmental-quality/water-pollution-control","total_num_programs":116,"total_obs":15324846081.0}]'
+  Education, Training","permalink":"/category/environmental-quality/research--education--training","total_num_programs":105,"total_obs":8762394672.0},{"title":"Solid
+  Waste Management","permalink":"/category/environmental-quality/solid-waste-management","total_num_programs":72,"total_obs":12393306947.0},{"title":"Water
+  Pollution Control","permalink":"/category/environmental-quality/water-pollution-control","total_num_programs":116,"total_obs":15166630789.0}]'
 title: Environmental Quality
 total_num_agencies: 17
-total_num_applicant_types: 52
+total_num_applicant_types: 53
 total_num_programs: 198
 total_num_sub_cats: 6
-total_obs: 41759975896.39
+total_obs: 41590935421.39
 ---

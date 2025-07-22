@@ -1,15 +1,15 @@
 ---
 agencies: '[{"title":"Department of Education","total_num_programs":35,"total_obs":208815758099.65},{"title":"Department
-  of Veterans Affairs","total_num_programs":6,"total_obs":10377043212.0},{"title":"Federal
+  of Veterans Affairs","total_num_programs":6,"total_obs":12023272212.0},{"title":"Federal
   Communications Commission","total_num_programs":1,"total_obs":2977000000.0},{"title":"National
   Science Foundation","total_num_programs":2,"total_obs":2805789998.0},{"title":"Department
   of Commerce","total_num_programs":8,"total_obs":581148715.0},{"title":"Department
   of State","total_num_programs":26,"total_obs":507561889.0},{"title":"Department
   of Defense","total_num_programs":15,"total_obs":435632075.0},{"title":"Department
   of Transportation","total_num_programs":6,"total_obs":373948911.0},{"title":"National
-  Aeronautics and Space Administration","total_num_programs":6,"total_obs":303675815.0},{"title":"Department
+  Aeronautics and Space Administration","total_num_programs":6,"total_obs":305663259.0},{"title":"Department
   of Agriculture","total_num_programs":16,"total_obs":175274701.0},{"title":"Department
-  of Health and Human Services","total_num_programs":7,"total_obs":108061722.0},{"title":"Department
+  of Health and Human Services","total_num_programs":6,"total_obs":108061722.0},{"title":"Department
   of Energy","total_num_programs":3,"total_obs":47433368.0},{"title":"Environmental
   Protection Agency","total_num_programs":3,"total_obs":46912916.0},{"title":"Agency
   for International Development","total_num_programs":2,"total_obs":39000000.0},{"title":"Department
@@ -31,20 +31,20 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   of higher education and hospitals)","total_num_programs":109},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":106},{"title":"State (includes District of Columbia,
-  public institutions of higher education and hospitals)","total_num_programs":67},{"title":"Local
+  public institutions of higher education and hospitals)","total_num_programs":66},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
   and hospitals","total_num_programs":41},{"title":"Other public institution/organization","total_num_programs":39},{"title":"U.S.
-  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":30},{"title":"Individual/Family","total_num_programs":28},{"title":"Other
-  private institutions/organizations","total_num_programs":28},{"title":"Federally
+  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":30},{"title":"Other
+  private institutions/organizations","total_num_programs":28},{"title":"Individual/Family","total_num_programs":27},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":26},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":26},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":24},{"title":"State","total_num_programs":22},{"title":"Minority
   group","total_num_programs":20},{"title":"Native American Organizations (includes
   Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":20},{"title":"Profit
-  organization","total_num_programs":18},{"title":"Small business (less than 500 employees)","total_num_programs":17},{"title":"U.S.
-  Territories and possessions","total_num_programs":17},{"title":"Anyone/general public","total_num_programs":16},{"title":"Non-Government
-  - General","total_num_programs":16},{"title":"Federal","total_num_programs":15},{"title":"Sponsored
-  organization","total_num_programs":13},{"title":"Government - General","total_num_programs":11},{"title":"Interstate","total_num_programs":10},{"title":"Intrastate","total_num_programs":10},{"title":"Nonprofit
+  organization","total_num_programs":18},{"title":"Small business (less than 500 employees)","total_num_programs":17},{"title":"Anyone/general
+  public","total_num_programs":16},{"title":"Non-Government - General","total_num_programs":16},{"title":"U.S.
+  Territories and possessions","total_num_programs":16},{"title":"Federal","total_num_programs":14},{"title":"Sponsored
+  organization","total_num_programs":13},{"title":"Government - General","total_num_programs":10},{"title":"Interstate","total_num_programs":10},{"title":"Intrastate","total_num_programs":10},{"title":"Nonprofit
   with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Alaska
   Native and Native Hawaiian Serving Institutions","total_num_programs":1},{"title":"Hispanic-serving
   Institution","total_num_programs":1},{"title":"Historically Black Colleges and Universities
@@ -510,11 +510,11 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   Student Loans","popular_name":null,"agency":"Department of Education","total_obs":164784525000.0,"program_type":"assistance_listing"},{"cfda":"84.063","permalink":"/program/84.063","title":"Federal
   Pell Grant Program","popular_name":null,"agency":"Department of Education","total_obs":36634320000.0,"program_type":"assistance_listing"},{"cfda":"64.028","permalink":"/program/64.028","title":"Post-9/11
   Veterans Educational Assistance","popular_name":"Post-9/11 GI Bill - Chapter 33","agency":"Department
-  of Veterans Affairs","total_obs":8181953000.0,"program_type":"assistance_listing"},{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL
+  of Veterans Affairs","total_obs":9650050000.0,"program_type":"assistance_listing"},{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL
   SERVICE FUND - SCHOOLS and LIBRARIES","popular_name":"UNIVERSAL SERVICE - E-RATE","agency":"Federal
   Communications Commission","total_obs":2977000000.0,"program_type":"assistance_listing"},{"cfda":"64.117","permalink":"/program/64.117","title":"Survivors
   and Dependents Educational Assistance","popular_name":"Survivors and Dependents
-  Educational Assistance (DEA) - Chapter 35","agency":"Department of Veterans Affairs","total_obs":1910477000.0,"program_type":"assistance_listing"},{"cfda":"47.049","permalink":"/program/47.049","title":"Mathematical
+  Educational Assistance (DEA) - Chapter 35","agency":"Department of Veterans Affairs","total_obs":2076568000.0,"program_type":"assistance_listing"},{"cfda":"47.049","permalink":"/program/47.049","title":"Mathematical
   and Physical Sciences","popular_name":"(MPS)","agency":"National Science Foundation","total_obs":1835789998.0,"program_type":"assistance_listing"},{"cfda":"84.287","permalink":"/program/84.287","title":"Twenty-First
   Century Community Learning Centers","popular_name":null,"agency":"Department of
   Education","total_obs":1330094030.0,"program_type":"assistance_listing"},{"cfda":"84.007","permalink":"/program/84.007","title":"Federal
@@ -533,16 +533,16 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   Merchant Marine Academy","popular_name":"USMMA Kings Point, New York","agency":"Department
   of Transportation","total_obs":184729000.0,"program_type":"assistance_listing"},{"cfda":"12.404","permalink":"/program/12.404","title":"National
   Guard ChalleNGe Program","popular_name":"National Guard Youth ChalleNGe Program","agency":"Department
-  of Defense","total_obs":172480861.0,"program_type":"assistance_listing"},{"cfda":"11.417","permalink":"/program/11.417","title":"Sea
+  of Defense","total_obs":172480861.0,"program_type":"assistance_listing"},{"cfda":"64.124","permalink":"/program/64.124","title":"All-Volunteer
+  Force Educational Assistance","popular_name":"(Montgomery GI-Bill Active Duty (MGIB)
+  - Chapter 30)","agency":"Department of Veterans Affairs","total_obs":161768000.0,"program_type":"assistance_listing"},{"cfda":"11.417","permalink":"/program/11.417","title":"Sea
   Grant Support","popular_name":"National Sea Grant College Program","agency":"Department
   of Commerce","total_obs":156584805.0,"program_type":"assistance_listing"},{"cfda":"84.184","permalink":"/program/84.184","title":"School
-  Safely National Activities","popular_name":null,"agency":"Department of Education","total_obs":155817926.0,"program_type":"assistance_listing"},{"cfda":"64.124","permalink":"/program/64.124","title":"All-Volunteer
-  Force Educational Assistance","popular_name":"(Montgomery GI-Bill Active Duty (MGIB)
-  - Chapter 30)","agency":"Department of Veterans Affairs","total_obs":144861000.0,"program_type":"assistance_listing"},{"cfda":"19.415","permalink":"/program/19.415","title":"Professional
+  Safely National Activities","popular_name":null,"agency":"Department of Education","total_obs":155817926.0,"program_type":"assistance_listing"},{"cfda":"19.415","permalink":"/program/19.415","title":"Professional
   and Cultural Exchange Programs - Citizen Exchanges","popular_name":"Citizen Exchanges","agency":"Department
   of State","total_obs":139802885.0,"program_type":"assistance_listing"},{"cfda":"64.032","permalink":"/program/64.032","title":"Montgomery
   GI Bill Selected Reserve","popular_name":"Montgomery GI Bill - Selected Reserve
-  (MGIB-SR or Chapter 1606)","agency":"Department of Veterans Affairs","total_obs":122175000.0,"program_type":"assistance_listing"},{"cfda":"20.806","permalink":"/program/20.806","title":"State
+  (MGIB-SR or Chapter 1606)","agency":"Department of Veterans Affairs","total_obs":118538000.0,"program_type":"assistance_listing"},{"cfda":"20.806","permalink":"/program/20.806","title":"State
   Maritime Schools","popular_name":"State Maritime Schools or Academies (SMA)","agency":"Department
   of Transportation","total_obs":107700000.0,"program_type":"assistance_listing"},{"cfda":"12.631","permalink":"/program/12.631","title":"Science,
   Technology, Engineering and Mathematics (STEM) Educational Program: Science, Mathematics
@@ -567,11 +567,11 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   Services at 1890 Colleges and Tuskegee University, West Virginia State College,
   and Central State University","popular_name":"Extension Services at 1890 Institutions
   (1890''s Institutions and Tuskegee); 1890 LGIs \u2013 Section 1444 Extension","agency":"Department
-  of Agriculture","total_obs":69120000.0,"program_type":"assistance_listing"},{"cfda":"19.402","permalink":"/program/19.402","title":"Professional
-  and Cultural Exchange Programs - International Visitor Leadership Program","popular_name":"International
-  Visitor Leadership Program","agency":"Department of State","total_obs":67174944.0,"program_type":"assistance_listing"},{"cfda":"43.012","permalink":"/program/43.012","title":"Space
+  of Agriculture","total_obs":69120000.0,"program_type":"assistance_listing"},{"cfda":"43.012","permalink":"/program/43.012","title":"Space
   Technology","popular_name":"STMD, Space Tech","agency":"National Aeronautics and
-  Space Administration","total_obs":66592443.0,"program_type":"assistance_listing"},{"cfda":"11.431","permalink":"/program/11.431","title":"Climate
+  Space Administration","total_obs":68579887.0,"program_type":"assistance_listing"},{"cfda":"19.402","permalink":"/program/19.402","title":"Professional
+  and Cultural Exchange Programs - International Visitor Leadership Program","popular_name":"International
+  Visitor Leadership Program","agency":"Department of State","total_obs":67174944.0,"program_type":"assistance_listing"},{"cfda":"11.431","permalink":"/program/11.431","title":"Climate
   and Atmospheric Research","popular_name":null,"agency":"Department of Commerce","total_obs":63000000.0,"program_type":"assistance_listing"},{"cfda":"20.109","permalink":"/program/20.109","title":"Air
   Transportation Centers of Excellence","popular_name":"FAA Centers of Excellence","agency":"Department
   of Transportation","total_obs":61825301.0,"program_type":"assistance_listing"},{"cfda":"84.015","permalink":"/program/84.015","title":"National
@@ -656,7 +656,7 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   Exchange Programs - Teachers","popular_name":"Teacher Exchange Programs and Community
   College Administrator Program","agency":"Department of State","total_obs":10749474.0,"program_type":"assistance_listing"},{"cfda":"20.108","permalink":"/program/20.108","title":"Aviation
   Research Grants","popular_name":null,"agency":"Department of Transportation","total_obs":9934610.0,"program_type":"assistance_listing"},{"cfda":"20.215","permalink":"/program/20.215","title":"Highway
-  Training and Education","popular_name":"NHI, LTAP, TTAP, DDETFP, TEDP, GAMTTEP","agency":"Department
+  Training and Education","popular_name":"NHI, LTAP, DDETFP, TETDDP, GAMTTEP","agency":"Department
   of Transportation","total_obs":9745000.0,"program_type":"assistance_listing"},{"cfda":"98.012","permalink":"/program/98.012","title":"USAID
   Development Partnerships for University Cooperation and Development","popular_name":null,"agency":"Agency
   for International Development","total_obs":9000000.0,"program_type":"assistance_listing"},{"cfda":"45.160","permalink":"/program/45.160","title":"Promotion
@@ -692,9 +692,7 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   Technology, Engineering & Mathematics (STEM) Education, Outreach and Workforce Program","popular_name":null,"agency":"Department
   of Defense","total_obs":4532132.0,"program_type":"assistance_listing"},{"cfda":"54.001","permalink":"/program/54.001","title":"Intelligence
   Community Centers for Academic Excellence","popular_name":"IC CAE Program","agency":"Office
-  of the Director Of National Intelligence","total_obs":4499668.0,"program_type":"assistance_listing"},{"cfda":"64.120","permalink":"/program/64.120","title":"Post-Vietnam
-  Era Veterans'' Educational Assistance","popular_name":"(Veteran''s Educational Assistance
-  Program(VEAP)-Chapter 32)","agency":"Department of Veterans Affairs","total_obs":4027000.0,"program_type":"assistance_listing"},{"cfda":"19.440","permalink":"/program/19.440","title":"ECA
+  of the Director Of National Intelligence","total_obs":4499668.0,"program_type":"assistance_listing"},{"cfda":"19.440","permalink":"/program/19.440","title":"ECA
   U.S. Speaker Program","popular_name":"ECA - U.S. Speaker Program","agency":"Department
   of State","total_obs":3809000.0,"program_type":"assistance_listing"},{"cfda":"66.951","permalink":"/program/66.951","title":"Environmental
   Education Grants Program","popular_name":"EE Grants Program","agency":"Environmental
@@ -711,7 +709,9 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   of the Interior","total_obs":3073653.0,"program_type":"assistance_listing"},{"cfda":"85.200","permalink":"/program/85.200","title":"Barry
   M. Goldwater Scholarship Program","popular_name":"Barry Goldwater Scholarship Foundation","agency":"Barry
   Goldwater Scholarship and Excellence in Education Fund","total_obs":3000000.0,"program_type":"assistance_listing"},{"cfda":"84.229","permalink":"/program/84.229","title":"Language
-  Resource Centers","popular_name":null,"agency":"Department of Education","total_obs":2846768.0,"program_type":"assistance_listing"},{"cfda":"16.816","permalink":"/program/16.816","title":"John
+  Resource Centers","popular_name":null,"agency":"Department of Education","total_obs":2846768.0,"program_type":"assistance_listing"},{"cfda":"64.120","permalink":"/program/64.120","title":"Post-Vietnam
+  Era Veterans'' Educational Assistance","popular_name":"(Veteran''s Educational Assistance
+  Program(VEAP)-Chapter 32)","agency":"Department of Veterans Affairs","total_obs":2798000.0,"program_type":"assistance_listing"},{"cfda":"16.816","permalink":"/program/16.816","title":"John
   R.  Justice Prosecutors and Defenders Incentive Act","popular_name":"JRJ Grant Program","agency":"Department
   of Justice","total_obs":2635952.0,"program_type":"assistance_listing"},{"cfda":"12.552","permalink":"/program/12.552","title":"National
   Security Education Program David L. Boren Fellowships","popular_name":"Boren Fellowships
@@ -795,9 +795,7 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   in People in The Middle East and North Africa","popular_name":"Investing in people/
   cultural/educational/alumni/information and media efforts in the Middle East and
   North Africa.","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"12.900","permalink":"/program/12.900","title":"Language
-  Grant Program","popular_name":"STARTALK","agency":"Department of Defense","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.232","permalink":"/program/93.232","title":"Loan
-  Repayment Program for General Research","popular_name":"(NIH General Research Loan
-  Repayment Program; GR-LRP)","agency":"Department of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"42.013","permalink":"/program/42.013","title":"Of
+  Grant Program","popular_name":"STARTALK","agency":"Department of Defense","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"42.013","permalink":"/program/42.013","title":"Of
   the People: Community Collections Grants","popular_name":"AFC-Mellon","agency":"Library
   of Congress","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.801","permalink":"/program/19.801","title":"Office
   of Global Women''s Issues","popular_name":"Global Women''s Empowerment Programs","agency":"Department
@@ -822,6 +820,6 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
 title: Higher Education - General
 total_num_agencies: 29
 total_num_applicant_types: 45
-total_num_programs: 162
-total_obs: 227735947881.65
+total_num_programs: 161
+total_obs: 229384164325.65
 ---

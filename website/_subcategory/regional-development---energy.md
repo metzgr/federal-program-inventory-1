@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Agriculture","total_num_programs":4,"total_obs":2655801160.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":1224448195.0},{"title":"Corporation
+  of the Interior","total_num_programs":1,"total_obs":1211188588.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":714616540.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":345589964.0},{"title":"Department
   of Transportation","total_num_programs":3,"total_obs":199566671.0},{"title":"Department
@@ -490,7 +490,7 @@ programs: '[{"cfda":"10.758","permalink":"/program/10.758","title":"New Empoweri
   Rural America (New ERA) Program","popular_name":"22004","agency":"Department of
   Agriculture","total_obs":2041000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
   State and National 94.006","popular_name":"AmeriCorps State and National","agency":"Corporation
   for National and Community Service","total_obs":714616540.0,"program_type":"assistance_listing"},{"cfda":"10.757","permalink":"/program/10.757","title":"Powering
   Affordable Clean Energy (PACE) Program","popular_name":"22001","agency":"Department
@@ -508,7 +508,7 @@ programs: '[{"cfda":"10.758","permalink":"/program/10.758","title":"New Empoweri
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"14.265","permalink":"/program/14.265","title":"Rural
   Capacity Building for Community Development and Affordable Housing Grants","popular_name":"Rural
   Capacity Building Program","agency":"Department of Housing and Urban Development","total_obs":6000000.0,"program_type":"assistance_listing"},{"cfda":"66.046","permalink":"/program/66.046","title":"Climate
@@ -538,5 +538,5 @@ title: Energy
 total_num_agencies: 13
 total_num_applicant_types: 40
 total_num_programs: 25
-total_obs: 5378033151.0
+total_obs: 5364773544.0
 ---

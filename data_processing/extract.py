@@ -134,7 +134,9 @@ def extract_assistance_listing():
     for listing_id in listing_ids:
         tries = 0
         status_code = 000
-        while status_code != 200 and tries < 5:
+        try_again = False
+        while (try_again and tries < 5) or (status_code != 200 and tries < 5):
+            try_again = False
             tries += 1
             try:
                 lr = requests.get("https://sam.gov/api/prod/fac/v1/programs/"
@@ -150,6 +152,7 @@ def extract_assistance_listing():
                 if status_code == 200 and len(lr.text) > 0:
                     listings_json_list.append(lr.text)
                 elif len(lr.text) == 0:
+                    try_again = True
                     print("Error: No Content " + " // " + str(listing_id))
 
     # save the JSON
@@ -339,6 +342,11 @@ def extract_usaspending_award_hashes():
                     "https://api.usaspending.gov/api/v2/references/filter/",
                     data=json.dumps(obj, separators=(",", ":")),
                     headers=headers, timeout=60)
+            except requests.exceptions.ReadTimeout:
+                print("Read Timeout: " + str(tries) + " // "
+                      + str(json_l["program_number"]))
+                status_code = 000
+                time.sleep(30)
             except requests.exceptions.ConnectionError:
                 print("Connection Error: " + str(tries) + " // "
                       + str(json_l["program_number"]))

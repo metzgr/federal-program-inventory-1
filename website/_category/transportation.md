@@ -1,6 +1,6 @@
 ---
-agencies: '[{"title":"Department of Transportation","total_num_programs":82,"total_obs":114485121948.72},{"title":"Department
-  of the Interior","total_num_programs":5,"total_obs":1355005173.0},{"title":"Environmental
+agencies: '[{"title":"Department of Transportation","total_num_programs":82,"total_obs":114487121948.72},{"title":"Department
+  of the Interior","total_num_programs":5,"total_obs":1341745565.0},{"title":"Environmental
   Protection Agency","total_num_programs":6,"total_obs":1140434114.0},{"title":"Department
   of Commerce","total_num_programs":3,"total_obs":689165753.0},{"title":"Department
   of Homeland Security","total_num_programs":1,"total_obs":100000000.0},{"title":"Department
@@ -487,15 +487,15 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/transportation
-sub_cats: '[{"title":"Air Transportation","permalink":"/category/transportation/air-transportation","total_num_programs":24,"total_obs":12530679333.0},{"title":"Highways,
-  Public Roads, and Bridges","permalink":"/category/transportation/highways--public-roads--and-bridges","total_num_programs":60,"total_obs":74776354729.72},{"title":"Rail
+sub_cats: '[{"title":"Air Transportation","permalink":"/category/transportation/air-transportation","total_num_programs":24,"total_obs":12532679333.0},{"title":"Highways,
+  Public Roads, and Bridges","permalink":"/category/transportation/highways--public-roads--and-bridges","total_num_programs":60,"total_obs":74763095122.72},{"title":"Rail
   Transportation","permalink":"/category/transportation/rail-transportation","total_num_programs":45,"total_obs":30549659852.0},{"title":"Urban
   Mass Transit","permalink":"/category/transportation/urban-mass-transit","total_num_programs":42,"total_obs":22868338043.0},{"title":"Water
-  Navigation","permalink":"/category/transportation/water-navigation","total_num_programs":26,"total_obs":5316686672.0}]'
+  Navigation","permalink":"/category/transportation/water-navigation","total_num_programs":26,"total_obs":5316686671.0}]'
 title: Transportation
 total_num_agencies: 13
 total_num_applicant_types: 42
 total_num_programs: 109
 total_num_sub_cats: 5
-total_obs: 117895704077.72
+total_obs: 117884444469.72
 ---

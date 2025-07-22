@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":2,"total_obs":1224596817.0},{"title":"Department
+agencies: '[{"title":"Department of the Interior","total_num_programs":2,"total_obs":1211337210.0},{"title":"Department
   of Transportation","total_num_programs":9,"total_obs":403129000.0},{"title":"Department
   of Commerce","total_num_programs":7,"total_obs":305697625.0},{"title":"Department
   of Labor","total_num_programs":1,"total_obs":95327000.0},{"title":"Southeast Crescent
@@ -484,7 +484,7 @@ parent_title: Business and Commerce
 permalink: /category/business-and-commerce/maritime
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"20.807","permalink":"/program/20.807","title":"U.S.
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"20.807","permalink":"/program/20.807","title":"U.S.
   Merchant Marine Academy","popular_name":"USMMA Kings Point, New York","agency":"Department
   of Transportation","total_obs":184729000.0,"program_type":"assistance_listing"},{"cfda":"11.040","permalink":"/program/11.040","title":"Distressed
   Area Recompete Pilot Program","popular_name":"Recompete Pilot Program","agency":"Department
@@ -545,5 +545,5 @@ title: Maritime
 total_num_agencies: 11
 total_num_applicant_types: 37
 total_num_programs: 28
-total_obs: 2068500441.0
+total_obs: 2055240834.0
 ---

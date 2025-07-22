@@ -11,7 +11,7 @@ agencies: '[{"title":"Department of Education","total_num_programs":16,"total_ob
   of Museum and Library Services","total_num_programs":1,"total_obs":30014398.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of Transportation","total_num_programs":2,"total_obs":13500000.0},{"title":"Department
-  of Veterans Affairs","total_num_programs":1,"total_obs":4027000.0},{"title":"Department
+  of Veterans Affairs","total_num_programs":1,"total_obs":2798000.0},{"title":"Department
   of the Interior","total_num_programs":4,"total_obs":1148082.0},{"title":"Department
   of the Treasury","total_num_programs":1,"total_obs":0.0},{"title":"Department of
   State","total_num_programs":2,"total_obs":0.0},{"title":"Department of Energy","total_num_programs":1,"total_obs":0.0},{"title":"Department
@@ -546,11 +546,11 @@ programs: '[{"cfda":"84.268","permalink":"/program/84.268","title":"Federal Dire
   Development, Monitoring, Public Education, Outreach, Training, Demonstrations, and
   Studies ","popular_name":null,"agency":"Environmental Protection Agency","total_obs":7151710.0,"program_type":"assistance_listing"},{"cfda":"20.111","permalink":"/program/20.111","title":"Aircraft
   Pilots Workforce Development Grant Program","popular_name":"Aircraft Pilots Workforce
-  Development Grant Program","agency":"Department of Transportation","total_obs":4500000.0,"program_type":"assistance_listing"},{"cfda":"64.120","permalink":"/program/64.120","title":"Post-Vietnam
-  Era Veterans'' Educational Assistance","popular_name":"(Veteran''s Educational Assistance
-  Program(VEAP)-Chapter 32)","agency":"Department of Veterans Affairs","total_obs":4027000.0,"program_type":"assistance_listing"},{"cfda":"66.951","permalink":"/program/66.951","title":"Environmental
+  Development Grant Program","agency":"Department of Transportation","total_obs":4500000.0,"program_type":"assistance_listing"},{"cfda":"66.951","permalink":"/program/66.951","title":"Environmental
   Education Grants Program","popular_name":"EE Grants Program","agency":"Environmental
-  Protection Agency","total_obs":3620309.0,"program_type":"assistance_listing"},{"cfda":"10.220","permalink":"/program/10.220","title":"Higher
+  Protection Agency","total_obs":3620309.0,"program_type":"assistance_listing"},{"cfda":"64.120","permalink":"/program/64.120","title":"Post-Vietnam
+  Era Veterans'' Educational Assistance","popular_name":"(Veteran''s Educational Assistance
+  Program(VEAP)-Chapter 32)","agency":"Department of Veterans Affairs","total_obs":2798000.0,"program_type":"assistance_listing"},{"cfda":"10.220","permalink":"/program/10.220","title":"Higher
   Education - Multicultural Scholars Grant Program","popular_name":"Institution Challenge,
   Multicultural Scholars & Graduate Fellowships Grant Program (Multicultural Scholars)\r\n\r\n[Formerly:
   Minority Scholars Program]","agency":"Department of Agriculture","total_obs":1181551.0,"program_type":"assistance_listing"},{"cfda":"15.969","permalink":"/program/15.969","title":"National
@@ -585,5 +585,5 @@ title: Vocational Development
 total_num_agencies: 20
 total_num_applicant_types: 45
 total_num_programs: 49
-total_obs: 209204175353.65
+total_obs: 209202946353.65
 ---

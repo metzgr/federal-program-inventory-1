@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Commerce","total_num_programs":5,"total_obs":25297640417.0},{"title":"Department
-  of Housing and Urban Development","total_num_programs":10,"total_obs":7687825983.0},{"title":"Department
+  of Housing and Urban Development","total_num_programs":10,"total_obs":3762725983.0},{"title":"Department
   of Health and Human Services","total_num_programs":3,"total_obs":1098693531.0},{"title":"Department
   of Defense","total_num_programs":11,"total_obs":795233469.0},{"title":"Department
   of the Treasury","total_num_programs":7,"total_obs":448946281.0},{"title":"Department
@@ -8,7 +8,7 @@ agencies: '[{"title":"Department of Commerce","total_num_programs":5,"total_obs"
   of Agriculture","total_num_programs":5,"total_obs":112124949.0},{"title":"Environmental
   Protection Agency","total_num_programs":8,"total_obs":77504315.0},{"title":"The
   Institute of Museum and Library Services","total_num_programs":3,"total_obs":39786398.0},{"title":"Department
-  of the Interior","total_num_programs":4,"total_obs":31715763.0},{"title":"Inter-American
+  of the Interior","total_num_programs":4,"total_obs":33914293.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Department
   of Transportation","total_num_programs":2,"total_obs":25000000.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Corporation
@@ -22,13 +22,12 @@ applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, exc
   hospitals)","total_num_programs":33},{"title":"Federally Recognized Indian Tribal
   Governments","total_num_programs":32},{"title":"Public nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":32},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":31},{"title":"State","total_num_programs":24},{"title":"Native
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":30},{"title":"State","total_num_programs":23},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":18},{"title":"Other private institutions/organizations","total_num_programs":18},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":17},{"title":"U.S. Territories
-  and possessions","total_num_programs":17},{"title":"Profit organization","total_num_programs":16},{"title":"Other
-  public institution/organization","total_num_programs":15},{"title":"U.S. Territories
-  and possessions (includes institutions of higher education and hospitals)","total_num_programs":13},{"title":"Non-Government
+  nonprofit institution/organization","total_num_programs":17},{"title":"Profit organization","total_num_programs":16},{"title":"U.S.
+  Territories and possessions","total_num_programs":16},{"title":"Other public institution/organization","total_num_programs":15},{"title":"U.S.
+  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":13},{"title":"Non-Government
   - General","total_num_programs":12},{"title":"Interstate","total_num_programs":11},{"title":"Government
   - General","total_num_programs":10},{"title":"Intrastate","total_num_programs":10},{"title":"Federal","total_num_programs":9},{"title":"Small
   business (less than 500 employees)","total_num_programs":6},{"title":"Specialized
@@ -493,12 +492,12 @@ parent_title: Community Development
 permalink: /category/community-development/planning-and-research
 programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Equity,
   Access, and Deployment Program","popular_name":"Broadband Equity, Access, and Deployment
-  Program","agency":"Department of Commerce","total_obs":24408576434.0,"program_type":"assistance_listing"},{"cfda":"14.228","permalink":"/program/14.228","title":"Community
-  Development Block Grants/State''s program and Non-Entitlement Grants in Hawaii","popular_name":"State
-  CDBG","agency":"Department of Housing and Urban Development","total_obs":4938000000.0,"program_type":"assistance_listing"},{"cfda":"14.218","permalink":"/program/14.218","title":"Community
+  Program","agency":"Department of Commerce","total_obs":24408576434.0,"program_type":"assistance_listing"},{"cfda":"14.218","permalink":"/program/14.218","title":"Community
   Development Block Grants/Entitlement Grants","popular_name":"Community Development
   Block Grant Program for Entitlement Communities.","agency":"Department of Housing
-  and Urban Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"93.569","permalink":"/program/93.569","title":"Community
+  and Urban Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"14.228","permalink":"/program/14.228","title":"Community
+  Development Block Grants/State''s program and Non-Entitlement Grants in Hawaii","popular_name":"State
+  CDBG","agency":"Department of Housing and Urban Development","total_obs":1012900000.0,"program_type":"assistance_listing"},{"cfda":"93.569","permalink":"/program/93.569","title":"Community
   Services Block Grant","popular_name":"(CSBG)","agency":"Department of Health and
   Human Services","total_obs":764084255.0,"program_type":"assistance_listing"},{"cfda":"12.777","permalink":"/program/12.777","title":"Defense
   Production Act Title III (DPA Title III)","popular_name":"DPA Title III","agency":"Department
@@ -526,7 +525,7 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   Disposal TAT Grants","agency":"Department of Agriculture","total_obs":49798979.0,"program_type":"assistance_listing"},{"cfda":"21.012","permalink":"/program/21.012","title":"Native
   Initiatives","popular_name":"NACA Program\r\n\r\n","agency":"Department of the Treasury","total_obs":47245000.0,"program_type":"assistance_listing"},{"cfda":"66.306","permalink":"/program/66.306","title":"Environmental
   Justice Collaborative Problem-Solving Cooperative Agreement Program","popular_name":"EJCPS","agency":"Environmental
-  Protection Agency","total_obs":43192607.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  Protection Agency","total_obs":43192607.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"21.021","permalink":"/program/21.021","title":"Bank
   Enterprise Award Program","popular_name":"BEA Program","agency":"Department of the
   Treasury","total_obs":40075069.0,"program_type":"assistance_listing"},{"cfda":"16.589","permalink":"/program/16.589","title":"Rural
@@ -545,15 +544,15 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   Transportation","total_obs":25000000.0,"program_type":"assistance_listing"},{"cfda":"12.003","permalink":"/program/12.003","title":"Community
   Economic Adjustment Assistance for Responding to Threats to the Resilience of a
   Military Installation","popular_name":"Community Economic Adjustment Assistance
-  for Military Installation Resilience","agency":"Department of Defense","total_obs":22100000.0,"program_type":"assistance_listing"},{"cfda":"14.506","permalink":"/program/14.506","title":"General
+  for Military Installation Resilience","agency":"Department of Defense","total_obs":22100000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"14.506","permalink":"/program/14.506","title":"General
   Research and Technology Activity","popular_name":null,"agency":"Department of Housing
   and Urban Development","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"94.003","permalink":"/program/94.003","title":"AmeriCorps
   State Commissions Support Grant","popular_name":"AmeriCorps State Commission Support
-  Grants 94.003","agency":"Corporation for National and Community Service","total_obs":19537990.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"14.536","permalink":"/program/14.536","title":"Research,
+  Grants 94.003","agency":"Corporation for National and Community Service","total_obs":19537990.0,"program_type":"assistance_listing"},{"cfda":"14.536","permalink":"/program/14.536","title":"Research,
   Evaluation, and Demonstrations","popular_name":null,"agency":"Department of Housing
   and Urban Development","total_obs":15860000.0,"program_type":"assistance_listing"},{"cfda":"97.111","permalink":"/program/97.111","title":"Regional
   Catastrophic Preparedness Grant Program (RCPGP)","popular_name":"(RCPGP)","agency":"Department
@@ -638,5 +637,5 @@ title: Planning and Research
 total_num_agencies: 18
 total_num_applicant_types: 39
 total_num_programs: 75
-total_obs: 35878019172.0
+total_obs: 31955117702.0
 ---

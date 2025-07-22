@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Transportation","total_num_programs":39,"total_obs":71929371555.72},{"title":"Department
-  of the Interior","total_num_programs":4,"total_obs":1338005175.0},{"title":"Environmental
+  of the Interior","total_num_programs":4,"total_obs":1324745568.0},{"title":"Environmental
   Protection Agency","total_num_programs":6,"total_obs":1140434114.0},{"title":"Department
   of Commerce","total_num_programs":2,"total_obs":242566796.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":94500466.0},{"title":"Southeast
@@ -501,7 +501,7 @@ programs: '[{"cfda":"20.205","permalink":"/program/20.205","title":"Highway Plan
   America","agency":"Department of Transportation","total_obs":1442600000.0,"program_type":"assistance_listing"},{"cfda":"20.939","permalink":"/program/20.939","title":"Safe
   Streets and Roads for All","popular_name":"SS4A","agency":"Department of Transportation","total_obs":1261494000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
   School Bus Program","popular_name":"Clean School Bus Program","agency":"Environmental
   Protection Agency","total_obs":939221379.0,"program_type":"assistance_listing"},{"cfda":"20.223","permalink":"/program/20.223","title":"Transportation
   Infrastructure Finance and Innovation Act (TIFIA) Program","popular_name":"TIFIA
@@ -555,7 +555,7 @@ programs: '[{"cfda":"20.205","permalink":"/program/20.205","title":"Highway Plan
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"20.945","permalink":"/program/20.945","title":"Asset
   Concessions and Innovative Finance Assistance","popular_name":"Innovative Finance
   and Asset Concession Grant Program","agency":"Department of Transportation","total_obs":18860000.0,"program_type":"assistance_listing"},{"cfda":"20.215","permalink":"/program/20.215","title":"Highway
-  Training and Education","popular_name":"NHI, LTAP, TTAP, DDETFP, TEDP, GAMTTEP","agency":"Department
+  Training and Education","popular_name":"NHI, LTAP, DDETFP, TETDDP, GAMTTEP","agency":"Department
   of Transportation","total_obs":9745000.0,"program_type":"assistance_listing"},{"cfda":"20.611","permalink":"/program/20.611","title":"Incentive
   Grant Program to Prohibit Racial Profiling","popular_name":"(Section 1906)","agency":"Department
   of Transportation","total_obs":8625000.0,"program_type":"assistance_listing"},{"cfda":"64.035","permalink":"/program/64.035","title":"Veterans
@@ -609,5 +609,5 @@ title: Highways, Public Roads, and Bridges
 total_num_agencies: 11
 total_num_applicant_types: 40
 total_num_programs: 60
-total_obs: 74776354729.72
+total_obs: 74763095122.72
 ---

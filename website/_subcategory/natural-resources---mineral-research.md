@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":24,"total_obs":1636713824.72},{"title":"Department
+agencies: '[{"title":"Department of the Interior","total_num_programs":24,"total_obs":1677588341.72},{"title":"Department
   of State","total_num_programs":3,"total_obs":1243552132.0},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":289223064.0},{"title":"Gulf Coast
   Ecosystem Restoration Council","total_num_programs":2,"total_obs":226607582.0},{"title":"Environmental
@@ -495,13 +495,13 @@ programs: '[{"cfda":"19.017","permalink":"/program/19.017","title":"Environmenta
   of Defense","total_obs":251840523.0,"program_type":"assistance_listing"},{"cfda":"87.051","permalink":"/program/87.051","title":"Gulf
   Coast Ecosystem Restoration Council Comprehensive Plan Component Program","popular_name":"RESTORE
   Council-Selected Restoration Component ","agency":"Gulf Coast Ecosystem Restoration
-  Council","total_obs":151139749.0,"program_type":"assistance_listing"},{"cfda":"66.466","permalink":"/program/66.466","title":"Geographic
-  Programs - Chesapeake Bay Program","popular_name":"Chesapeake Bay Program","agency":"Environmental
-  Protection Agency","total_obs":106045589.0,"program_type":"assistance_listing"},{"cfda":"15.669","permalink":"/program/15.669","title":"Cooperative
-  Landscape Conservation","popular_name":"Cooperative Landscape Conservation Landscape","agency":"Department
-  of the Interior","total_obs":90000000.0,"program_type":"assistance_listing"},{"cfda":"15.808","permalink":"/program/15.808","title":"U.S.
+  Council","total_obs":151139749.0,"program_type":"assistance_listing"},{"cfda":"15.808","permalink":"/program/15.808","title":"U.S.
   Geological Survey Research and Data Collection","popular_name":null,"agency":"Department
-  of the Interior","total_obs":84192202.0,"program_type":"assistance_listing"},{"cfda":"87.052","permalink":"/program/87.052","title":"Gulf
+  of the Interior","total_obs":125066719.0,"program_type":"assistance_listing"},{"cfda":"66.466","permalink":"/program/66.466","title":"Geographic
+  Programs - Chesapeake Bay Program","popular_name":"Chesapeake Bay Program","agency":"Environmental
+  Protection Agency","total_obs":106045589.0,"program_type":"assistance_listing"},{"cfda":"15.669","permalink":"/program/15.669","title":"Collaborative
+  Landscape Conservation","popular_name":"Cooperative Landscape Conservation Landscape","agency":"Department
+  of the Interior","total_obs":90000000.0,"program_type":"assistance_listing"},{"cfda":"87.052","permalink":"/program/87.052","title":"Gulf
   Coast Ecosystem Restoration Council Oil Spill Impact Program","popular_name":"RESTORE
   Council Oil Spill Impact Program","agency":"Gulf Coast Ecosystem Restoration Council","total_obs":75467833.0,"program_type":"assistance_listing"},{"cfda":"15.504","permalink":"/program/15.504","title":"Water
   Recycling and Desalination Construction Programs","popular_name":"Title XVI Water
@@ -529,7 +529,7 @@ programs: '[{"cfda":"19.017","permalink":"/program/19.017","title":"Environmenta
   of the Interior","total_obs":14667570.0,"program_type":"assistance_listing"},{"cfda":"15.810","permalink":"/program/15.810","title":"National
   Cooperative Geologic Mapping ","popular_name":"(StateMap and EdMap)","agency":"Department
   of the Interior","total_obs":14666399.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"15.658","permalink":"/program/15.658","title":"Natural
   Resource Damage Assessment and Restoration","popular_name":"NRDAR","agency":"Department
   of the Interior","total_obs":10000000.0,"program_type":"assistance_listing"},{"cfda":"15.670","permalink":"/program/15.670","title":"Adaptive
@@ -567,5 +567,5 @@ title: Mineral Research
 total_num_agencies: 9
 total_num_applicant_types: 43
 total_num_programs: 39
-total_obs: 3662600374.7200003
+total_obs: 3703474891.7200003
 ---

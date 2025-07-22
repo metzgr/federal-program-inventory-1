@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":4,"total_obs":1232277626.0},{"title":"Corporation
+agencies: '[{"title":"Department of the Interior","total_num_programs":4,"total_obs":1219018019.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":714616540.0},{"title":"Department
   of Commerce","total_num_programs":3,"total_obs":490732289.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":4,"total_obs":173935898.0},{"title":"Southeast
@@ -486,7 +486,7 @@ parent_title: Regional Development
 permalink: /category/regional-development/resources-and-development
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
   State and National 94.006","popular_name":"AmeriCorps State and National","agency":"Corporation
   for National and Community Service","total_obs":714616540.0,"program_type":"assistance_listing"},{"cfda":"11.039","permalink":"/program/11.039","title":"Regional
   Technology and Innovation Hubs","popular_name":"Tech Hubs","agency":"Department
@@ -505,7 +505,7 @@ programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, So
   Comprehensive Approach to Good Health and Wellness in Indian County \u2013 financed
   solely by Prevention and Public Health ","popular_name":"Tribal Wellness","agency":"Department
   of Health and Human Services","total_obs":16275404.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"14.265","permalink":"/program/14.265","title":"Rural
   Capacity Building for Community Development and Affordable Housing Grants","popular_name":"Rural
   Capacity Building Program","agency":"Department of Housing and Urban Development","total_obs":6000000.0,"program_type":"assistance_listing"},{"cfda":"90.800","permalink":"/program/90.800","title":"Federal
@@ -538,5 +538,5 @@ title: Resources and Development
 total_num_agencies: 12
 total_num_applicant_types: 37
 total_num_programs: 26
-total_obs: 2686646251.0
+total_obs: 2673386644.0
 ---

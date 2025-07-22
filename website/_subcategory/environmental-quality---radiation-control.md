@@ -534,10 +534,10 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"15.041","permalink":"/program/15.041","title":"Environmental
   Management Indian ","popular_name":null,"agency":"Department of the Interior","total_obs":11240495.0,"program_type":"assistance_listing"},{"cfda":"66.961","permalink":"/program/66.961","title":"Superfund
-  State and Indian Tribe Combined Cooperative Agreements (Site-Specfic and Core)","popular_name":"Superfund
+  State and Indian Tribe Combined Cooperative Agreements (Site-Specific and Core)","popular_name":"Superfund
   Combined, Bulk or Block Cooperative Agreements","agency":"Environmental Protection
   Agency","total_obs":9382019.0,"program_type":"assistance_listing"},{"cfda":"81.092","permalink":"/program/81.092","title":"Remedial
   Action and Waste Management","popular_name":"Federal Facility Agreement","agency":"Department

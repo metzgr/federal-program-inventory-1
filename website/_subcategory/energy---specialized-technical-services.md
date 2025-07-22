@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Energy","total_num_programs":6,"total_obs":18427193533.0},{"title":"Department
-  of the Interior","total_num_programs":2,"total_obs":1238541722.0},{"title":"Environmental
+  of the Interior","total_num_programs":2,"total_obs":1225282115.0},{"title":"Environmental
   Protection Agency","total_num_programs":3,"total_obs":1107910103.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":251840523.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -487,7 +487,7 @@ programs: '[{"cfda":"81.126","permalink":"/program/81.126","title":"Federal Loan
   of Energy","total_obs":4316336000.0,"program_type":"assistance_listing"},{"cfda":"81.041","permalink":"/program/81.041","title":"State
   Energy Program","popular_name":"SEP","agency":"Department of Energy","total_obs":2768018463.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
   School Bus Program","popular_name":"Clean School Bus Program","agency":"Environmental
   Protection Agency","total_obs":939221379.0,"program_type":"assistance_listing"},{"cfda":"12.333","permalink":"/program/12.333","title":"Advanced
   Manufacturing Technology - Office of the Secretary of Defense (OSD), Manufacturing
@@ -524,5 +524,5 @@ title: Specialized Technical Services
 total_num_agencies: 9
 total_num_applicant_types: 36
 total_num_programs: 19
-total_obs: 21078902750.0
+total_obs: 21065643143.0
 ---

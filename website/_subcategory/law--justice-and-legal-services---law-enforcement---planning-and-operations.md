@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Justice","total_num_programs":61,"total_obs":1666811741.0},{"title":"Department
   of State","total_num_programs":11,"total_obs":666699996.0},{"title":"Department
-  of Homeland Security","total_num_programs":5,"total_obs":551525000.0},{"title":"Department
+  of Homeland Security","total_num_programs":5,"total_obs":551400000.0},{"title":"Department
   of Transportation","total_num_programs":3,"total_obs":537471567.0},{"title":"Department
   of Health and Human Services","total_num_programs":1,"total_obs":367491000.0},{"title":"Department
   of the Interior","total_num_programs":2,"total_obs":229035132.0},{"title":"Department
@@ -25,7 +25,8 @@ applicant_types: '[{"title":"State (includes District of Columbia, public instit
   business (less than 500 employees)","total_num_programs":7},{"title":"Federal","total_num_programs":6},{"title":"Sponsored
   organization","total_num_programs":6},{"title":"Anyone/general public","total_num_programs":5},{"title":"Minority
   group","total_num_programs":5},{"title":"Interstate","total_num_programs":4},{"title":"Intrastate","total_num_programs":4},{"title":"City
-  or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1}]'
+  or Township Government","total_num_programs":1},{"title":"County Government","total_num_programs":1},{"title":"Nonprofit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -523,7 +524,7 @@ programs: '[{"cfda":"19.705","permalink":"/program/19.705","title":"Trans-Nation
   Sexual Assault Kit Initiative","popular_name":"SAKI","agency":"Department of Justice","total_obs":44532160.0,"program_type":"assistance_listing"},{"cfda":"16.526","permalink":"/program/16.526","title":"OVW
   Technical Assistance Initiative","popular_name":"TA Program","agency":"Department
   of Justice","total_obs":43378861.0,"program_type":"assistance_listing"},{"cfda":"16.610","permalink":"/program/16.610","title":"Regional
-  Information Sharing Systems","popular_name":"(RISS)","agency":"Department of Justice","total_obs":41360000.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  Information Sharing Systems","popular_name":"(RISS)","agency":"Department of Justice","total_obs":41360000.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"16.745","permalink":"/program/16.745","title":"Criminal
   and Juvenile Justice and Mental Health Collaboration Program","popular_name":"JMHCP","agency":"Department
   of Justice","total_obs":35382942.0,"program_type":"assistance_listing"},{"cfda":"16.742","permalink":"/program/16.742","title":"Paul
@@ -584,10 +585,10 @@ programs: '[{"cfda":"19.705","permalink":"/program/19.705","title":"Trans-Nation
   Planning for Juvenile Justice Facilities","popular_name":null,"agency":"Department
   of Justice","total_obs":872472.0,"program_type":"assistance_listing"},{"cfda":"16.050","permalink":"/program/16.050","title":"Missing
   and Unidentified Human Remains (MUHR) Program","popular_name":null,"agency":"Department
-  of Justice","total_obs":764232.0,"program_type":"assistance_listing"},{"cfda":"97.007","permalink":"/program/97.007","title":"Homeland
+  of Justice","total_obs":764232.0,"program_type":"assistance_listing"},{"cfda":"19.036","permalink":"/program/19.036","title":"Cultural
+  Antiquities Task Force","popular_name":"CATF","agency":"Department of State","total_obs":499999.0,"program_type":"assistance_listing"},{"cfda":"97.007","permalink":"/program/97.007","title":"Homeland
   Security Preparedness Technical Assistance Program","popular_name":"(HSPTAP)","agency":"Department
-  of Homeland Security","total_obs":525000.0,"program_type":"assistance_listing"},{"cfda":"19.036","permalink":"/program/19.036","title":"Cultural
-  Antiquities Task Force","popular_name":"CATF","agency":"Department of State","total_obs":499999.0,"program_type":"assistance_listing"},{"cfda":"16.824","permalink":"/program/16.824","title":"Emergency
+  of Homeland Security","total_obs":400000.0,"program_type":"assistance_listing"},{"cfda":"16.824","permalink":"/program/16.824","title":"Emergency
   Law Enforcement Assistance Grant","popular_name":"(EFLEA)","agency":"Department
   of Justice","total_obs":244963.0,"program_type":"assistance_listing"},{"cfda":"19.792","permalink":"/program/19.792","title":"Assessed
   Contributions to International Organizations","popular_name":"Peacekeeping Operations
@@ -632,7 +633,7 @@ programs: '[{"cfda":"19.705","permalink":"/program/19.705","title":"Trans-Nation
   Prosecution Initiative","popular_name":"IPI","agency":"Department of Justice","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Law Enforcement - Planning and Operations
 total_num_agencies: 8
-total_num_applicant_types: 41
+total_num_applicant_types: 42
 total_num_programs: 87
-total_obs: 4024145648.0
+total_obs: 4024020648.0
 ---

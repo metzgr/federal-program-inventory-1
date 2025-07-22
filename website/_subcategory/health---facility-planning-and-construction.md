@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":1,"total_obs":2461000000.0},{"title":"Department
   of Health and Human Services","total_num_programs":16,"total_obs":1422454919.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":1224448195.0},{"title":"Federal
+  of the Interior","total_num_programs":1,"total_obs":1211188588.0},{"title":"Federal
   Communications Commission","total_num_programs":1,"total_obs":783000000.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":97824471.0},{"title":"Department
   of Justice","total_num_programs":1,"total_obs":30193359.0},{"title":"Department
@@ -490,7 +490,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Program for Entitlement Communities.","agency":"Department of Housing and Urban
   Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"93.493","permalink":"/program/93.493","title":"Congressional
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"93.493","permalink":"/program/93.493","title":"Congressional
   Directives","popular_name":null,"agency":"Department of Health and Human Services","total_obs":1018465919.0,"program_type":"assistance_listing"},{"cfda":"32.005","permalink":"/program/32.005","title":"UNIVERSAL
   SERVICE FUND - RURAL HEALTH CARE","popular_name":"USAC - RURAL HEALTH CARE","agency":"Federal
   Communications Commission","total_obs":783000000.0,"program_type":"assistance_listing"},{"cfda":"93.796","permalink":"/program/93.796","title":"State
@@ -563,5 +563,5 @@ title: Facility Planning and Construction
 total_num_agencies: 14
 total_num_applicant_types: 39
 total_num_programs: 33
-total_obs: 6085852970.0
+total_obs: 6072593363.0
 ---

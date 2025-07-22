@@ -1,21 +1,21 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":2,"total_obs":2533030085.0},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":2328833261.0},{"title":"Department
-  of the Interior","total_num_programs":3,"total_obs":1247282747.0},{"title":"Federal
+  of the Interior","total_num_programs":3,"total_obs":1234023140.0},{"title":"Federal
   Communications Commission","total_num_programs":2,"total_obs":783000000.0},{"title":"Department
   of Transportation","total_num_programs":2,"total_obs":402117241.0},{"title":"Department
   of Agriculture","total_num_programs":1,"total_obs":315737359.0},{"title":"Environmental
   Protection Agency","total_num_programs":4,"total_obs":239268349.0},{"title":"Department
   of Homeland Security","total_num_programs":1,"total_obs":45873584.0},{"title":"Department
-  of Justice","total_num_programs":2,"total_obs":39383731.0},{"title":"Southeast Crescent
-  Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
-  of Health and Human Services","total_num_programs":8,"total_obs":7587636.0},{"title":"Department
+  of Justice","total_num_programs":2,"total_obs":39383731.0},{"title":"Department
+  of Health and Human Services","total_num_programs":8,"total_obs":32587636.0},{"title":"Southeast
+  Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of the Treasury","total_num_programs":3,"total_obs":5111212.0},{"title":"Department
   of State","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":18},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":17},{"title":"Local (includes
-  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":17},{"title":"Private
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":16},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":15},{"title":"State (includes District of Columbia,
   public institutions of higher education and hospitals)","total_num_programs":15},{"title":"Other
@@ -492,7 +492,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Guard Military Operations and Maintenance (O&M) Projects","popular_name":"National
   Guard Facility Operations and Maintenance Activities","agency":"Department of Defense","total_obs":2293444239.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"32.005","permalink":"/program/32.005","title":"UNIVERSAL
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"32.005","permalink":"/program/32.005","title":"UNIVERSAL
   SERVICE FUND - RURAL HEALTH CARE","popular_name":"USAC - RURAL HEALTH CARE","agency":"Federal
   Communications Commission","total_obs":783000000.0,"program_type":"assistance_listing"},{"cfda":"20.600","permalink":"/program/20.600","title":"State
   and Community Highway Safety","popular_name":null,"agency":"Department of Transportation","total_obs":394770000.0,"program_type":"assistance_listing"},{"cfda":"10.511","permalink":"/program/10.511","title":"Smith-Lever
@@ -511,12 +511,15 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   to Encourage Arrest Policies and Enforcement of Protection Orders Program","popular_name":"Improving
   Criminal Justice Responses","agency":"Department of Justice","total_obs":39383731.0,"program_type":"assistance_listing"},{"cfda":"12.019","permalink":"/program/12.019","title":"Pacific
   Center Disaster (PDC) Program","popular_name":"Disaster Services and Water Resilience
-  Cooperative Agreement","agency":"Department of Defense","total_obs":35389022.0,"program_type":"assistance_listing"},{"cfda":"15.674","permalink":"/program/15.674","title":"National
+  Cooperative Agreement","agency":"Department of Defense","total_obs":35389022.0,"program_type":"assistance_listing"},{"cfda":"93.661","permalink":"/program/93.661","title":"Extramural
+  Research Restoration Program:  Hurricanes Fiona and Ian","popular_name":"Extramural
+  Research Restoration Program:  Hurricanes Fiona and Ian","agency":"Department of
+  Health and Human Services","total_obs":25000000.0,"program_type":"assistance_listing"},{"cfda":"15.674","permalink":"/program/15.674","title":"National
   Fire Plan-Wildland Urban Interface Community Fire Assistance","popular_name":null,"agency":"Department
   of the Interior","total_obs":22000000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"20.723","permalink":"/program/20.723","title":"PHMSA
   Pipeline Safety Research and Development \u201cOther Transaction Agreements\u201d","popular_name":null,"agency":"Department
   of Transportation","total_obs":7347241.0,"program_type":"assistance_listing"},{"cfda":"93.283","permalink":"/program/93.283","title":"Centers
@@ -544,10 +547,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   of Justice","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"21.019","permalink":"/program/21.019","title":"Coronavirus
   Relief Fund","popular_name":"CRF","agency":"Department of the Treasury","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.124","permalink":"/program/19.124","title":"East
   Asia and Pacific Grants Program","popular_name":"U.S. Department of State, Bureau
-  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.661","permalink":"/program/93.661","title":"Extramural
-  Research Restoration Program:  Hurricanes Fiona and Ian","popular_name":"Extramural
-  Research Restoration Program:  Hurricanes Fiona and Ian","agency":"Department of
-  Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.461","permalink":"/program/93.461","title":"HRSA
+  of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.461","permalink":"/program/93.461","title":"HRSA
   COVID-19 Claims Reimbursement for the Uninsured Program and the COVID-19 Coverage
   Assistance Fund","popular_name":"HRSA COVID-19 Claims Reimbursement for the Uninsured
   Program (UIP) and the COVID-19 Coverage Assistance Fund (CAF)","agency":"Department
@@ -562,5 +562,5 @@ title: Emergency Health Services
 total_num_agencies: 14
 total_num_applicant_types: 34
 total_num_programs: 33
-total_obs: 7967225205.0
+total_obs: 7978965598.0
 ---

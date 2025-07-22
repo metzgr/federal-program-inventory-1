@@ -1,9 +1,9 @@
 ---
 agencies: '[{"title":"The Institute of Museum and Library Services","total_num_programs":8,"total_obs":262382877.0},{"title":"Department
   of State","total_num_programs":11,"total_obs":207730619.0},{"title":"National Endowment
-  for the Humanities","total_num_programs":9,"total_obs":141415000.0},{"title":"Department
-  of the Interior","total_num_programs":7,"total_obs":21802352.0},{"title":"Southeast
-  Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"National
+  for the Humanities","total_num_programs":9,"total_obs":141415000.0},{"title":"Southeast
+  Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
+  of the Interior","total_num_programs":7,"total_obs":15164058.0},{"title":"National
   Endowment for the Arts","total_num_programs":1,"total_obs":0.0},{"title":"Library
   of Congress","total_num_programs":2,"total_obs":0.0},{"title":"Japan-U.S. Friendship
   Commission","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
@@ -512,9 +512,7 @@ programs: '[{"cfda":"45.310","permalink":"/program/45.310","title":"Grants to St
   \u2013 American Spaces","popular_name":"ECA - American Spaces","agency":"Department
   of State","total_obs":8546591.0,"program_type":"assistance_listing"},{"cfda":"45.160","permalink":"/program/45.160","title":"Promotion
   of the Humanities Fellowships and Stipends","popular_name":null,"agency":"National
-  Endowment for the Humanities","total_obs":8375000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
-  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
-  of the Interior","total_obs":7663756.0,"program_type":"assistance_listing"},{"cfda":"45.169","permalink":"/program/45.169","title":"Promotion
+  Endowment for the Humanities","total_obs":8375000.0,"program_type":"assistance_listing"},{"cfda":"45.169","permalink":"/program/45.169","title":"Promotion
   of the Humanities Office of Digital Humanities","popular_name":null,"agency":"National
   Endowment for the Humanities","total_obs":6875000.0,"program_type":"assistance_listing"},{"cfda":"45.309","permalink":"/program/45.309","title":"Museum
   Grants for African American History and Culture","popular_name":"AAHC","agency":"The
@@ -526,7 +524,9 @@ programs: '[{"cfda":"45.310","permalink":"/program/45.310","title":"Grants to St
   Latino Museum Internship and Fellowship Initiative","popular_name":"ALMIFI","agency":"The
   Institute of Museum and Library Services","total_obs":3500000.0,"program_type":"assistance_listing"},{"cfda":"15.071","permalink":"/program/15.071","title":"Pacific
   Northwest and Hawaiian Islands Arts","popular_name":"PNW & HI Arts Program","agency":"Department
-  of the Interior","total_obs":1499282.0,"program_type":"assistance_listing"},{"cfda":"19.452","permalink":"/program/19.452","title":"International
+  of the Interior","total_obs":1499282.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
+  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
+  of the Interior","total_obs":1025462.0,"program_type":"assistance_listing"},{"cfda":"19.452","permalink":"/program/19.452","title":"International
   Exchange Alumni Programs","popular_name":"International Exchange Alumni Programs
   include Alumni Thematic International Exchange Seminars (TIES) and the U.S. Exchange
   Alumni Network and Capacity Building Program.","agency":"Department of State","total_obs":1000000.0,"program_type":"assistance_listing"},{"cfda":"15.955","permalink":"/program/15.955","title":"Martin
@@ -567,5 +567,5 @@ title: Promotion of the Humanities
 total_num_agencies: 9
 total_num_applicant_types: 39
 total_num_programs: 41
-total_obs: 653330848.0
+total_obs: 646692554.0
 ---

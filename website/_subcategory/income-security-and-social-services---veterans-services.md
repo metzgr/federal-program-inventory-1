@@ -1,7 +1,7 @@
 ---
-agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":17,"total_obs":17999756874.170002},{"title":"Department
+agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":17,"total_obs":18165847874.170002},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":70952933.0},{"title":"Small Business
-  Administration","total_num_programs":1,"total_obs":5461205.0},{"title":"Corporation
+  Administration","total_num_programs":1,"total_obs":11979998.0},{"title":"Corporation
   for National and Community Service","total_num_programs":2,"total_obs":2910238.0},{"title":"Social
   Security Administration","total_num_programs":1,"total_obs":200000.0},{"title":"Department
   of the Treasury","total_num_programs":1,"total_obs":0.0},{"title":"Department of
@@ -482,11 +482,11 @@ parent_title: Income Security and Social Services
 permalink: /category/income-security-and-social-services/veterans-services
 programs: '[{"cfda":"64.110","permalink":"/program/64.110","title":"Veterans Dependency
   and Indemnity Compensation for Service-Connected Death","popular_name":"(DIC and
-  Death Compensation)","agency":"Department of Veterans Affairs","total_obs":10466297720.0,"program_type":"assistance_listing"},{"cfda":"64.104","permalink":"/program/64.104","title":"Pension
-  for Non-Service-Connected Disability for Veterans","popular_name":"(Pension)","agency":"Department
-  of Veterans Affairs","total_obs":1996374504.0,"program_type":"assistance_listing"},{"cfda":"64.117","permalink":"/program/64.117","title":"Survivors
+  Death Compensation)","agency":"Department of Veterans Affairs","total_obs":10466297720.0,"program_type":"assistance_listing"},{"cfda":"64.117","permalink":"/program/64.117","title":"Survivors
   and Dependents Educational Assistance","popular_name":"Survivors and Dependents
-  Educational Assistance (DEA) - Chapter 35","agency":"Department of Veterans Affairs","total_obs":1910477000.0,"program_type":"assistance_listing"},{"cfda":"64.105","permalink":"/program/64.105","title":"Pension
+  Educational Assistance (DEA) - Chapter 35","agency":"Department of Veterans Affairs","total_obs":2076568000.0,"program_type":"assistance_listing"},{"cfda":"64.104","permalink":"/program/64.104","title":"Pension
+  for Non-Service-Connected Disability for Veterans","popular_name":"(Pension)","agency":"Department
+  of Veterans Affairs","total_obs":1996374504.0,"program_type":"assistance_listing"},{"cfda":"64.105","permalink":"/program/64.105","title":"Pension
   to Veterans Surviving Spouses, and Children","popular_name":"(Death Pension)","agency":"Department
   of Veterans Affairs","total_obs":1100513254.0,"program_type":"assistance_listing"},{"cfda":"64.116","permalink":"/program/64.116","title":"Veteran
   Readiness and Employment","popular_name":"(Vocational Rehabilitation; Veteran Readiness
@@ -507,13 +507,13 @@ programs: '[{"cfda":"64.110","permalink":"/program/64.110","title":"Veterans Dep
   Fox SPGP Staff Sergeant Parker Gordon Fox Suicide Prevention Grant Program","agency":"Department
   of Veterans Affairs","total_obs":52500000.0,"program_type":"assistance_listing"},{"cfda":"64.203","permalink":"/program/64.203","title":"Veterans
   Cemetery Grants Program","popular_name":"VCGP (Authority: 38 U.S.C. 501, 2408)","agency":"Department
-  of Veterans Affairs","total_obs":44553338.0,"program_type":"assistance_listing"},{"cfda":"64.201","permalink":"/program/64.201","title":"National
+  of Veterans Affairs","total_obs":44553338.0,"program_type":"assistance_listing"},{"cfda":"59.066","permalink":"/program/59.066","title":"Transition
+  Assistance \u2013 Entrepreneurship Track (Boots to Business)","popular_name":"Boots
+  to Business (B2B)","agency":"Small Business Administration","total_obs":11979998.0,"program_type":"assistance_listing"},{"cfda":"64.201","permalink":"/program/64.201","title":"National
   Cemeteries","popular_name":"National Cemetery Scheduling and Eligibility","agency":"Department
   of Veterans Affairs","total_obs":11892683.0,"program_type":"assistance_listing"},{"cfda":"64.005","permalink":"/program/64.005","title":"Grants
   to States for Construction of State Home Facilities","popular_name":"State Home
-  Construction","agency":"Department of Veterans Affairs","total_obs":10526645.0,"program_type":"assistance_listing"},{"cfda":"59.066","permalink":"/program/59.066","title":"Transition
-  Assistance \u2013 Entrepreneurship Track (Boots to Business)","popular_name":"Boots
-  to Business (B2B)","agency":"Small Business Administration","total_obs":5461205.0,"program_type":"assistance_listing"},{"cfda":"94.012","permalink":"/program/94.012","title":"AmeriCorps
+  Construction","agency":"Department of Veterans Affairs","total_obs":10526645.0,"program_type":"assistance_listing"},{"cfda":"94.012","permalink":"/program/94.012","title":"AmeriCorps
   September 11th National Day of Service and Remembrance Grants 94.012","popular_name":"September
   11th National Day of Service and Remembrance Grants","agency":"Corporation for National
   and Community Service","total_obs":2910238.0,"program_type":"assistance_listing"},{"cfda":"64.204","permalink":"/program/64.204","title":"Veterans
@@ -540,5 +540,5 @@ title: Veterans Services
 total_num_agencies: 9
 total_num_applicant_types: 35
 total_num_programs: 27
-total_obs: 18079281250.170002
+total_obs: 18251891043.170002
 ---

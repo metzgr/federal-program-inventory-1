@@ -1,9 +1,9 @@
 ---
-agencies: '[{"title":"Department of Health and Human Services","total_num_programs":331,"total_obs":1841335659075.05},{"title":"Social
+agencies: '[{"title":"Department of Health and Human Services","total_num_programs":329,"total_obs":1840790066075.05},{"title":"Social
   Security Administration","total_num_programs":4,"total_obs":153624444070.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":6,"total_obs":6575000000.0},{"title":"Department
   of Veterans Affairs","total_num_programs":14,"total_obs":4879693376.0},{"title":"Department
-  of the Interior","total_num_programs":6,"total_obs":1346537770.0},{"title":"Federal
+  of the Interior","total_num_programs":6,"total_obs":1335476692.0},{"title":"Federal
   Communications Commission","total_num_programs":3,"total_obs":787000000.0},{"title":"Department
   of Agriculture","total_num_programs":16,"total_obs":699008137.0},{"title":"Department
   of Defense","total_num_programs":6,"total_obs":539588488.72},{"title":"Department
@@ -22,22 +22,23 @@ agencies: '[{"title":"Department of Health and Human Services","total_num_progra
   Office of the President","total_num_programs":1,"total_obs":13045000.0},{"title":"Denali
   Commission","total_num_programs":2,"total_obs":20.0},{"title":"Department of Energy","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":258},{"title":"State (includes
-  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":234},{"title":"Private
+  of higher education and hospitals)","total_num_programs":257},{"title":"State (includes
+  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":231},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":231},{"title":"Federally Recognized Indian Tribal
+  hospitals)","total_num_programs":230},{"title":"Federally Recognized Indian Tribal
   Governments","total_num_programs":185},{"title":"Local (includes State-designated
-  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":183},{"title":"U.S.
+  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":182},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":138},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":131},{"title":"Other public institution/organization","total_num_programs":125},{"title":"State","total_num_programs":124},{"title":"U.S.
-  Territories and possessions","total_num_programs":118},{"title":"Other private institutions/organizations","total_num_programs":80},{"title":"Profit
+  associations)","total_num_programs":131},{"title":"Other public institution/organization","total_num_programs":125},{"title":"State","total_num_programs":123},{"title":"U.S.
+  Territories and possessions","total_num_programs":116},{"title":"Other private institutions/organizations","total_num_programs":80},{"title":"Profit
   organization","total_num_programs":80},{"title":"Specialized group (e.g. health
   professionals, students, veterans)","total_num_programs":71},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":61},{"title":"Small business
   (less than 500 employees)","total_num_programs":60},{"title":"Non-Government - General","total_num_programs":53},{"title":"Government
-  - General","total_num_programs":41},{"title":"Individual/Family","total_num_programs":39},{"title":"Federal","total_num_programs":38},{"title":"Minority
-  group","total_num_programs":37},{"title":"Sponsored organization","total_num_programs":31},{"title":"Intrastate","total_num_programs":21},{"title":"Interstate","total_num_programs":20},{"title":"Anyone/general
+  - General","total_num_programs":40},{"title":"Individual/Family","total_num_programs":37},{"title":"Minority
+  group","total_num_programs":37},{"title":"Federal","total_num_programs":36},{"title":"Sponsored
+  organization","total_num_programs":31},{"title":"Intrastate","total_num_programs":21},{"title":"Interstate","total_num_programs":20},{"title":"Anyone/general
   public","total_num_programs":17},{"title":"Indian/Native American Tribal Government
   (Other than Federally Recognized)","total_num_programs":5},{"title":"City or Township
   Government","total_num_programs":2},{"title":"County Government","total_num_programs":2},{"title":"Independent
@@ -507,27 +508,27 @@ sub_cats: '[{"title":"Alcoholism, Drug Abuse and Mental Health - General","perma
   Drug Abuse and Mental Health - Law Enforcement","permalink":"/category/health/alcoholism--drug-abuse-and-mental-health---law-enforcement","total_num_programs":27,"total_obs":1663828916.72},{"title":"Alcoholism,
   Drug Abuse and Mental Health - Planning","permalink":"/category/health/alcoholism--drug-abuse-and-mental-health---planning","total_num_programs":27,"total_obs":7012657674.0},{"title":"Alcoholism,
   Drug Abuse and Mental Health - Research","permalink":"/category/health/alcoholism--drug-abuse-and-mental-health---research","total_num_programs":27,"total_obs":8121297674.72},{"title":"Communicable
-  Diseases","permalink":"/category/health/communicable-diseases","total_num_programs":69,"total_obs":9456860028.0},{"title":"Education
-  and Training","permalink":"/category/health/education-and-training","total_num_programs":131,"total_obs":167671773016.71},{"title":"Facility
+  Diseases","permalink":"/category/health/communicable-diseases","total_num_programs":69,"total_obs":9443600421.0},{"title":"Education
+  and Training","permalink":"/category/health/education-and-training","total_num_programs":130,"total_obs":167671773016.71},{"title":"Facility
   Loans and Insurance","permalink":"/category/health/facility-loans-and-insurance","total_num_programs":22,"total_obs":26137641802.0},{"title":"Facility
-  Planning and Construction","permalink":"/category/health/facility-planning-and-construction","total_num_programs":33,"total_obs":6085852970.0},{"title":"General
-  Health and Medical","permalink":"/category/health/general-health-and-medical","total_num_programs":130,"total_obs":1763895435352.0},{"title":"Health
-  Research - General","permalink":"/category/health/health-research---general","total_num_programs":76,"total_obs":16925381708.0},{"title":"Health
+  Planning and Construction","permalink":"/category/health/facility-planning-and-construction","total_num_programs":33,"total_obs":6072593363.0},{"title":"General
+  Health and Medical","permalink":"/category/health/general-health-and-medical","total_num_programs":130,"total_obs":1763882175745.0},{"title":"Health
+  Research - General","permalink":"/category/health/health-research---general","total_num_programs":76,"total_obs":16927580238.0},{"title":"Health
   Services Planning and Technical Assistance","permalink":"/category/health/health-services-planning-and-technical-assistance","total_num_programs":114,"total_obs":21247475108.0},{"title":"Indian
-  Health","permalink":"/category/health/indian-health","total_num_programs":61,"total_obs":8132852199.0},{"title":"Libraries,
+  Health","permalink":"/category/health/indian-health","total_num_programs":61,"total_obs":8135050729.0},{"title":"Libraries,
   Information and Education Services","permalink":"/category/health/libraries--information-and-education-services","total_num_programs":37,"total_obs":14301726115.0},{"title":"Maternity,
   Infants, Children","permalink":"/category/health/maternity--infants--children","total_num_programs":55,"total_obs":42227357076.0},{"title":"Mental
   Health","permalink":"/category/health/mental-health","total_num_programs":60,"total_obs":13948686734.0},{"title":"Occupational
   Safety and Health","permalink":"/category/health/occupational-safety-and-health","total_num_programs":38,"total_obs":1990377229.0},{"title":"Physical
   Fitness","permalink":"/category/health/physical-fitness","total_num_programs":30,"total_obs":3300505386.0},{"title":"Prevention
-  and Control","permalink":"/category/health/prevention-and-control","total_num_programs":135,"total_obs":35586428303.0},{"title":"Program
+  and Control","permalink":"/category/health/prevention-and-control","total_num_programs":134,"total_obs":35040835303.0},{"title":"Program
   Development","permalink":"/category/health/program-development","total_num_programs":87,"total_obs":8228337412.0},{"title":"Specialized
-  Health Research and Training","permalink":"/category/health/specialized-health-research-and-training","total_num_programs":76,"total_obs":27344932161.0},{"title":"Veterans
+  Health Research and Training","permalink":"/category/health/specialized-health-research-and-training","total_num_programs":74,"total_obs":26799339160.0},{"title":"Veterans
   Health","permalink":"/category/health/veterans-health","total_num_programs":38,"total_obs":5630211460.059999}]'
 title: Health
 total_num_agencies: 23
 total_num_applicant_types: 51
-total_num_programs: 448
+total_num_programs: 446
 total_num_sub_cats: 21
-total_obs: 2011225079934.49
+total_obs: 2010668425856.49
 ---

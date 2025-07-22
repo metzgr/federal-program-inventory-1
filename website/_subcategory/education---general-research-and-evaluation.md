@@ -5,7 +5,7 @@ agencies: '[{"title":"Department of Health and Human Services","total_num_progra
   of Energy","total_num_programs":3,"total_obs":1547564558.0},{"title":"Department
   of Education","total_num_programs":12,"total_obs":917007201.0},{"title":"Department
   of Commerce","total_num_programs":7,"total_obs":566853534.0},{"title":"National
-  Aeronautics and Space Administration","total_num_programs":6,"total_obs":303675815.0},{"title":"Department
+  Aeronautics and Space Administration","total_num_programs":6,"total_obs":305663259.0},{"title":"Department
   of Defense","total_num_programs":4,"total_obs":278715606.0},{"title":"Environmental
   Protection Agency","total_num_programs":4,"total_obs":46992916.0},{"title":"Department
   of State","total_num_programs":2,"total_obs":37168081.0},{"title":"Inter-American
@@ -544,7 +544,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   Services","total_obs":78196782.0,"program_type":"assistance_listing"},{"cfda":"84.324","permalink":"/program/84.324","title":"Research
   in Special Education","popular_name":null,"agency":"Department of Education","total_obs":69892853.0,"program_type":"assistance_listing"},{"cfda":"43.012","permalink":"/program/43.012","title":"Space
   Technology","popular_name":"STMD, Space Tech","agency":"National Aeronautics and
-  Space Administration","total_obs":66592443.0,"program_type":"assistance_listing"},{"cfda":"11.431","permalink":"/program/11.431","title":"Climate
+  Space Administration","total_obs":68579887.0,"program_type":"assistance_listing"},{"cfda":"11.431","permalink":"/program/11.431","title":"Climate
   and Atmospheric Research","popular_name":null,"agency":"Department of Commerce","total_obs":63000000.0,"program_type":"assistance_listing"},{"cfda":"43.002","permalink":"/program/43.002","title":"Aeronautics","popular_name":"Aeronautics","agency":"National
   Aeronautics and Space Administration","total_obs":56711829.0,"program_type":"assistance_listing"},{"cfda":"43.007","permalink":"/program/43.007","title":"Space
   Operations","popular_name":"Space Operations","agency":"National Aeronautics and
@@ -637,5 +637,5 @@ title: General Research and Evaluation
 total_num_agencies: 19
 total_num_applicant_types: 45
 total_num_programs: 67
-total_obs: 13183532981.0
+total_obs: 13185520425.0
 ---

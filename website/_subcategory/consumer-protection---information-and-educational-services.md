@@ -6,27 +6,25 @@ agencies: '[{"title":"Federal Communications Commission","total_num_programs":3,
   Product Safety Commission","total_num_programs":1,"total_obs":2000000.0},{"title":"Department
   of the Interior","total_num_programs":1,"total_obs":1499282.0},{"title":"Department
   of Homeland Security","total_num_programs":1,"total_obs":549996.0},{"title":"Federal
-  Financial Institutions Examination Council Appraisal Subcommittee","total_num_programs":2,"total_obs":250000.0},{"title":"Denali
+  Financial Institutions Examination Council Appraisal Subcommittee","total_num_programs":1,"total_obs":250000.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0}]'
-applicant_types: '[{"title":"Private nonprofit institution/organization (includes
-  institutions of higher education and hospitals)","total_num_programs":6},{"title":"Public
-  nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":6},{"title":"Local (includes State-designated Indian
-  Tribes, excludes institutions of higher education and hospitals","total_num_programs":4},{"title":"Other
-  private institutions/organizations","total_num_programs":3},{"title":"Other public
-  institution/organization","total_num_programs":3},{"title":"State","total_num_programs":3},{"title":"State
+applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
+  of higher education and hospitals)","total_num_programs":6},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":5},{"title":"Local
+  (includes State-designated Indian Tribes, excludes institutions of higher education
+  and hospitals","total_num_programs":4},{"title":"Other private institutions/organizations","total_num_programs":3},{"title":"Other
+  public institution/organization","total_num_programs":3},{"title":"State","total_num_programs":3},{"title":"State
   (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":3},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":3},{"title":"Anyone/general
   public","total_num_programs":2},{"title":"Federal","total_num_programs":2},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":2},{"title":"Profit organization","total_num_programs":2},{"title":"Small
-  business (less than 500 employees)","total_num_programs":2},{"title":"Government
+  Recognized Indian Tribal Governments","total_num_programs":2},{"title":"Government
   - General","total_num_programs":1},{"title":"Interstate","total_num_programs":1},{"title":"Intrastate","total_num_programs":1},{"title":"Minority
   group","total_num_programs":1},{"title":"Native American Organizations (includes
   Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":1},{"title":"Non-Government
   - General","total_num_programs":1},{"title":"Nonprofit with 501C3 IRS Status (Other
-  than Institution of Higher Education)","total_num_programs":1},{"title":"Other (specify)","total_num_programs":1},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":1},{"title":"U.S. Territories
-  and possessions","total_num_programs":1}]'
+  than Institution of Higher Education)","total_num_programs":1},{"title":"Other (specify)","total_num_programs":1},{"title":"Profit
+  organization","total_num_programs":1},{"title":"Small business (less than 500 employees)","total_num_programs":1},{"title":"U.S.
+  Territories and possessions","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -508,12 +506,10 @@ programs: '[{"cfda":"32.008","permalink":"/program/32.008","title":"Affordable C
   Support and Innovation Grant","popular_name":"Board Support and Innovation Grant","agency":"Federal
   Financial Institutions Examination Council Appraisal Subcommittee","total_obs":250000.0,"program_type":"assistance_listing"},{"cfda":"10.292","permalink":"/program/10.292","title":"Food
   Loss and Waste Reduction","popular_name":null,"agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
-  Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"38.008","permalink":"/program/38.008","title":"Training
-  and Technical Assistance for State Appraiser Regulatory Agencies","popular_name":null,"agency":"Federal
-  Financial Institutions Examination Council Appraisal Subcommittee","total_obs":0.0,"program_type":"assistance_listing"}]'
+  Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Information and Educational Services
 total_num_agencies: 9
-total_num_applicant_types: 35
-total_num_programs: 15
+total_num_applicant_types: 34
+total_num_programs: 14
 total_obs: 8378111075.0
 ---

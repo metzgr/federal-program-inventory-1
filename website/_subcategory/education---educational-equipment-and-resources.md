@@ -2,8 +2,8 @@
 agencies: '[{"title":"Federal Communications Commission","total_num_programs":2,"total_obs":3130000000.0},{"title":"Department
   of Education","total_num_programs":6,"total_obs":2126903763.65},{"title":"National
   Science Foundation","total_num_programs":1,"total_obs":1835789998.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":1224448195.0},{"title":"Department
-  of Defense","total_num_programs":3,"total_obs":274372655.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":1211188588.0},{"title":"Department
+  of Defense","total_num_programs":3,"total_obs":256627580.0},{"title":"Department
   of Transportation","total_num_programs":1,"total_obs":107700000.0},{"title":"National
   Aeronautics and Space Administration","total_num_programs":1,"total_obs":98831165.0},{"title":"Department
   of Health and Human Services","total_num_programs":1,"total_obs":78196782.0},{"title":"Environmental
@@ -19,8 +19,8 @@ agencies: '[{"title":"Federal Communications Commission","total_num_programs":2,
   of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":28},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":25},{"title":"State
+  of higher education and hospitals)","total_num_programs":27},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":24},{"title":"State
   (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":23},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
   and hospitals","total_num_programs":20},{"title":"Other public institution/organization","total_num_programs":17},{"title":"Federally
@@ -28,18 +28,18 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   and possessions","total_num_programs":11},{"title":"Other private institutions/organizations","total_num_programs":10},{"title":"State","total_num_programs":10},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":9},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":8},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":8},{"title":"Non-Government
-  - General","total_num_programs":7},{"title":"Profit organization","total_num_programs":7},{"title":"Small
+  associations)","total_num_programs":8},{"title":"Non-Government - General","total_num_programs":7},{"title":"Profit
+  organization","total_num_programs":7},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":7},{"title":"Small
   business (less than 500 employees)","total_num_programs":6},{"title":"Specialized
-  group (e.g. health professionals, students, veterans)","total_num_programs":6},{"title":"Anyone/general
-  public","total_num_programs":4},{"title":"Federal","total_num_programs":4},{"title":"Interstate","total_num_programs":4},{"title":"Intrastate","total_num_programs":4},{"title":"Minority
-  group","total_num_programs":4},{"title":"Sponsored organization","total_num_programs":4},{"title":"Individual/Family","total_num_programs":3},{"title":"Government
-  - General","total_num_programs":2},{"title":"Alaska Native and Native Hawaiian Serving
-  Institutions","total_num_programs":1},{"title":"Hispanic-serving Institution","total_num_programs":1},{"title":"Historically
-  Black Colleges and Universities (HBCUs)","total_num_programs":1},{"title":"Independent
-  School District","total_num_programs":1},{"title":"Nonprofit with 501C3 IRS Status
-  (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Tribally
-  Controlled Colleges and Universities (TCCUs)","total_num_programs":1}]'
+  group (e.g. health professionals, students, veterans)","total_num_programs":6},{"title":"Federal","total_num_programs":4},{"title":"Interstate","total_num_programs":4},{"title":"Intrastate","total_num_programs":4},{"title":"Minority
+  group","total_num_programs":4},{"title":"Sponsored organization","total_num_programs":4},{"title":"Anyone/general
+  public","total_num_programs":3},{"title":"Government - General","total_num_programs":2},{"title":"Individual/Family","total_num_programs":2},{"title":"Alaska
+  Native and Native Hawaiian Serving Institutions","total_num_programs":1},{"title":"Hispanic-serving
+  Institution","total_num_programs":1},{"title":"Historically Black Colleges and Universities
+  (HBCUs)","total_num_programs":1},{"title":"Independent School District","total_num_programs":1},{"title":"Nonprofit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Other
+  (specify)","total_num_programs":1},{"title":"Tribally Controlled Colleges and Universities
+  (TCCUs)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -502,7 +502,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   and Physical Sciences","popular_name":"(MPS)","agency":"National Science Foundation","total_obs":1835789998.0,"program_type":"assistance_listing"},{"cfda":"84.041","permalink":"/program/84.041","title":"Impact
   Aid","popular_name":null,"agency":"Department of Education","total_obs":1620316000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"84.116","permalink":"/program/84.116","title":"Fund
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"84.116","permalink":"/program/84.116","title":"Fund
   for the Improvement of Postsecondary Education","popular_name":"(FIPSE)","agency":"Department
   of Education","total_obs":456380487.65,"program_type":"assistance_listing"},{"cfda":"12.333","permalink":"/program/12.333","title":"Advanced
   Manufacturing Technology - Office of the Secretary of Defense (OSD), Manufacturing
@@ -524,9 +524,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   Institution Capacity Building Grants","popular_name":"1890 Capacity (CBG)","agency":"Department
   of Agriculture","total_obs":28000000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
-  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"12.560","permalink":"/program/12.560","title":"DOD,
-  NDEP, DOTC-STEM Education Outreach Implementation","popular_name":null,"agency":"Department
-  of Defense","total_obs":18000000.0,"program_type":"assistance_listing"},{"cfda":"21.029","permalink":"/program/21.029","title":"Coronavirus
+  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"21.029","permalink":"/program/21.029","title":"Coronavirus
   Capital Projects Fund","popular_name":"CPF, Capital Projects Fund","agency":"Department
   of the Treasury","total_obs":8582460.0,"program_type":"assistance_listing"},{"cfda":"39.003","permalink":"/program/39.003","title":"Donation
   of Federal Surplus Personal Property","popular_name":"(Donation Program)","agency":"General
@@ -550,7 +548,9 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   NFRA)","agency":"Department of Homeland Security","total_obs":1800000.0,"program_type":"assistance_listing"},{"cfda":"84.274","permalink":"/program/84.274","title":"American
   Overseas Research Centers","popular_name":null,"agency":"Department of Education","total_obs":1310279.0,"program_type":"assistance_listing"},{"cfda":"10.226","permalink":"/program/10.226","title":"Secondary
   Education, Two-Year Postsecondary Education, and Agriculture in the K-12 Classroom","popular_name":"SPECA
-  Grants Program","agency":"Department of Agriculture","total_obs":900000.0,"program_type":"assistance_listing"},{"cfda":"66.614","permalink":"/program/66.614","title":"Financial
+  Grants Program","agency":"Department of Agriculture","total_obs":900000.0,"program_type":"assistance_listing"},{"cfda":"12.560","permalink":"/program/12.560","title":"DOD,
+  NDEP, DOTC-STEM Education Outreach Implementation","popular_name":"https://www.grants.gov/search-results-detail/335872","agency":"Department
+  of Defense","total_obs":254925.0,"program_type":"assistance_listing"},{"cfda":"66.614","permalink":"/program/66.614","title":"Financial
   Assistance For Community Support Activities To Address Environmental Justice Issues","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":100000.0,"program_type":"assistance_listing"},{"cfda":"66.720","permalink":"/program/66.720","title":"PRIA
   5: Farm Worker and Health Care Provider Training and Education Grants","popular_name":"Pesticide
@@ -580,7 +580,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   with Primary Sources","popular_name":null,"agency":"Library of Congress","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Educational Equipment and Resources
 total_num_agencies: 21
-total_num_applicant_types: 45
+total_num_applicant_types: 46
 total_num_programs: 44
-total_obs: 9039168828.65
+total_obs: 9008164146.65
 ---

@@ -2,10 +2,10 @@
 agencies: '[{"title":"National Science Foundation","total_num_programs":2,"total_obs":1959780000.0},{"title":"Department
   of Energy","total_num_programs":5,"total_obs":1670649898.0},{"title":"Environmental
   Protection Agency","total_num_programs":6,"total_obs":1139147155.0},{"title":"National
-  Aeronautics and Space Administration","total_num_programs":6,"total_obs":1130532056.0},{"title":"Department
+  Aeronautics and Space Administration","total_num_programs":6,"total_obs":1132519500.0},{"title":"Department
   of Commerce","total_num_programs":14,"total_obs":1034643307.87},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":868994595.06},{"title":"Department
-  of Agriculture","total_num_programs":9,"total_obs":396379445.0},{"title":"Department
+  of Agriculture","total_num_programs":9,"total_obs":396615339.0},{"title":"Department
   of Health and Human Services","total_num_programs":10,"total_obs":152579583.0},{"title":"Department
   of State","total_num_programs":7,"total_obs":96314998.0},{"title":"Department of
   the Interior","total_num_programs":8,"total_obs":58314489.0},{"title":"The Institute
@@ -527,7 +527,7 @@ programs: '[{"cfda":"81.049","permalink":"/program/81.049","title":"Office of Sc
   Technical Analysis","popular_name":"Savannah River Site Environmental Monitoring/Cleanup","agency":"Department
   of Energy","total_obs":69170729.0,"program_type":"assistance_listing"},{"cfda":"43.012","permalink":"/program/43.012","title":"Space
   Technology","popular_name":"STMD, Space Tech","agency":"National Aeronautics and
-  Space Administration","total_obs":66592443.0,"program_type":"assistance_listing"},{"cfda":"43.002","permalink":"/program/43.002","title":"Aeronautics","popular_name":"Aeronautics","agency":"National
+  Space Administration","total_obs":68579887.0,"program_type":"assistance_listing"},{"cfda":"43.002","permalink":"/program/43.002","title":"Aeronautics","popular_name":"Aeronautics","agency":"National
   Aeronautics and Space Administration","total_obs":56711829.0,"program_type":"assistance_listing"},{"cfda":"43.014","permalink":"/program/43.014","title":"Congressionally
   Directed Programs","popular_name":"NASA Community Projects/NASA Special Projects","agency":"National
   Aeronautics and Space Administration","total_obs":56672998.0,"program_type":"assistance_listing"},{"cfda":"10.331","permalink":"/program/10.331","title":"Gus
@@ -573,7 +573,7 @@ programs: '[{"cfda":"81.049","permalink":"/program/81.049","title":"Office of Sc
   Health of Women and Girls","agency":"Department of Health and Human Services","total_obs":15340000.0,"program_type":"assistance_listing"},{"cfda":"43.003","permalink":"/program/43.003","title":"Exploration","popular_name":"Exploration
   Systems Development Mission Directorate (ESDMD)","agency":"National Aeronautics
   and Space Administration","total_obs":15012173.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"43.009","permalink":"/program/43.009","title":"Mission
   Support","popular_name":"Safety, Security and Mission Services (Mission Support
   Directorate)","agency":"National Aeronautics and Space Administration","total_obs":13777683.0,"program_type":"assistance_listing"},{"cfda":"93.488","permalink":"/program/93.488","title":"National
@@ -599,7 +599,9 @@ programs: '[{"cfda":"81.049","permalink":"/program/81.049","title":"Office of Sc
   Adapted Housing Assistive Technology Grant Program","popular_name":"Specially Adapted
   Housing Assistive Technology (SAHAT) Grant Program","agency":"Department of Veterans
   Affairs","total_obs":399735.0,"program_type":"assistance_listing"},{"cfda":"15.678","permalink":"/program/15.678","title":"Cooperative
-  Ecosystem Studies Units","popular_name":"CESU","agency":"Department of the Interior","total_obs":393297.0,"program_type":"assistance_listing"},{"cfda":"15.665","permalink":"/program/15.665","title":"National
+  Ecosystem Studies Units","popular_name":"CESU","agency":"Department of the Interior","total_obs":393297.0,"program_type":"assistance_listing"},{"cfda":"10.937","permalink":"/program/10.937","title":"Partnerships
+  for Climate-Smart Commodities","popular_name":"Partnerships for Climate-Smart Commodities","agency":"Department
+  of Agriculture","total_obs":235894.0,"program_type":"assistance_listing"},{"cfda":"15.665","permalink":"/program/15.665","title":"National
   Wetlands Inventory","popular_name":"NWI","agency":"Department of the Interior","total_obs":200000.0,"program_type":"assistance_listing"},{"cfda":"11.610","permalink":"/program/11.610","title":"Standards
   Information Center ","popular_name":"(SIC)","agency":"Department of Commerce","total_obs":116415.0,"program_type":"assistance_listing"},{"cfda":"15.442","permalink":"/program/15.442","title":"Alaska
   Native Science and Engineering","popular_name":"ANSEP","agency":"Department of the
@@ -633,9 +635,7 @@ programs: '[{"cfda":"81.049","permalink":"/program/81.049","title":"Office of Sc
   the Healthcare Enterprise FHIR Cooperative Agreement Program","popular_name":"IHE
   FHIR","agency":"Department of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"11.483","permalink":"/program/11.483","title":"NOAA
   Programs for Disaster Relief Appropriations Act - Non-construction and Construction","popular_name":null,"agency":"Department
-  of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.937","permalink":"/program/10.937","title":"Partnerships
-  for Climate-Smart Commodities","popular_name":"Partnerships for Climate-Smart Commodities","agency":"Department
-  of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.040","permalink":"/program/19.040","title":"Public
+  of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.040","permalink":"/program/19.040","title":"Public
   Diplomacy Programs","popular_name":"Public Diplomacy Programs","agency":"Department
   of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.355","permalink":"/program/93.355","title":"Public
   Health Informatics & Technology Workforce Development Program  (The PHIT Workforce
@@ -651,5 +651,5 @@ title: Information and Technical
 total_num_agencies: 17
 total_num_applicant_types: 39
 total_num_programs: 78
-total_obs: 8647660294.93
+total_obs: 8649883632.93
 ---

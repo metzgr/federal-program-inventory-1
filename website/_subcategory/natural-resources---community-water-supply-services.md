@@ -1,8 +1,8 @@
 ---
 agencies: '[{"title":"Environmental Protection Agency","total_num_programs":9,"total_obs":7399481863.0},{"title":"Department
-  of Housing and Urban Development","total_num_programs":2,"total_obs":7399000000.0},{"title":"Department
+  of Housing and Urban Development","total_num_programs":2,"total_obs":3473900000.0},{"title":"Department
   of Agriculture","total_num_programs":10,"total_obs":2421355729.0},{"title":"Department
-  of the Interior","total_num_programs":33,"total_obs":1803072508.0},{"title":"Department
+  of the Interior","total_num_programs":33,"total_obs":1805271038.0},{"title":"Department
   of State","total_num_programs":3,"total_obs":1243552132.0},{"title":"Department
   of Commerce","total_num_programs":3,"total_obs":689165753.0},{"title":"Gulf Coast
   Ecosystem Restoration Council","total_num_programs":2,"total_obs":226607582.0},{"title":"Department
@@ -10,20 +10,20 @@ agencies: '[{"title":"Environmental Protection Agency","total_num_programs":9,"t
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":592837.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
-applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, excludes
-  institutions of higher education and hospitals","total_num_programs":31},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":30},{"title":"State","total_num_programs":26},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":23},{"title":"Private
+applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","total_num_programs":30},{"title":"Local
+  (includes State-designated Indian Tribes, excludes institutions of higher education
+  and hospitals","total_num_programs":30},{"title":"State","total_num_programs":25},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":22},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":21},{"title":"Public nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":21},{"title":"Other
   public institution/organization","total_num_programs":15},{"title":"Non-Government
   - General","total_num_programs":12},{"title":"Native American Organizations (includes
   Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":10},{"title":"Interstate","total_num_programs":9},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":9},{"title":"U.S. Territories
-  and possessions","total_num_programs":9},{"title":"Intrastate","total_num_programs":8},{"title":"Other
+  nonprofit institution/organization","total_num_programs":9},{"title":"Intrastate","total_num_programs":8},{"title":"Other
   private institutions/organizations","total_num_programs":8},{"title":"U.S. Territories
-  and possessions (includes institutions of higher education and hospitals)","total_num_programs":7},{"title":"Federal","total_num_programs":6},{"title":"Government
+  and possessions","total_num_programs":8},{"title":"U.S. Territories and possessions
+  (includes institutions of higher education and hospitals)","total_num_programs":7},{"title":"Federal","total_num_programs":6},{"title":"Government
   - General","total_num_programs":6},{"title":"City or Township Government","total_num_programs":4},{"title":"County
   Government","total_num_programs":4},{"title":"Profit organization","total_num_programs":4},{"title":"Special
   District Government","total_num_programs":4},{"title":"Specialized group (e.g. health
@@ -34,7 +34,7 @@ applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, exc
   Organization (Other than Small Business)","total_num_programs":1},{"title":"Indian/Native
   American Tribally Designated Organization","total_num_programs":1},{"title":"Minority
   group","total_num_programs":1},{"title":"Nonprofit with 501C3 IRS Status (Other
-  than Institution of Higher Education)","total_num_programs":1}]'
+  than Institution of Higher Education)","total_num_programs":1},{"title":"Other (specify)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -493,9 +493,7 @@ parent_title: Natural Resources
 permalink: /category/natural-resources/community-water-supply-services
 programs: '[{"cfda":"66.468","permalink":"/program/66.468","title":"Drinking Water
   State Revolving Fund","popular_name":"Drinking Water State Revolving Fund","agency":"Environmental
-  Protection Agency","total_obs":6995897668.0,"program_type":"assistance_listing"},{"cfda":"14.228","permalink":"/program/14.228","title":"Community
-  Development Block Grants/State''s program and Non-Entitlement Grants in Hawaii","popular_name":"State
-  CDBG","agency":"Department of Housing and Urban Development","total_obs":4938000000.0,"program_type":"assistance_listing"},{"cfda":"14.218","permalink":"/program/14.218","title":"Community
+  Protection Agency","total_obs":6995897668.0,"program_type":"assistance_listing"},{"cfda":"14.218","permalink":"/program/14.218","title":"Community
   Development Block Grants/Entitlement Grants","popular_name":"Community Development
   Block Grant Program for Entitlement Communities.","agency":"Department of Housing
   and Urban Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"10.760","permalink":"/program/10.760","title":"Water
@@ -504,7 +502,9 @@ programs: '[{"cfda":"66.468","permalink":"/program/66.468","title":"Drinking Wat
   and Scientific Partnerships and Programs","popular_name":null,"agency":"Department
   of State","total_obs":1223802133.0,"program_type":"assistance_listing"},{"cfda":"15.252","permalink":"/program/15.252","title":"Abandoned
   Mine Land Reclamation (AMLR)","popular_name":"Abandoned Mine Lands (AML) Program","agency":"Department
-  of the Interior","total_obs":1211412017.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
+  of the Interior","total_obs":1211412017.0,"program_type":"assistance_listing"},{"cfda":"14.228","permalink":"/program/14.228","title":"Community
+  Development Block Grants/State''s program and Non-Entitlement Grants in Hawaii","popular_name":"State
+  CDBG","agency":"Department of Housing and Urban Development","total_obs":1012900000.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
   Adjustment Assistance","popular_name":"Economic Adjustment Assistance","agency":"Department
   of Commerce","total_obs":446598957.0,"program_type":"assistance_listing"},{"cfda":"10.904","permalink":"/program/10.904","title":"Watershed
   Protection and Flood Prevention","popular_name":"(Watershed Program; Public Law
@@ -549,21 +549,21 @@ programs: '[{"cfda":"66.468","permalink":"/program/66.468","title":"Drinking Wat
   and Veteran Organizations Conservation Activities","popular_name":"21st Century
   Conservation Service Corps Program","agency":"Department of the Interior","total_obs":42523472.0,"program_type":"assistance_listing"},{"cfda":"15.037","permalink":"/program/15.037","title":"Water
   Resources on Indian Lands","popular_name":null,"agency":"Department of the Interior","total_obs":40561291.0,"program_type":"assistance_listing"},{"cfda":"10.770","permalink":"/program/10.770","title":"Water
-  and Waste Grants and Loans and Loan Guarantees (Section 306C)","popular_name":"Section
-  306C","agency":"Department of Agriculture","total_obs":31255187.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
+  and Waste Facility Loans and Grants to Alleviate Health Risks for Colonias and Tribal
+  Lands","popular_name":"Section 306C","agency":"Department of Agriculture","total_obs":31255187.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
   Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":31000000.0,"program_type":"assistance_listing"},{"cfda":"15.553","permalink":"/program/15.553","title":"Eastern
   New Mexico Rural Water System ","popular_name":"ENMRWS","agency":"Department of
   the Interior","total_obs":30044998.0,"program_type":"assistance_listing"},{"cfda":"15.074","permalink":"/program/15.074","title":"Small
   Surface Water and Groundwater Storage Projects","popular_name":"Small Storage Program","agency":"Department
-  of the Interior","total_obs":27675893.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  of the Interior","total_obs":27675893.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"10.763","permalink":"/program/10.763","title":"Emergency
   Community Water Assistance Grants","popular_name":"Emergency Community Water Assistance
   Grants","agency":"Department of Agriculture","total_obs":14048600.0,"program_type":"assistance_listing"},{"cfda":"10.862","permalink":"/program/10.862","title":"Rural
@@ -626,7 +626,7 @@ programs: '[{"cfda":"66.468","permalink":"/program/66.468","title":"Drinking Wat
   Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Community Water Supply Services
 total_num_agencies: 12
-total_num_applicant_types: 46
+total_num_applicant_types: 47
 total_num_programs: 68
-total_obs: 21302999133.0
+total_obs: 17380097663.0
 ---

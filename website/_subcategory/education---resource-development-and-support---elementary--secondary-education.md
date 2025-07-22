@@ -4,10 +4,10 @@ agencies: '[{"title":"Department of Education","total_num_programs":15,"total_ob
   Science Foundation","total_num_programs":1,"total_obs":1496180000.0},{"title":"National
   Aeronautics and Space Administration","total_num_programs":5,"total_obs":237083372.0},{"title":"Department
   of Justice","total_num_programs":1,"total_obs":101523922.0},{"title":"Environmental
-  Protection Agency","total_num_programs":3,"total_obs":46912916.0},{"title":"Department
-  of Defense","total_num_programs":2,"total_obs":40845083.0},{"title":"The Institute
-  of Museum and Library Services","total_num_programs":1,"total_obs":30014398.0},{"title":"Southeast
-  Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"National
+  Protection Agency","total_num_programs":3,"total_obs":46912916.0},{"title":"The
+  Institute of Museum and Library Services","total_num_programs":1,"total_obs":30014398.0},{"title":"Department
+  of Defense","total_num_programs":2,"total_obs":23100008.0},{"title":"Southeast Crescent
+  Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"National
   Endowment for the Humanities","total_num_programs":1,"total_obs":15450000.0},{"title":"Corporation
   for National and Community Service","total_num_programs":2,"total_obs":13275048.0},{"title":"Department
   of Health and Human Services","total_num_programs":1,"total_obs":7800000.0},{"title":"Department
@@ -15,8 +15,8 @@ agencies: '[{"title":"Department of Education","total_num_programs":15,"total_ob
   of Congress","total_num_programs":1,"total_obs":0.0},{"title":"Department of State","total_num_programs":4,"total_obs":0.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
-  of higher education and hospitals)","total_num_programs":31},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":30},{"title":"State
+  of higher education and hospitals)","total_num_programs":30},{"title":"Private nonprofit
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":29},{"title":"State
   (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":21},{"title":"Other
   public institution/organization","total_num_programs":20},{"title":"Local (includes
   State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":18},{"title":"Federally
@@ -24,19 +24,19 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   and possessions (includes institutions of higher education and hospitals)","total_num_programs":13},{"title":"Profit
   organization","total_num_programs":12},{"title":"Other private institutions/organizations","total_num_programs":11},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":10},{"title":"Non-Government - General","total_num_programs":10},{"title":"State","total_num_programs":10},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":9},{"title":"Anyone/general
-  public","total_num_programs":8},{"title":"Intrastate","total_num_programs":8},{"title":"Small
-  business (less than 500 employees)","total_num_programs":8},{"title":"Specialized
-  group (e.g. health professionals, students, veterans)","total_num_programs":8},{"title":"U.S.
-  Territories and possessions","total_num_programs":8},{"title":"Federal","total_num_programs":7},{"title":"Interstate","total_num_programs":7},{"title":"Sponsored
-  organization","total_num_programs":7},{"title":"Individual/Family","total_num_programs":6},{"title":"Minority
-  group","total_num_programs":6},{"title":"Government - General","total_num_programs":5},{"title":"Alaska
+  associations)","total_num_programs":10},{"title":"Non-Government - General","total_num_programs":10},{"title":"State","total_num_programs":10},{"title":"Intrastate","total_num_programs":8},{"title":"Quasi-public
+  nonprofit institution/organization","total_num_programs":8},{"title":"Small business
+  (less than 500 employees)","total_num_programs":8},{"title":"Specialized group (e.g.
+  health professionals, students, veterans)","total_num_programs":8},{"title":"U.S.
+  Territories and possessions","total_num_programs":8},{"title":"Anyone/general public","total_num_programs":7},{"title":"Federal","total_num_programs":7},{"title":"Interstate","total_num_programs":7},{"title":"Sponsored
+  organization","total_num_programs":7},{"title":"Minority group","total_num_programs":6},{"title":"Government
+  - General","total_num_programs":5},{"title":"Individual/Family","total_num_programs":5},{"title":"Alaska
   Native and Native Hawaiian Serving Institutions","total_num_programs":1},{"title":"Hispanic-serving
   Institution","total_num_programs":1},{"title":"Historically Black Colleges and Universities
   (HBCUs)","total_num_programs":1},{"title":"Independent School District","total_num_programs":1},{"title":"Nonprofit
-  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Tribally
-  Controlled Colleges and Universities (TCCUs)","total_num_programs":1}]'
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Other
+  (specify)","total_num_programs":1},{"title":"Tribally Controlled Colleges and Universities
+  (TCCUs)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -531,9 +531,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"84.310","permalink":"/program/84.310","title":"Statewide
   Family Engagement Centers","popular_name":"Statewide Family Engagement Centers","agency":"Department
-  of Education","total_obs":19615928.0,"program_type":"assistance_listing"},{"cfda":"12.560","permalink":"/program/12.560","title":"DOD,
-  NDEP, DOTC-STEM Education Outreach Implementation","popular_name":null,"agency":"Department
-  of Defense","total_obs":18000000.0,"program_type":"assistance_listing"},{"cfda":"45.162","permalink":"/program/45.162","title":"Promotion
+  of Education","total_obs":19615928.0,"program_type":"assistance_listing"},{"cfda":"45.162","permalink":"/program/45.162","title":"Promotion
   of the Humanities Teaching and Learning Resources and Curriculum Development","popular_name":null,"agency":"National
   Endowment for the Humanities","total_obs":15450000.0,"program_type":"assistance_listing"},{"cfda":"43.003","permalink":"/program/43.003","title":"Exploration","popular_name":"Exploration
   Systems Development Mission Directorate (ESDMD)","agency":"National Aeronautics
@@ -551,7 +549,9 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   Protection Agency","total_obs":3620309.0,"program_type":"assistance_listing"},{"cfda":"84.144","permalink":"/program/84.144","title":"Migrant
   Education Coordination Program","popular_name":null,"agency":"Department of Education","total_obs":2999997.0,"program_type":"assistance_listing"},{"cfda":"84.018","permalink":"/program/84.018","title":"Overseas
   Programs Special Bilateral Projects","popular_name":null,"agency":"Department of
-  Education","total_obs":750000.0,"program_type":"assistance_listing"},{"cfda":"66.614","permalink":"/program/66.614","title":"Financial
+  Education","total_obs":750000.0,"program_type":"assistance_listing"},{"cfda":"12.560","permalink":"/program/12.560","title":"DOD,
+  NDEP, DOTC-STEM Education Outreach Implementation","popular_name":"https://www.grants.gov/search-results-detail/335872","agency":"Department
+  of Defense","total_obs":254925.0,"program_type":"assistance_listing"},{"cfda":"66.614","permalink":"/program/66.614","title":"Financial
   Assistance For Community Support Activities To Address Environmental Justice Issues","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":100000.0,"program_type":"assistance_listing"},{"cfda":"94.026","permalink":"/program/94.026","title":"AmeriCorps
   National Service and Civic Engagement Research Competition 94.026","popular_name":"National
@@ -572,7 +572,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   with Primary Sources","popular_name":null,"agency":"Library of Congress","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Resource Development and Support - Elementary, Secondary Education
 total_num_agencies: 17
-total_num_applicant_types: 45
+total_num_applicant_types: 46
 total_num_programs: 42
-total_obs: 8438915890.0
+total_obs: 8421170815.0
 ---

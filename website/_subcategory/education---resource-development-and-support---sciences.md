@@ -5,7 +5,7 @@ agencies: '[{"title":"National Science Foundation","total_num_programs":5,"total
   of Defense","total_num_programs":4,"total_obs":290685606.0},{"title":"Department
   of Labor","total_num_programs":1,"total_obs":171000000.0},{"title":"National Aeronautics
   and Space Administration","total_num_programs":4,"total_obs":138252207.0},{"title":"Department
-  of the Interior","total_num_programs":3,"total_obs":71413958.0},{"title":"Environmental
+  of the Interior","total_num_programs":3,"total_obs":68413958.0},{"title":"Environmental
   Protection Agency","total_num_programs":4,"total_obs":60971411.0},{"title":"The
   Institute of Museum and Library Services","total_num_programs":2,"total_obs":53700517.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -525,7 +525,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   for America","popular_name":"MFA; ME; Inspire","agency":"The Institute of Museum
   and Library Services","total_obs":30014398.0,"program_type":"assistance_listing"},{"cfda":"15.676","permalink":"/program/15.676","title":"Youth
   Engagement, Education, and Employment ","popular_name":"YEEEP","agency":"Department
-  of the Interior","total_obs":27000000.0,"program_type":"assistance_listing"},{"cfda":"45.312","permalink":"/program/45.312","title":"National
+  of the Interior","total_obs":24000000.0,"program_type":"assistance_listing"},{"cfda":"45.312","permalink":"/program/45.312","title":"National
   Leadership Grants","popular_name":"NLG; NLG-L; NLG-M","agency":"The Institute of
   Museum and Library Services","total_obs":23686119.0,"program_type":"assistance_listing"},{"cfda":"12.006","permalink":"/program/12.006","title":"National
   Defense Education Program","popular_name":"STEM Education, Outreach, and Workforce
@@ -536,7 +536,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   Health of Women and Girls","agency":"Department of Health and Human Services","total_obs":15340000.0,"program_type":"assistance_listing"},{"cfda":"43.003","permalink":"/program/43.003","title":"Exploration","popular_name":"Exploration
   Systems Development Mission Directorate (ESDMD)","agency":"National Aeronautics
   and Space Administration","total_obs":15012173.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"12.902","permalink":"/program/12.902","title":"Information
   Security Grants","popular_name":"DoD Cyber Service Academy, DoD CSA","agency":"Department
   of Defense","total_obs":14000000.0,"program_type":"assistance_listing"},{"cfda":"43.009","permalink":"/program/43.009","title":"Mission
@@ -571,5 +571,5 @@ title: Resource Development and Support - Sciences
 total_num_agencies: 17
 total_num_applicant_types: 45
 total_num_programs: 39
-total_obs: 9613392843.0
+total_obs: 9610392843.0
 ---

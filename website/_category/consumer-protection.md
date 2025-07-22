@@ -7,7 +7,7 @@ agencies: '[{"title":"Federal Communications Commission","total_num_programs":3,
   of Energy","total_num_programs":2,"total_obs":11761597.0},{"title":"Environmental
   Protection Agency","total_num_programs":1,"total_obs":8334797.0},{"title":"Consumer
   Product Safety Commission","total_num_programs":2,"total_obs":4000000.0},{"title":"Federal
-  Financial Institutions Examination Council Appraisal Subcommittee","total_num_programs":3,"total_obs":2275000.0},{"title":"Department
+  Financial Institutions Examination Council Appraisal Subcommittee","total_num_programs":2,"total_obs":2275000.0},{"title":"Department
   of the Interior","total_num_programs":1,"total_obs":1499282.0},{"title":"Department
   of Homeland Security","total_num_programs":1,"total_obs":549996.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
@@ -15,22 +15,23 @@ applicant_types: '[{"title":"State","total_num_programs":12},{"title":"Local (in
   State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":11},{"title":"State
   (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":11},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":9},{"title":"Public nonprofit institution/organization
+  hospitals)","total_num_programs":8},{"title":"Public nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":8},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":6},{"title":"Native American
   Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":6},{"title":"Other public institution/organization","total_num_programs":5},{"title":"Profit
-  organization","total_num_programs":5},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":4},{"title":"U.S.
-  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":4},{"title":"Federal","total_num_programs":3},{"title":"Other
-  private institutions/organizations","total_num_programs":3},{"title":"Anyone/general
-  public","total_num_programs":2},{"title":"Government - General","total_num_programs":2},{"title":"Individual/Family","total_num_programs":2},{"title":"Interstate","total_num_programs":2},{"title":"Small
-  business (less than 500 employees)","total_num_programs":2},{"title":"Specialized
+  organization","total_num_programs":4},{"title":"U.S. Territories and possessions
+  (includes institutions of higher education and hospitals)","total_num_programs":4},{"title":"Federal","total_num_programs":3},{"title":"Other
+  private institutions/organizations","total_num_programs":3},{"title":"Quasi-public
+  nonprofit institution/organization","total_num_programs":3},{"title":"Anyone/general
+  public","total_num_programs":2},{"title":"Government - General","total_num_programs":2},{"title":"Individual/Family","total_num_programs":2},{"title":"Interstate","total_num_programs":2},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":2},{"title":"U.S.
   Territories and possessions","total_num_programs":2},{"title":"Intrastate","total_num_programs":1},{"title":"Minority
   group","total_num_programs":1},{"title":"Non-Government - General","total_num_programs":1},{"title":"Nonprofit
   with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Nonprofit
   without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Other
-  (specify)","total_num_programs":1},{"title":"Sponsored organization","total_num_programs":1}]'
+  (specify)","total_num_programs":1},{"title":"Small business (less than 500 employees)","total_num_programs":1},{"title":"Sponsored
+  organization","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -486,12 +487,12 @@ categories_subcategories:
 fiscal_year: '2024'
 permalink: /category/consumer-protection
 sub_cats: '[{"title":"Complaint Investigation","permalink":"/category/consumer-protection/complaint-investigation","total_num_programs":4,"total_obs":35154000.0},{"title":"Information
-  and Educational Services","permalink":"/category/consumer-protection/information-and-educational-services","total_num_programs":15,"total_obs":8378111075.0},{"title":"Regulation,
+  and Educational Services","permalink":"/category/consumer-protection/information-and-educational-services","total_num_programs":14,"total_obs":8378111075.0},{"title":"Regulation,
   Inspection, Enforcement","permalink":"/category/consumer-protection/regulation--inspection--enforcement","total_num_programs":20,"total_obs":749204734.0}]'
 title: Consumer Protection
 total_num_agencies: 13
 total_num_applicant_types: 42
-total_num_programs: 33
+total_num_programs: 32
 total_num_sub_cats: 3
 total_obs: 9129935012.0
 ---

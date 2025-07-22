@@ -1,13 +1,13 @@
 ---
 agencies: '[{"title":"Environmental Protection Agency","total_num_programs":72,"total_obs":8652869219.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":2293444239.0},{"title":"Department
-  of the Interior","total_num_programs":15,"total_obs":2098902837.0},{"title":"Department
+  of the Interior","total_num_programs":15,"total_obs":1946079545.0},{"title":"Department
   of State","total_num_programs":5,"total_obs":1297356134.0},{"title":"Department
   of Health and Human Services","total_num_programs":1,"total_obs":445732178.0},{"title":"Gulf
   Coast Ecosystem Restoration Council","total_num_programs":2,"total_obs":226607582.0},{"title":"Department
   of Commerce","total_num_programs":4,"total_obs":198367350.0},{"title":"Department
   of the Treasury","total_num_programs":1,"total_obs":31969215.0},{"title":"Department
-  of Agriculture","total_num_programs":7,"total_obs":28328302.0},{"title":"Department
+  of Agriculture","total_num_programs":7,"total_obs":22936302.0},{"title":"Department
   of Energy","total_num_programs":3,"total_obs":21769025.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of Transportation","total_num_programs":2,"total_obs":9500000.0},{"title":"Department
@@ -18,7 +18,7 @@ applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","to
   hospitals)","total_num_programs":62},{"title":"Private nonprofit institution/organization
   (includes institutions of higher education and hospitals)","total_num_programs":56},{"title":"State","total_num_programs":55},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":47},{"title":"State (includes District of Columbia,
+  and hospitals","total_num_programs":46},{"title":"State (includes District of Columbia,
   public institutions of higher education and hospitals)","total_num_programs":44},{"title":"U.S.
   Territories and possessions","total_num_programs":40},{"title":"Other public institution/organization","total_num_programs":28},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":27},{"title":"Interstate","total_num_programs":25},{"title":"Native
@@ -29,17 +29,18 @@ applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","to
   business (less than 500 employees)","total_num_programs":5},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":4},{"title":"Sponsored
   organization","total_num_programs":4},{"title":"City or Township Government","total_num_programs":3},{"title":"County
-  Government","total_num_programs":3},{"title":"Individual/Family","total_num_programs":3},{"title":"Minority
-  group","total_num_programs":3},{"title":"Special District Government","total_num_programs":3},{"title":"Alaska
-  Native and Native Hawaiian Serving Institutions","total_num_programs":2},{"title":"Anyone/general
+  Government","total_num_programs":3},{"title":"Minority group","total_num_programs":3},{"title":"Special
+  District Government","total_num_programs":3},{"title":"Alaska Native and Native
+  Hawaiian Serving Institutions","total_num_programs":2},{"title":"Anyone/general
   public","total_num_programs":2},{"title":"Hispanic-serving Institution","total_num_programs":2},{"title":"Historically
   Black Colleges and Universities (HBCUs)","total_num_programs":2},{"title":"Independent
-  School District","total_num_programs":2},{"title":"Nonprofit with 501C3 IRS Status
-  (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Nonprofit
+  School District","total_num_programs":2},{"title":"Individual/Family","total_num_programs":2},{"title":"Nonprofit
+  with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Nonprofit
   without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Regional
   Organization","total_num_programs":2},{"title":"Tribally Controlled Colleges and
   Universities (TCCUs)","total_num_programs":2},{"title":"Indian/Native American Tribal
-  Government (Other than Federally Recognized)","total_num_programs":1}]'
+  Government (Other than Federally Recognized)","total_num_programs":1},{"title":"Other
+  (specify)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -508,13 +509,12 @@ programs: '[{"cfda":"66.458","permalink":"/program/66.458","title":"Clean Water 
   Infrastructure Improvements for the Nation Small and Underserved Communities Emerging
   Contaminants Grant Program","popular_name":"Small, Underserved, and Disadvantaged
   Communities (SUDC) Grant Program","agency":"Environmental Protection Agency","total_obs":975887392.0,"program_type":"assistance_listing"},{"cfda":"66.202","permalink":"/program/66.202","title":"Congressionally
-  Mandated Projects","popular_name":null,"agency":"Environmental Protection Agency","total_obs":675063889.0,"program_type":"assistance_listing"},{"cfda":"15.018","permalink":"/program/15.018","title":"Energy
-  Community Revitalization Program (ECRP)","popular_name":"Orphaned Well Site Plugging
-  and Remediation, Methane Reduction, and Infrastructure Grants and Assistance","agency":"Department
-  of the Interior","total_obs":572223292.0,"program_type":"assistance_listing"},{"cfda":"66.605","permalink":"/program/66.605","title":"Performance
+  Mandated Projects","popular_name":null,"agency":"Environmental Protection Agency","total_obs":675063889.0,"program_type":"assistance_listing"},{"cfda":"66.605","permalink":"/program/66.605","title":"Performance
   Partnership Grants","popular_name":"PPGs","agency":"Environmental Protection Agency","total_obs":497912123.0,"program_type":"assistance_listing"},{"cfda":"93.113","permalink":"/program/93.113","title":"Environmental
   Health","popular_name":"National Institute of Environmental Health Sciences","agency":"Department
-  of Health and Human Services","total_obs":445732178.0,"program_type":"assistance_listing"},{"cfda":"66.818","permalink":"/program/66.818","title":"Brownfields
+  of Health and Human Services","total_obs":445732178.0,"program_type":"assistance_listing"},{"cfda":"15.018","permalink":"/program/15.018","title":"Energy
+  Community Revitalization Program (ECRP)","popular_name":"Orphaned Well Site Plugging
+  and Remediation, and Restoration","agency":"Department of the Interior","total_obs":419400000.0,"program_type":"assistance_listing"},{"cfda":"66.818","permalink":"/program/66.818","title":"Brownfields
   Multipurpose, Assessment, Revolving Loan Fund, and Cleanup Cooperative Agreements","popular_name":"Brownfields
   MARC Grants","agency":"Environmental Protection Agency","total_obs":313406497.0,"program_type":"assistance_listing"},{"cfda":"66.615","permalink":"/program/66.615","title":"Environmental
   Justice Thriving Communities Grantmaking Program (EJ TCGM)","popular_name":null,"agency":"Environmental
@@ -608,14 +608,14 @@ programs: '[{"cfda":"66.458","permalink":"/program/66.458","title":"Clean Water 
   Program","popular_name":null,"agency":"Environmental Protection Agency","total_obs":16884000.0,"program_type":"assistance_listing"},{"cfda":"66.445","permalink":"/program/66.445","title":"Innovative
   Water Infrastructure Workforce Development Program (SDWA 1459E)","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":16077630.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"10.763","permalink":"/program/10.763","title":"Emergency
   Community Water Assistance Grants","popular_name":"Emergency Community Water Assistance
   Grants","agency":"Department of Agriculture","total_obs":14048600.0,"program_type":"assistance_listing"},{"cfda":"15.041","permalink":"/program/15.041","title":"Environmental
   Management Indian ","popular_name":null,"agency":"Department of the Interior","total_obs":11240495.0,"program_type":"assistance_listing"},{"cfda":"66.484","permalink":"/program/66.484","title":"Geographic
   Programs - South Florida Geographic Initiatives Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":10787678.0,"program_type":"assistance_listing"},{"cfda":"66.961","permalink":"/program/66.961","title":"Superfund
-  State and Indian Tribe Combined Cooperative Agreements (Site-Specfic and Core)","popular_name":"Superfund
+  State and Indian Tribe Combined Cooperative Agreements (Site-Specific and Core)","popular_name":"Superfund
   Combined, Bulk or Block Cooperative Agreements","agency":"Environmental Protection
   Agency","total_obs":9382019.0,"program_type":"assistance_listing"},{"cfda":"15.531","permalink":"/program/15.531","title":"Yakima
   River Basin Water Enhancement (YRBWE) ","popular_name":null,"agency":"Department
@@ -645,9 +645,7 @@ programs: '[{"cfda":"66.458","permalink":"/program/66.458","title":"Clean Water 
   Member Support for the Gulf Hypoxia Action Plan","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":5523687.0,"program_type":"assistance_listing"},{"cfda":"66.129","permalink":"/program/66.129","title":"Geographic
   Programs - Southeast New England Coastal Watershed Restoration Program","popular_name":"Southeast
-  New England Program (SNEP)","agency":"Environmental Protection Agency","total_obs":5493761.0,"program_type":"assistance_listing"},{"cfda":"10.933","permalink":"/program/10.933","title":"Wetland
-  Mitigation Banking Program","popular_name":"Wetland Mitigation Banking Program","agency":"Department
-  of Agriculture","total_obs":5392000.0,"program_type":"assistance_listing"},{"cfda":"66.203","permalink":"/program/66.203","title":"Environmental
+  New England Program (SNEP)","agency":"Environmental Protection Agency","total_obs":5493761.0,"program_type":"assistance_listing"},{"cfda":"66.203","permalink":"/program/66.203","title":"Environmental
   Finance Center Grants","popular_name":"EFC Grant Program","agency":"Environmental
   Protection Agency","total_obs":4920675.0,"program_type":"assistance_listing"},{"cfda":"66.616","permalink":"/program/66.616","title":"Environmental
   and Climate Justice Community Change Grants Program","popular_name":"Community Change
@@ -735,10 +733,12 @@ programs: '[{"cfda":"66.458","permalink":"/program/66.458","title":"Clean Water 
   Protection Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
   Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"19.989","permalink":"/program/19.989","title":"State/African
   Regional - Other Economic Support Funds (ESF) Projects/Programs","popular_name":"African
-  Regional ESF - Other","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"}]'
+  Regional ESF - Other","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.933","permalink":"/program/10.933","title":"Wetland
+  Mitigation Banking Program","popular_name":"Wetland Mitigation Banking Program (WMBP)","agency":"Department
+  of Agriculture","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Water Pollution Control
 total_num_agencies: 14
-total_num_applicant_types: 51
+total_num_applicant_types: 52
 total_num_programs: 116
-total_obs: 15324846081.0
+total_obs: 15166630789.0
 ---

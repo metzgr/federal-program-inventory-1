@@ -1,8 +1,8 @@
 ---
 agencies: '[{"title":"Department of Commerce","total_num_programs":11,"total_obs":25554101896.0},{"title":"Small
-  Business Administration","total_num_programs":1,"total_obs":16500000000.0},{"title":"Department
+  Business Administration","total_num_programs":1,"total_obs":5570093000.0},{"title":"Department
   of Agriculture","total_num_programs":8,"total_obs":3497778619.0},{"title":"Department
-  of the Interior","total_num_programs":6,"total_obs":2436537912.0},{"title":"Federal
+  of the Interior","total_num_programs":6,"total_obs":2423278305.0},{"title":"Federal
   Communications Commission","total_num_programs":1,"total_obs":946000000.0},{"title":"Corporation
   for National and Community Service","total_num_programs":2,"total_obs":727891588.0},{"title":"Department
   of Transportation","total_num_programs":1,"total_obs":202908650.0},{"title":"Department
@@ -494,13 +494,13 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   Access, and Deployment Program","popular_name":"Broadband Equity, Access, and Deployment
   Program","agency":"Department of Commerce","total_obs":24408576434.0,"program_type":"assistance_listing"},{"cfda":"59.041","permalink":"/program/59.041","title":"504
   Certified Development Loans","popular_name":"504 Loans","agency":"Small Business
-  Administration","total_obs":16500000000.0,"program_type":"assistance_listing"},{"cfda":"10.758","permalink":"/program/10.758","title":"New
+  Administration","total_obs":5570093000.0,"program_type":"assistance_listing"},{"cfda":"10.758","permalink":"/program/10.758","title":"New
   Empowering Rural America (New ERA) Program","popular_name":"22004","agency":"Department
-  of Agriculture","total_obs":2041000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
-  Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"15.252","permalink":"/program/15.252","title":"Abandoned
+  of Agriculture","total_obs":2041000000.0,"program_type":"assistance_listing"},{"cfda":"15.252","permalink":"/program/15.252","title":"Abandoned
   Mine Land Reclamation (AMLR)","popular_name":"Abandoned Mine Lands (AML) Program","agency":"Department
-  of the Interior","total_obs":1211412017.0,"program_type":"assistance_listing"},{"cfda":"32.003","permalink":"/program/32.003","title":"UNIVERSAL
+  of the Interior","total_obs":1211412017.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
+  Social, and Political Development of the Territories","popular_name":null,"agency":"Department
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"32.003","permalink":"/program/32.003","title":"UNIVERSAL
   SERVICE FUND - LIFELINE","popular_name":"UNIVERSAL SERVICE - Lifeline","agency":"Federal
   Communications Commission","total_obs":946000000.0,"program_type":"assistance_listing"},{"cfda":"10.752","permalink":"/program/10.752","title":"Rural
   eConnectivity Pilot Program","popular_name":"ReConnect Program","agency":"Department
@@ -536,7 +536,7 @@ programs: '[{"cfda":"11.035","permalink":"/program/11.035","title":"Broadband Eq
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.708","permalink":"/program/66.708","title":"Pollution
   Prevention Grants Program","popular_name":"P2 Grant Program","agency":"Environmental
   Protection Agency","total_obs":17178557.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"11.029","permalink":"/program/11.029","title":"Tribal
   Broadband Connectivity Program","popular_name":"Tribal Broadband Connectivity Program","agency":"Department
   of Commerce","total_obs":13557991.0,"program_type":"assistance_listing"},{"cfda":"94.013","permalink":"/program/94.013","title":"AmeriCorps
@@ -603,5 +603,5 @@ title: Economic Development
 total_num_agencies: 17
 total_num_applicant_types: 39
 total_num_programs: 58
-total_obs: 50285864953.0
+total_obs: 39342698346.0
 ---

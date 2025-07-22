@@ -5,9 +5,9 @@ agencies: '[{"title":"Department of Defense","total_num_programs":3,"total_obs":
   of State","total_num_programs":4,"total_obs":1297356134.0},{"title":"Department
   of Health and Human Services","total_num_programs":4,"total_obs":532402689.0},{"title":"Gulf
   Coast Ecosystem Restoration Council","total_num_programs":2,"total_obs":226607582.0},{"title":"Department
-  of the Interior","total_num_programs":6,"total_obs":106253928.0},{"title":"Department
+  of the Interior","total_num_programs":6,"total_obs":108452458.0},{"title":"Department
   of Transportation","total_num_programs":3,"total_obs":53448000.0},{"title":"Department
-  of Agriculture","total_num_programs":9,"total_obs":52982049.0},{"title":"Department
+  of Agriculture","total_num_programs":9,"total_obs":53217943.0},{"title":"Department
   of the Treasury","total_num_programs":1,"total_obs":31969215.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -18,13 +18,13 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   of higher education and hospitals)","total_num_programs":70},{"title":"Private nonprofit
   institution/organization (includes institutions of higher education and hospitals)","total_num_programs":63},{"title":"Federally
   Recognized Indian Tribal Governments","total_num_programs":62},{"title":"State (includes
-  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":54},{"title":"Local
+  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":53},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":48},{"title":"State","total_num_programs":42},{"title":"U.S.
-  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":39},{"title":"U.S.
-  Territories and possessions","total_num_programs":33},{"title":"Other public institution/organization","total_num_programs":32},{"title":"Native
-  American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":31},{"title":"Interstate","total_num_programs":24},{"title":"Non-Government
+  and hospitals","total_num_programs":47},{"title":"State","total_num_programs":41},{"title":"U.S.
+  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":39},{"title":"Other
+  public institution/organization","total_num_programs":32},{"title":"U.S. Territories
+  and possessions","total_num_programs":32},{"title":"Native American Organizations
+  (includes Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":31},{"title":"Interstate","total_num_programs":24},{"title":"Non-Government
   - General","total_num_programs":24},{"title":"Quasi-public nonprofit institution/organization","total_num_programs":23},{"title":"Profit
   organization","total_num_programs":21},{"title":"Other private institutions/organizations","total_num_programs":19},{"title":"Federal","total_num_programs":16},{"title":"Intrastate","total_num_programs":14},{"title":"Small
   business (less than 500 employees)","total_num_programs":13},{"title":"Specialized
@@ -38,7 +38,8 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   with 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Nonprofit
   without 501C3 IRS Status (Other than Institution of Higher Education)","total_num_programs":2},{"title":"Regional
   Organization","total_num_programs":2},{"title":"Special District Government","total_num_programs":2},{"title":"Tribally
-  Controlled Colleges and Universities (TCCUs)","total_num_programs":2}]'
+  Controlled Colleges and Universities (TCCUs)","total_num_programs":2},{"title":"Other
+  (specify)","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -557,7 +558,9 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   Special Purpose Activities Relating to Environmental Justice","agency":"Environmental
   Protection Agency","total_obs":28450000.0,"program_type":"assistance_listing"},{"cfda":"66.962","permalink":"/program/66.962","title":"Geographic
   Programs - Columbia River Basin Restoration (CRBR) Program","popular_name":"CWA
-  Section 123","agency":"Environmental Protection Agency","total_obs":24554688.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  Section 123","agency":"Environmental Protection Agency","total_obs":24554688.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"10.329","permalink":"/program/10.329","title":"Crop
   Protection and Pest Management Competitive Grants Program","popular_name":"Crop
@@ -566,15 +569,13 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   Protection Agency","total_obs":19911011.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"66.461","permalink":"/program/66.461","title":"Regional
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.461","permalink":"/program/66.461","title":"Regional
   Wetland Program Development Grants","popular_name":"Regional/Tribal WPDGs","agency":"Environmental
   Protection Agency","total_obs":17386280.0,"program_type":"assistance_listing"},{"cfda":"66.511","permalink":"/program/66.511","title":"Office
   of Research and Development Consolidated Research/Training/Fellowships","popular_name":"Not
   applicable","agency":"Environmental Protection Agency","total_obs":16905992.0,"program_type":"assistance_listing"},{"cfda":"10.500","permalink":"/program/10.500","title":"Cooperative
   Extension Service","popular_name":"CES","agency":"Department of Agriculture","total_obs":15557000.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"20.531","permalink":"/program/20.531","title":"Technical
   Assistance and Workforce Development","popular_name":"5314 Program","agency":"Department
   of Transportation","total_obs":11580000.0,"program_type":"assistance_listing"},{"cfda":"15.078","permalink":"/program/15.078","title":"Snow
@@ -582,7 +583,7 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   Management Indian ","popular_name":null,"agency":"Department of the Interior","total_obs":11240495.0,"program_type":"assistance_listing"},{"cfda":"66.608","permalink":"/program/66.608","title":"Environmental
   Information Exchange Network Grant Program and Related Assistance","popular_name":"Exchange
   Network Grant Program ","agency":"Environmental Protection Agency","total_obs":10757650.0,"program_type":"assistance_listing"},{"cfda":"66.961","permalink":"/program/66.961","title":"Superfund
-  State and Indian Tribe Combined Cooperative Agreements (Site-Specfic and Core)","popular_name":"Superfund
+  State and Indian Tribe Combined Cooperative Agreements (Site-Specific and Core)","popular_name":"Superfund
   Combined, Bulk or Block Cooperative Agreements","agency":"Environmental Protection
   Agency","total_obs":9382019.0,"program_type":"assistance_listing"},{"cfda":"81.092","permalink":"/program/81.092","title":"Remedial
   Action and Waste Management","popular_name":"Federal Facility Agreement","agency":"Department
@@ -660,7 +661,9 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   Protection Agency","total_obs":600000.0,"program_type":"assistance_listing"},{"cfda":"66.305","permalink":"/program/66.305","title":"Compliance
   Assistance Support for Services to the Regulated Community and Other Assistance
   Providers ","popular_name":"Compliance Assistance Centers","agency":"Environmental
-  Protection Agency","total_obs":349500.0,"program_type":"assistance_listing"},{"cfda":"66.717","permalink":"/program/66.717","title":"Source
+  Protection Agency","total_obs":349500.0,"program_type":"assistance_listing"},{"cfda":"10.937","permalink":"/program/10.937","title":"Partnerships
+  for Climate-Smart Commodities","popular_name":"Partnerships for Climate-Smart Commodities","agency":"Department
+  of Agriculture","total_obs":235894.0,"program_type":"assistance_listing"},{"cfda":"66.717","permalink":"/program/66.717","title":"Source
   Reduction Assistance","popular_name":"SRA Grants","agency":"Environmental Protection
   Agency","total_obs":187947.0,"program_type":"assistance_listing"},{"cfda":"81.102","permalink":"/program/81.102","title":"Student
   Driven Research and Long Term Monitoring of Selected Populations in the Valley and
@@ -696,9 +699,7 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   Grants to States and Tribes ","popular_name":"Multipurpose Grants to States and
   Tribes","agency":"Environmental Protection Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"11.483","permalink":"/program/11.483","title":"NOAA
   Programs for Disaster Relief Appropriations Act - Non-construction and Construction","popular_name":null,"agency":"Department
-  of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.937","permalink":"/program/10.937","title":"Partnerships
-  for Climate-Smart Commodities","popular_name":"Partnerships for Climate-Smart Commodities","agency":"Department
-  of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"66.721","permalink":"/program/66.721","title":"Reducing
+  of Commerce","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"66.721","permalink":"/program/66.721","title":"Reducing
   Embodied Greenhouse Gas Emissions for Construction Materials and Products","popular_name":"Environmental
   Product Declaration (EPD) Assistance for Embodied Carbon in Construction Materials","agency":"Environmental
   Protection Agency","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
@@ -707,7 +708,7 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   of Commerce","total_obs":0.0,"program_type":"assistance_listing"}]'
 title: Research, Education, Training
 total_num_agencies: 15
-total_num_applicant_types: 50
+total_num_applicant_types: 51
 total_num_programs: 105
-total_obs: 8759960248.0
+total_obs: 8762394672.0
 ---

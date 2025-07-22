@@ -3,7 +3,7 @@ agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":1,"to
   of Agriculture","total_num_programs":7,"total_obs":3448417658.0},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":2592715648.0},{"title":"Department
   of Energy","total_num_programs":7,"total_obs":1327867241.0},{"title":"Department
-  of the Interior","total_num_programs":2,"total_obs":1238541722.0},{"title":"Environmental
+  of the Interior","total_num_programs":2,"total_obs":1225282115.0},{"title":"Environmental
   Protection Agency","total_num_programs":4,"total_obs":1107910103.0},{"title":"Department
   of Transportation","total_num_programs":1,"total_obs":195597507.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -492,7 +492,7 @@ programs: '[{"cfda":"64.114","permalink":"/program/64.114","title":"Veterans Hou
   Empowering Rural America (New ERA) Program","popular_name":"22004","agency":"Department
   of Agriculture","total_obs":2041000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"66.045","permalink":"/program/66.045","title":"Clean
   School Bus Program","popular_name":"Clean School Bus Program","agency":"Environmental
   Protection Agency","total_obs":939221379.0,"program_type":"assistance_listing"},{"cfda":"81.253","permalink":"/program/81.253","title":"Manufacturing
   and Energy Supply Chain Demonstrations and Commercial Applications","popular_name":null,"agency":"Department
@@ -548,5 +548,5 @@ title: Facilities and Equipment
 total_num_agencies: 11
 total_num_applicant_types: 39
 total_num_programs: 30
-total_obs: 52871321436.0
+total_obs: 52858061829.0
 ---

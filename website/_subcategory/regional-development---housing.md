@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of the Interior","total_num_programs":3,"total_obs":1242971940.0},{"title":"Corporation
+agencies: '[{"title":"Department of the Interior","total_num_programs":3,"total_obs":1231910863.0},{"title":"Corporation
   for National and Community Service","total_num_programs":2,"total_obs":727891588.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":345589964.0},{"title":"Department
   of the Treasury","total_num_programs":2,"total_obs":321728755.0},{"title":"Department
@@ -12,18 +12,19 @@ agencies: '[{"title":"Department of the Interior","total_num_programs":3,"total_
 applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, excludes
   institutions of higher education and hospitals","total_num_programs":14},{"title":"Public
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":14},{"title":"State (includes District of Columbia,
-  public institutions of higher education and hospitals)","total_num_programs":11},{"title":"Private
-  nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":10},{"title":"Other public institution/organization","total_num_programs":9},{"title":"State","total_num_programs":9},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":8},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":8},{"title":"Native American
-  Organizations (includes Indian groups, cooperatives, corporations, partnerships,
+  hospitals)","total_num_programs":14},{"title":"Private nonprofit institution/organization
+  (includes institutions of higher education and hospitals)","total_num_programs":10},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":10},{"title":"Other
+  public institution/organization","total_num_programs":9},{"title":"Federally Recognized
+  Indian Tribal Governments","total_num_programs":8},{"title":"Quasi-public nonprofit
+  institution/organization","total_num_programs":8},{"title":"State","total_num_programs":8},{"title":"Native
+  American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":7},{"title":"Other private institutions/organizations","total_num_programs":7},{"title":"Government
   - General","total_num_programs":6},{"title":"Non-Government - General","total_num_programs":5},{"title":"Interstate","total_num_programs":4},{"title":"Intrastate","total_num_programs":4},{"title":"Profit
-  organization","total_num_programs":4},{"title":"U.S. Territories and possessions","total_num_programs":4},{"title":"U.S.
-  Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":4},{"title":"Federal","total_num_programs":3},{"title":"Minority
-  group","total_num_programs":2},{"title":"Small business (less than 500 employees)","total_num_programs":2},{"title":"Sponsored
+  organization","total_num_programs":4},{"title":"U.S. Territories and possessions
+  (includes institutions of higher education and hospitals)","total_num_programs":4},{"title":"Federal","total_num_programs":3},{"title":"U.S.
+  Territories and possessions","total_num_programs":3},{"title":"Minority group","total_num_programs":2},{"title":"Small
+  business (less than 500 employees)","total_num_programs":2},{"title":"Sponsored
   organization","total_num_programs":2},{"title":"Anyone/general public","total_num_programs":1},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":1}]'
 categories_subcategories:
@@ -484,7 +485,7 @@ parent_title: Regional Development
 permalink: /category/regional-development/housing
 programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, Social,
   and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"94.006","permalink":"/program/94.006","title":"AmeriCorps
   State and National 94.006","popular_name":"AmeriCorps State and National","agency":"Corporation
   for National and Community Service","total_obs":714616540.0,"program_type":"assistance_listing"},{"cfda":"11.039","permalink":"/program/11.039","title":"Regional
   Technology and Innovation Hubs","popular_name":"Tech Hubs","agency":"Department
@@ -495,15 +496,15 @@ programs: '[{"cfda":"15.875","permalink":"/program/15.875","title":"Economic, So
   4 Capacity Building for Community Development and Affordable Housing","popular_name":"Section
   4 Capacity Building ","agency":"Department of Housing and Urban Development","total_obs":83000000.0,"program_type":"assistance_listing"},{"cfda":"14.921","permalink":"/program/14.921","title":"Older
   Adults Home Modification Grant Program","popular_name":null,"agency":"Department
-  of Housing and Urban Development","total_obs":30000000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  of Housing and Urban Development","total_obs":30000000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"94.013","permalink":"/program/94.013","title":"AmeriCorps
   Volunteers In Service to America 94.013","popular_name":"94.013 Volunteers In Service
   To America","agency":"Corporation for National and Community Service","total_obs":13275048.0,"program_type":"assistance_listing"},{"cfda":"14.265","permalink":"/program/14.265","title":"Rural
@@ -525,5 +526,5 @@ title: Housing
 total_num_agencies: 11
 total_num_applicant_types: 37
 total_num_programs: 22
-total_obs: 2900926639.0
+total_obs: 2889865562.0
 ---

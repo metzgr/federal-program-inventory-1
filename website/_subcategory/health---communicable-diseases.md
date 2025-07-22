@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Health and Human Services","total_num_programs":53,"total_obs":8106168659.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":1224448195.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":1211188588.0},{"title":"Department
   of State","total_num_programs":4,"total_obs":76564999.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":15155056.0},{"title":"Department
@@ -485,7 +485,7 @@ permalink: /category/health/communicable-diseases
 programs: '[{"cfda":"93.917","permalink":"/program/93.917","title":"HIV Care Formula
   Grants","popular_name":null,"agency":"Department of Health and Human Services","total_obs":1411488983.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"93.493","permalink":"/program/93.493","title":"Congressional
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"93.493","permalink":"/program/93.493","title":"Congressional
   Directives","popular_name":null,"agency":"Department of Health and Human Services","total_obs":1018465919.0,"program_type":"assistance_listing"},{"cfda":"93.384","permalink":"/program/93.384","title":"ADVANCED
   RESEARCH PROJECTS AGENCY for HEALTH (ARPA-H)","popular_name":null,"agency":"Department
   of Health and Human Services","total_obs":983000000.0,"program_type":"assistance_listing"},{"cfda":"93.323","permalink":"/program/93.323","title":"Epidemiology
@@ -638,5 +638,5 @@ title: Communicable Diseases
 total_num_agencies: 10
 total_num_applicant_types: 39
 total_num_programs: 69
-total_obs: 9456860028.0
+total_obs: 9443600421.0
 ---
