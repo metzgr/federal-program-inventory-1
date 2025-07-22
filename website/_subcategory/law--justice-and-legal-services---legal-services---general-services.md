@@ -504,7 +504,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Driver''s License Program Implementation Grant","popular_name":"CDLPI","agency":"Department
   of Transportation","total_obs":52030853.0,"program_type":"assistance_listing"},{"cfda":"15.029","permalink":"/program/15.029","title":"Tribal
   Courts","popular_name":null,"agency":"Department of the Interior","total_obs":51051793.0,"program_type":"assistance_listing"},{"cfda":"16.524","permalink":"/program/16.524","title":"Legal
-  Assistance for Victims","popular_name":"LAV Program","agency":"Department of Justice","total_obs":42434215.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  Assistance for Victims","popular_name":"LAV Program","agency":"Department of Justice","total_obs":42434215.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"16.758","permalink":"/program/16.758","title":"Improving
   the Investigation and Prosecution of Child Abuse and the Regional and Local Children''s
   Advocacy Centers","popular_name":"VOA","agency":"Department of Justice","total_obs":38447652.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF

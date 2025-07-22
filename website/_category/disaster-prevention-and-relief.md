@@ -1,12 +1,12 @@
 ---
-agencies: '[{"title":"Department of Homeland Security","total_num_programs":43,"total_obs":40943256809.99},{"title":"Department
-  of Agriculture","total_num_programs":35,"total_obs":9043252929.529999},{"title":"Department
+agencies: '[{"title":"Department of Homeland Security","total_num_programs":43,"total_obs":41831558380.99},{"title":"Department
+  of Agriculture","total_num_programs":35,"total_obs":9020404929.529999},{"title":"Department
   of Defense","total_num_programs":8,"total_obs":2934201015.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":6,"total_obs":2533030085.0},{"title":"Department
-  of Education","total_num_programs":2,"total_obs":1620316000.0},{"title":"Department
-  of the Interior","total_num_programs":8,"total_obs":1281850296.0},{"title":"Small
-  Business Administration","total_num_programs":1,"total_obs":1100000000.0},{"title":"Department
-  of Health and Human Services","total_num_programs":15,"total_obs":879124295.0},{"title":"Federal
+  of Education","total_num_programs":2,"total_obs":1620316000.0},{"title":"Small Business
+  Administration","total_num_programs":1,"total_obs":1386897912.0},{"title":"Department
+  of the Interior","total_num_programs":8,"total_obs":1270789219.0},{"title":"Department
+  of Health and Human Services","total_num_programs":15,"total_obs":904124295.0},{"title":"Federal
   Communications Commission","total_num_programs":2,"total_obs":783000000.0},{"title":"Department
   of Commerce","total_num_programs":4,"total_obs":471244471.0},{"title":"Department
   of Transportation","total_num_programs":4,"total_obs":443128796.0},{"title":"Environmental
@@ -19,16 +19,16 @@ agencies: '[{"title":"Department of Homeland Security","total_num_programs":43,"
   for National and Community Service","total_num_programs":2,"total_obs":2910238.0},{"title":"Department
   of Energy","total_num_programs":1,"total_obs":2604724.0},{"title":"National Credit
   Union Administration","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
-applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, excludes
-  institutions of higher education and hospitals","total_num_programs":59},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":58},{"title":"Public
+applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","total_num_programs":59},{"title":"Local
+  (includes State-designated Indian Tribes, excludes institutions of higher education
+  and hospitals","total_num_programs":58},{"title":"Public nonprofit institution/organization
+  (includes institutions of higher education and hospitals)","total_num_programs":52},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":51},{"title":"Private nonprofit institution/organization
-  (includes institutions of higher education and hospitals)","total_num_programs":50},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":48},{"title":"Individual/Family","total_num_programs":34},{"title":"State","total_num_programs":34},{"title":"Other
+  hospitals)","total_num_programs":49},{"title":"State (includes District of Columbia,
+  public institutions of higher education and hospitals)","total_num_programs":47},{"title":"Individual/Family","total_num_programs":34},{"title":"State","total_num_programs":33},{"title":"Other
   public institution/organization","total_num_programs":31},{"title":"Profit organization","total_num_programs":31},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":31},{"title":"U.S.
-  Territories and possessions","total_num_programs":26},{"title":"Government - General","total_num_programs":18},{"title":"Quasi-public
+  Territories and possessions","total_num_programs":25},{"title":"Government - General","total_num_programs":18},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":18},{"title":"Native American
   Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":17},{"title":"Non-Government - General","total_num_programs":12},{"title":"Other
@@ -38,8 +38,9 @@ applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, exc
   organization","total_num_programs":5},{"title":"Small business (less than 500 employees)","total_num_programs":4},{"title":"Federal","total_num_programs":2},{"title":"Minority
   group","total_num_programs":2},{"title":"City or Township Government","total_num_programs":1},{"title":"County
   Government","total_num_programs":1},{"title":"For-Profit Organization (Other than
-  Small Business)","total_num_programs":1},{"title":"Other (specify)","total_num_programs":1},{"title":"Special
-  District Government","total_num_programs":1}]'
+  Small Business)","total_num_programs":1},{"title":"Nonprofit with 501C3 IRS Status
+  (Other than Institution of Higher Education)","total_num_programs":1},{"title":"Other
+  (specify)","total_num_programs":1},{"title":"Special District Government","total_num_programs":1}]'
 categories_subcategories:
 - permalink: /category/agricultural
   subcategories:
@@ -494,14 +495,14 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/disaster-prevention-and-relief
-sub_cats: '[{"title":"Disaster Relief","permalink":"/category/disaster-prevention-and-relief/disaster-relief","total_num_programs":83,"total_obs":48008656100.53},{"title":"Emergency
-  Health Services","permalink":"/category/disaster-prevention-and-relief/emergency-health-services","total_num_programs":33,"total_obs":7967225205.0},{"title":"Emergency
-  Preparedness, Civil Defense","permalink":"/category/disaster-prevention-and-relief/emergency-preparedness--civil-defense","total_num_programs":76,"total_obs":11613318313.99},{"title":"Flood
-  Prevention and Control","permalink":"/category/disaster-prevention-and-relief/flood-prevention-and-control","total_num_programs":35,"total_obs":12096770812.0}]'
+sub_cats: '[{"title":"Disaster Relief","permalink":"/category/disaster-prevention-and-relief/disaster-relief","total_num_programs":83,"total_obs":48307294405.53},{"title":"Emergency
+  Health Services","permalink":"/category/disaster-prevention-and-relief/emergency-health-services","total_num_programs":33,"total_obs":7978965598.0},{"title":"Emergency
+  Preparedness, Civil Defense","permalink":"/category/disaster-prevention-and-relief/emergency-preparedness--civil-defense","total_num_programs":76,"total_obs":12513360277.99},{"title":"Flood
+  Prevention and Control","permalink":"/category/disaster-prevention-and-relief/flood-prevention-and-control","total_num_programs":35,"total_obs":12101121342.0}]'
 title: Disaster Prevention and Relief
 total_num_agencies: 21
-total_num_applicant_types: 44
+total_num_applicant_types: 45
 total_num_programs: 156
 total_num_sub_cats: 4
-total_obs: 62561100796.52
+total_obs: 63727391202.52
 ---

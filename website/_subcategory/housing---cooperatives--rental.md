@@ -1,5 +1,5 @@
 ---
-agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":23,"total_obs":21271828171.0},{"title":"Department
+agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":23,"total_obs":21373811873.0},{"title":"Department
   of Veterans Affairs","total_num_programs":1,"total_obs":798000000.0},{"title":"Department
   of Agriculture","total_num_programs":3,"total_obs":61541904.0},{"title":"Department
   of the Treasury","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
@@ -499,7 +499,9 @@ programs: '[{"cfda":"14.134","permalink":"/program/14.134","title":"Mortgage Ins
   of Housing and Urban Development","total_obs":110000000.0,"program_type":"assistance_listing"},{"cfda":"14.856","permalink":"/program/14.856","title":"Lower
   Income Housing Assistance Program Section 8 Moderate Rehabilitation","popular_name":"(Section
   8 Housing Assistance Payments Program for Very Low Income Families-Moderate Rehabilitation)","agency":"Department
-  of Housing and Urban Development","total_obs":92800000.0,"program_type":"assistance_listing"},{"cfda":"14.023","permalink":"/program/14.023","title":"Community
+  of Housing and Urban Development","total_obs":92800000.0,"program_type":"assistance_listing"},{"cfda":"14.249","permalink":"/program/14.249","title":"Section
+  8 Moderate Rehabilitation Single Room Occupancy","popular_name":null,"agency":"Department
+  of Housing and Urban Development","total_obs":87983699.0,"program_type":"assistance_listing"},{"cfda":"14.023","permalink":"/program/14.023","title":"Community
   Development Block Grant- PRO Housing Competition","popular_name":"PRO Housing","agency":"Department
   of Housing and Urban Development","total_obs":84935898.0,"program_type":"assistance_listing"},{"cfda":"14.862","permalink":"/program/14.862","title":"Indian
   Community Development Block Grant Program","popular_name":"ICDBG","agency":"Department
@@ -507,10 +509,10 @@ programs: '[{"cfda":"14.134","permalink":"/program/14.134","title":"Mortgage Ins
   Counseling Assistance Program","popular_name":"Comprehensive Housing Counseling
   NOFA","agency":"Department of Housing and Urban Development","total_obs":61000000.0,"program_type":"assistance_listing"},{"cfda":"10.448","permalink":"/program/10.448","title":"Rural
   Development Multi-Family Housing Rural Housing Voucher Program","popular_name":"Rural
-  Development Voucher Program","agency":"Department of Agriculture","total_obs":42728904.0,"program_type":"assistance_listing"},{"cfda":"10.415","permalink":"/program/10.415","title":"Rural
-  Rental Housing Loans","popular_name":null,"agency":"Department of Agriculture","total_obs":18700000.0,"program_type":"assistance_listing"},{"cfda":"14.247","permalink":"/program/14.247","title":"Self-Help
+  Development Voucher Program","agency":"Department of Agriculture","total_obs":42728904.0,"program_type":"assistance_listing"},{"cfda":"14.247","permalink":"/program/14.247","title":"Self-Help
   Homeownership Opportunity Program","popular_name":"Self-Help Homeownership Opportunity
-  Program (SHOP)","agency":"Department of Housing and Urban Development","total_obs":11999997.0,"program_type":"assistance_listing"},{"cfda":"14.316","permalink":"/program/14.316","title":"Housing
+  Program (SHOP)","agency":"Department of Housing and Urban Development","total_obs":26000000.0,"program_type":"assistance_listing"},{"cfda":"10.415","permalink":"/program/10.415","title":"Rural
+  Rental Housing Loans","popular_name":null,"agency":"Department of Agriculture","total_obs":18700000.0,"program_type":"assistance_listing"},{"cfda":"14.316","permalink":"/program/14.316","title":"Housing
   Counseling Training Program","popular_name":"Housing Counseling Training Grant","agency":"Department
   of Housing and Urban Development","total_obs":5000000.0,"program_type":"assistance_listing"},{"cfda":"14.902","permalink":"/program/14.902","title":"Lead
   Technical Studies Grants","popular_name":"Lead Technical Studies Grants","agency":"Department
@@ -534,9 +536,7 @@ programs: '[{"cfda":"14.134","permalink":"/program/14.134","title":"Mortgage Ins
   of Rental Housing -221(d)(4)","agency":"Department of Housing and Urban Development","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"14.155","permalink":"/program/14.155","title":"Mortgage
   Insurance for the Purchase or Refinancing of Existing Multifamily Housing Projects","popular_name":"Multifamily
   Rental Property Purchase or Refi - Section 223(f)","agency":"Department of Housing
-  and Urban Development","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"14.249","permalink":"/program/14.249","title":"Section
-  8 Moderate Rehabilitation Single Room Occupancy","popular_name":null,"agency":"Department
-  of Housing and Urban Development","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
+  and Urban Development","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"90.199","permalink":"/program/90.199","title":"Shared
   Services","popular_name":"Shared Services","agency":"Denali Commission","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"14.151","permalink":"/program/14.151","title":"Supplemental
   Loan Insurance Multifamily Rental Housing","popular_name":"FHA Insured Rental Housing
   Supplemental Loans - 241(a)","agency":"Department of Housing and Urban Development","total_obs":0.0,"program_type":"assistance_listing"}]'
@@ -544,5 +544,5 @@ title: Cooperatives, Rental
 total_num_agencies: 5
 total_num_applicant_types: 36
 total_num_programs: 29
-total_obs: 22131370075.0
+total_obs: 22233353777.0
 ---

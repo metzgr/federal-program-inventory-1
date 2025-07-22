@@ -1,8 +1,8 @@
 ---
 agencies: '[{"title":"Department of Health and Human Services","total_num_programs":60,"total_obs":16584020689.0},{"title":"Department
-  of Defense","total_num_programs":2,"total_obs":266995579.0},{"title":"Southeast
-  Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":18523745.0},{"title":"Social
+  of Defense","total_num_programs":2,"total_obs":266995579.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":20722275.0},{"title":"Southeast
+  Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Social
   Security Administration","total_num_programs":1,"total_obs":16719069.0},{"title":"Department
   of Labor","total_num_programs":2,"total_obs":11550719.0},{"title":"Department of
   Agriculture","total_num_programs":3,"total_obs":7491907.0},{"title":"Environmental
@@ -12,16 +12,16 @@ agencies: '[{"title":"Department of Health and Human Services","total_num_progra
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":59},{"title":"Private nonprofit
   institution/organization (includes institutions of higher education and hospitals)","total_num_programs":52},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":47},{"title":"Local
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":46},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
   and hospitals","total_num_programs":33},{"title":"Federally Recognized Indian Tribal
   Governments","total_num_programs":28},{"title":"Other public institution/organization","total_num_programs":27},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":24},{"title":"Profit
   organization","total_num_programs":23},{"title":"Native American Organizations (includes
   Indian groups, cooperatives, corporations, partnerships, associations)","total_num_programs":22},{"title":"Other
-  private institutions/organizations","total_num_programs":22},{"title":"State","total_num_programs":19},{"title":"U.S.
-  Territories and possessions","total_num_programs":17},{"title":"Quasi-public nonprofit
-  institution/organization","total_num_programs":16},{"title":"Non-Government - General","total_num_programs":15},{"title":"Specialized
+  private institutions/organizations","total_num_programs":22},{"title":"State","total_num_programs":18},{"title":"Quasi-public
+  nonprofit institution/organization","total_num_programs":16},{"title":"U.S. Territories
+  and possessions","total_num_programs":16},{"title":"Non-Government - General","total_num_programs":15},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":14},{"title":"Small
   business (less than 500 employees)","total_num_programs":13},{"title":"Federal","total_num_programs":12},{"title":"Minority
   group","total_num_programs":12},{"title":"Government - General","total_num_programs":11},{"title":"Intrastate","total_num_programs":10},{"title":"Interstate","total_num_programs":9},{"title":"Sponsored
@@ -541,11 +541,11 @@ programs: '[{"cfda":"93.866","permalink":"/program/93.866","title":"Aging Resear
   Hepatitis Prevention and Control","popular_name":"Integrated Viral Hepatitis Surveillance
   and Prevention","agency":"Department of Health and Human Services","total_obs":25387622.0,"program_type":"assistance_listing"},{"cfda":"93.933","permalink":"/program/93.933","title":"Demonstration
   Projects for Indian Health","popular_name":null,"agency":"Department of Health and
-  Human Services","total_obs":24206718.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  Human Services","total_obs":24206718.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
-  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"96.007","permalink":"/program/96.007","title":"Social
+  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"96.007","permalink":"/program/96.007","title":"Social
   Security Research and Demonstration","popular_name":"Retirement and Disability Research
   Consortium (RDRC)","agency":"Social Security Administration","total_obs":16719069.0,"program_type":"assistance_listing"},{"cfda":"93.326","permalink":"/program/93.326","title":"Strengthening
   Public Health through Surveillance, Epidemiologic Research, Disease Detection and
@@ -612,7 +612,7 @@ programs: '[{"cfda":"93.866","permalink":"/program/93.866","title":"Aging Resear
   and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.893","permalink":"/program/93.893","title":"Health
   Care and Public Health (HPH) Sector Information Sharing and Analysis Organization
   (ISAO)","popular_name":null,"agency":"Department of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.695","permalink":"/program/93.695","title":"Health
-  Equity Data Access Program","popular_name":"HEDAP","agency":"Department of Health
+  Data Access Program (HeDAP)","popular_name":"HEDAP","agency":"Department of Health
   and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.239","permalink":"/program/10.239","title":"Human
   Health and Soil Health Study","popular_name":null,"agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.691","permalink":"/program/93.691","title":"Integrating
   the Healthcare Enterprise FHIR Cooperative Agreement Program","popular_name":"IHE
@@ -645,5 +645,5 @@ title: Health Research - General
 total_num_agencies: 11
 total_num_applicant_types: 39
 total_num_programs: 76
-total_obs: 16925381708.0
+total_obs: 16927580238.0
 ---

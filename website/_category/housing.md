@@ -1,8 +1,8 @@
 ---
-agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":78,"total_obs":85405748580.0},{"title":"Department
+agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":78,"total_obs":85507732282.0},{"title":"Department
   of Veterans Affairs","total_num_programs":5,"total_obs":44118511708.0},{"title":"Department
-  of Homeland Security","total_num_programs":3,"total_obs":11704570000.0},{"title":"Department
   of Agriculture","total_num_programs":15,"total_obs":11222233925.0},{"title":"Department
+  of Homeland Security","total_num_programs":3,"total_obs":4389570000.0},{"title":"Department
   of Labor","total_num_programs":1,"total_obs":98450000.0},{"title":"Department of
   Justice","total_num_programs":1,"total_obs":41641633.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Southeast Crescent
@@ -489,12 +489,12 @@ categories_subcategories:
 fiscal_year: '2024'
 permalink: /category/housing
 sub_cats: '[{"title":"Construction Rehabilitation","permalink":"/category/housing/construction-rehabilitation","total_num_programs":39,"total_obs":40390577487.0},{"title":"Cooperatives,
-  Rental","permalink":"/category/housing/cooperatives--rental","total_num_programs":29,"total_obs":22131370075.0},{"title":"Experimental
+  Rental","permalink":"/category/housing/cooperatives--rental","total_num_programs":29,"total_obs":22233353777.0},{"title":"Experimental
   and Development Projects","permalink":"/category/housing/experimental-and-development-projects","total_num_programs":16,"total_obs":5459937344.0},{"title":"Home
-  Improvement","permalink":"/category/housing/home-improvement","total_num_programs":35,"total_obs":73300747547.0},{"title":"Homebuying,
-  Homeownership","permalink":"/category/housing/homebuying--homeownership","total_num_programs":36,"total_obs":101404039709.0},{"title":"Indian
+  Improvement","permalink":"/category/housing/home-improvement","total_num_programs":35,"total_obs":73314747550.0},{"title":"Homebuying,
+  Homeownership","permalink":"/category/housing/homebuying--homeownership","total_num_programs":36,"total_obs":101418039712.0},{"title":"Indian
   Housing","permalink":"/category/housing/indian-housing","total_num_programs":19,"total_obs":7322982178.0},{"title":"Land
-  Acquisition","permalink":"/category/housing/land-acquisition","total_num_programs":12,"total_obs":7108712372.0},{"title":"Multifamily","permalink":"/category/housing/multifamily","total_num_programs":37,"total_obs":53302818483.0},{"title":"Planning","permalink":"/category/housing/planning","total_num_programs":24,"total_obs":7023635741.0},{"title":"Property
+  Acquisition","permalink":"/category/housing/land-acquisition","total_num_programs":12,"total_obs":7108712372.0},{"title":"Multifamily","permalink":"/category/housing/multifamily","total_num_programs":37,"total_obs":45987818483.0},{"title":"Planning","permalink":"/category/housing/planning","total_num_programs":24,"total_obs":7023635741.0},{"title":"Property
   and Mortgage Insurance","permalink":"/category/housing/property-and-mortgage-insurance","total_num_programs":14,"total_obs":5309679242.0},{"title":"Rural
   Housing","permalink":"/category/housing/rural-housing","total_num_programs":27,"total_obs":11226173218.0},{"title":"Site
   Preparation for Housing","permalink":"/category/housing/site-preparation-for-housing","total_num_programs":14,"total_obs":7128712372.0}]'
@@ -503,5 +503,5 @@ total_num_agencies: 15
 total_num_applicant_types: 42
 total_num_programs: 119
 total_num_sub_cats: 12
-total_obs: 152662229208.0
+total_obs: 145449212910.0
 ---

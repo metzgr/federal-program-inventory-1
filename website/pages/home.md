@@ -383,7 +383,6 @@ cfo_agencies:
   - title: Assistant Secretary for Housing -- Federal Housing Commissioner
   - title: Assistant Secretary for Policy Development and Research
   - title: Assistant Secretary for Public and Indian Housing
-  - title: Office of Community Planning and Development
   - title: Office of Lead Hazard Control and Healthy Homes
   title: Department of Housing and Urban Development
 - sub_categories:
@@ -510,11 +509,15 @@ other_agencies:
 - title: National Council on Disability
 - title: National Credit Union Administration
 - title: National Endowment for the Arts
-- title: National Endowment for the Humanities
+- sub_categories:
+  - title: National Endowment for the Humanities
+  - title: Unspecified
+  title: National Endowment for the Humanities
 - title: Northern Border Regional Commission
 - title: Office of the Director Of National Intelligence
 - title: Pension Benefit Guaranty Corporation
 - title: Railroad Retirement Board
+- title: SOUTHWEST BORDER REGIONAL COMMISSION
 - title: Southeast Crescent Regional Commission
 - sub_categories:
   - title: The Institute of Museum and Library Services

@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Veterans Affairs","total_num_programs":3,"total_obs":43062811708.0},{"title":"Department
-  of Housing and Urban Development","total_num_programs":23,"total_obs":22905746394.0},{"title":"Department
+  of Housing and Urban Development","total_num_programs":23,"total_obs":22919746397.0},{"title":"Department
   of Agriculture","total_num_programs":5,"total_obs":7312116103.0},{"title":"Department
   of the Interior","total_num_programs":2,"total_obs":18567752.0},{"title":"Corporation
   for National and Community Service","total_num_programs":1,"total_obs":1505590.0},{"title":"Denali
@@ -511,7 +511,9 @@ programs: '[{"cfda":"64.114","permalink":"/program/64.114","title":"Veterans Hou
   Counseling Assistance Program","popular_name":"Comprehensive Housing Counseling
   NOFA","agency":"Department of Housing and Urban Development","total_obs":61000000.0,"program_type":"assistance_listing"},{"cfda":"10.417","permalink":"/program/10.417","title":"Very
   Low-Income Housing Repair Loans and Grants","popular_name":"(Section 504 Rural Housing
-  Loans and Grants)","agency":"Department of Agriculture","total_obs":41000000.0,"program_type":"assistance_listing"},{"cfda":"10.405","permalink":"/program/10.405","title":"Farm
+  Loans and Grants)","agency":"Department of Agriculture","total_obs":41000000.0,"program_type":"assistance_listing"},{"cfda":"14.247","permalink":"/program/14.247","title":"Self-Help
+  Homeownership Opportunity Program","popular_name":"Self-Help Homeownership Opportunity
+  Program (SHOP)","agency":"Department of Housing and Urban Development","total_obs":26000000.0,"program_type":"assistance_listing"},{"cfda":"10.405","permalink":"/program/10.405","title":"Farm
   Labor Housing Loans and Grants","popular_name":"Labor Housing","agency":"Department
   of Agriculture","total_obs":20646103.0,"program_type":"assistance_listing"},{"cfda":"10.415","permalink":"/program/10.415","title":"Rural
   Rental Housing Loans","popular_name":null,"agency":"Department of Agriculture","total_obs":18700000.0,"program_type":"assistance_listing"},{"cfda":"14.142","permalink":"/program/14.142","title":"Property
@@ -519,9 +521,7 @@ programs: '[{"cfda":"64.114","permalink":"/program/64.114","title":"Veterans Hou
   New Nonresidential Structures","popular_name":"Property Improvement Loans (Title
   I-PI)","agency":"Department of Housing and Urban Development","total_obs":16000000.0,"program_type":"assistance_listing"},{"cfda":"15.144","permalink":"/program/15.144","title":"Indian
   Child Welfare Act Title II Grants","popular_name":null,"agency":"Department of the
-  Interior","total_obs":14987201.0,"program_type":"assistance_listing"},{"cfda":"14.247","permalink":"/program/14.247","title":"Self-Help
-  Homeownership Opportunity Program","popular_name":"Self-Help Homeownership Opportunity
-  Program (SHOP)","agency":"Department of Housing and Urban Development","total_obs":11999997.0,"program_type":"assistance_listing"},{"cfda":"10.433","permalink":"/program/10.433","title":"Rural
+  Interior","total_obs":14987201.0,"program_type":"assistance_listing"},{"cfda":"10.433","permalink":"/program/10.433","title":"Rural
   Housing Preservation Grants","popular_name":"Housing Preservation Grants","agency":"Department
   of Agriculture","total_obs":10000000.0,"program_type":"assistance_listing"},{"cfda":"14.901","permalink":"/program/14.901","title":"Healthy
   Homes Weatherization Cooperation Demonstration Grants","popular_name":"Healthy Homes
@@ -558,5 +558,5 @@ title: Home Improvement
 total_num_agencies: 6
 total_num_applicant_types: 36
 total_num_programs: 35
-total_obs: 73300747547.0
+total_obs: 73314747550.0
 ---

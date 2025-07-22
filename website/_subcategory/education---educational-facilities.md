@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Federal Communications Commission","total_num_programs":1,"total_obs":2977000000.0},{"title":"National
   Science Foundation","total_num_programs":2,"total_obs":2357770000.0},{"title":"Department
-  of the Interior","total_num_programs":6,"total_obs":1767104426.0},{"title":"Department
+  of the Interior","total_num_programs":6,"total_obs":1753844819.0},{"title":"Department
   of Education","total_num_programs":6,"total_obs":639845272.65},{"title":"Department
   of Commerce","total_num_programs":2,"total_obs":296628388.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":252799999.0},{"title":"National
@@ -498,7 +498,7 @@ programs: '[{"cfda":"32.004","permalink":"/program/32.004","title":"UNIVERSAL SE
   FUND - SCHOOLS and LIBRARIES","popular_name":"UNIVERSAL SERVICE - E-RATE","agency":"Federal
   Communications Commission","total_obs":2977000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"47.084","permalink":"/program/47.084","title":"NSF
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"47.084","permalink":"/program/47.084","title":"NSF
   Technology, Innovation, and Partnerships","popular_name":"NSF Directorate for Technology,
   Innovation, and Partnerships (TIP)","agency":"National Science Foundation","total_obs":1185630000.0,"program_type":"assistance_listing"},{"cfda":"47.070","permalink":"/program/47.070","title":"Computer
   and Information Science and Engineering","popular_name":"(CISE)","agency":"National
@@ -558,5 +558,5 @@ title: Educational Facilities
 total_num_agencies: 17
 total_num_applicant_types: 45
 total_num_programs: 35
-total_obs: 8534091836.65
+total_obs: 8520832229.65
 ---

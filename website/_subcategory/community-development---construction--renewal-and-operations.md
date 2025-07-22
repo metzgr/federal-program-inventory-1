@@ -1,8 +1,8 @@
 ---
 agencies: '[{"title":"Department of Transportation","total_num_programs":9,"total_obs":25970559096.0},{"title":"Department
-  of Housing and Urban Development","total_num_programs":10,"total_obs":8423422296.0},{"title":"Department
+  of Housing and Urban Development","total_num_programs":10,"total_obs":4498322296.0},{"title":"Department
   of Agriculture","total_num_programs":6,"total_obs":3110994637.0},{"title":"Department
-  of the Interior","total_num_programs":8,"total_obs":1314318917.0},{"title":"Department
+  of the Interior","total_num_programs":8,"total_obs":1303257840.0},{"title":"Department
   of Commerce","total_num_programs":5,"total_obs":1271443428.0},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":669562840.0},{"title":"Department
   of the Treasury","total_num_programs":3,"total_obs":546657528.0},{"title":"Department
@@ -16,11 +16,11 @@ agencies: '[{"title":"Department of Transportation","total_num_programs":9,"tota
 applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","total_num_programs":22},{"title":"Local
   (includes State-designated Indian Tribes, excludes institutions of higher education
   and hospitals","total_num_programs":22},{"title":"Public nonprofit institution/organization
-  (includes institutions of higher education and hospitals)","total_num_programs":19},{"title":"State","total_num_programs":18},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":18},{"title":"Other
+  (includes institutions of higher education and hospitals)","total_num_programs":19},{"title":"Other
   public institution/organization","total_num_programs":17},{"title":"Private nonprofit
-  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":17},{"title":"U.S.
-  Territories and possessions","total_num_programs":15},{"title":"Government - General","total_num_programs":13},{"title":"Quasi-public
+  institution/organization (includes institutions of higher education and hospitals)","total_num_programs":17},{"title":"State","total_num_programs":17},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":17},{"title":"U.S.
+  Territories and possessions","total_num_programs":14},{"title":"Government - General","total_num_programs":13},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":13},{"title":"Profit organization","total_num_programs":11},{"title":"Non-Government
   - General","total_num_programs":9},{"title":"Other private institutions/organizations","total_num_programs":9},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
@@ -492,10 +492,8 @@ programs: '[{"cfda":"20.507","permalink":"/program/20.507","title":"Federal Tran
   Formula Grants","popular_name":"Urbanized Area Formula Program; Section 5307","agency":"Department
   of Transportation","total_obs":8363743000.0,"program_type":"assistance_listing"},{"cfda":"20.106","permalink":"/program/20.106","title":"Airport
   Improvement Program, Infrastructure Investment and Jobs Act Programs, and COVID-19
-  Airports Programs","popular_name":"AIP, BIL, CARES and ARPA","agency":"Department
-  of Transportation","total_obs":6853008589.0,"program_type":"assistance_listing"},{"cfda":"14.228","permalink":"/program/14.228","title":"Community
-  Development Block Grants/State''s program and Non-Entitlement Grants in Hawaii","popular_name":"State
-  CDBG","agency":"Department of Housing and Urban Development","total_obs":4938000000.0,"program_type":"assistance_listing"},{"cfda":"20.525","permalink":"/program/20.525","title":"State
+  Airports Programs","popular_name":"AIP, IIJA, CARES and ARPA","agency":"Department
+  of Transportation","total_obs":6853008589.0,"program_type":"assistance_listing"},{"cfda":"20.525","permalink":"/program/20.525","title":"State
   of Good Repair Grants Program","popular_name":"SGR; Rail Vehicle Replacement Grant;
   Section 5337","agency":"Department of Transportation","total_obs":4629156000.0,"program_type":"assistance_listing"},{"cfda":"20.500","permalink":"/program/20.500","title":"Federal
   Transit Capital Investment Grants","popular_name":"New Starts, Small Starts, and
@@ -506,8 +504,10 @@ programs: '[{"cfda":"20.507","permalink":"/program/20.507","title":"Federal Tran
   and Industry Guaranteed Loans","popular_name":"B&I Guaranteed Loan Program","agency":"Department
   of Agriculture","total_obs":1828800290.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"10.766","permalink":"/program/10.766","title":"Community
-  Facilities Loans and Grants","popular_name":null,"agency":"Department of Agriculture","total_obs":1086315683.0,"program_type":"assistance_listing"},{"cfda":"20.526","permalink":"/program/20.526","title":"Buses
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"10.766","permalink":"/program/10.766","title":"Community
+  Facilities Loans and Grants","popular_name":null,"agency":"Department of Agriculture","total_obs":1086315683.0,"program_type":"assistance_listing"},{"cfda":"14.228","permalink":"/program/14.228","title":"Community
+  Development Block Grants/State''s program and Non-Entitlement Grants in Hawaii","popular_name":"State
+  CDBG","agency":"Department of Housing and Urban Development","total_obs":1012900000.0,"program_type":"assistance_listing"},{"cfda":"20.526","permalink":"/program/20.526","title":"Buses
   and Bus Facilities Formula, Competitive, and Low or No Emissions Programs","popular_name":"Bus
   Program","agency":"Department of Transportation","total_obs":996721000.0,"program_type":"assistance_listing"},{"cfda":"11.037","permalink":"/program/11.037","title":"CHIPS
   Incentives Program","popular_name":"CHIPS Incentives Program","agency":"Department
@@ -540,7 +540,7 @@ programs: '[{"cfda":"20.507","permalink":"/program/20.507","title":"Federal Tran
   Directed Assistance","popular_name":" Annual Congressionally Directed Assistance","agency":"Department
   of Defense","total_obs":70952933.0,"program_type":"assistance_listing"},{"cfda":"64.203","permalink":"/program/64.203","title":"Veterans
   Cemetery Grants Program","popular_name":"VCGP (Authority: 38 U.S.C. 501, 2408)","agency":"Department
-  of Veterans Affairs","total_obs":44553338.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  of Veterans Affairs","total_obs":44553338.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"21.021","permalink":"/program/21.021","title":"Bank
   Enterprise Award Program","popular_name":"BEA Program","agency":"Department of the
   Treasury","total_obs":40075069.0,"program_type":"assistance_listing"},{"cfda":"66.309","permalink":"/program/66.309","title":"Surveys,
@@ -551,11 +551,11 @@ programs: '[{"cfda":"20.507","permalink":"/program/20.507","title":"Federal Tran
   Reconstruction, or Replacement of Carey Act Dams","popular_name":"Carey Act Dams","agency":"Department
   of the Interior","total_obs":27000000.0,"program_type":"assistance_listing"},{"cfda":"97.142","permalink":"/program/97.142","title":"National
   Computer Forensics Institute Facility Expansion Grant Program","popular_name":null,"agency":"Department
-  of Homeland Security","total_obs":21850000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  of Homeland Security","total_obs":21850000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
-  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"15.946","permalink":"/program/15.946","title":"Cultural
+  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"15.946","permalink":"/program/15.946","title":"Cultural
   Resources Management","popular_name":null,"agency":"Department of the Interior","total_obs":15585031.0,"program_type":"assistance_listing"},{"cfda":"12.114","permalink":"/program/12.114","title":"Collaborative
   Research and Development","popular_name":"(Construction Productivity Advancement
   Research (CPAR) Program)","agency":"Department of Defense","total_obs":15540702.0,"program_type":"assistance_listing"},{"cfda":"15.048","permalink":"/program/15.048","title":"Bureau
@@ -605,5 +605,5 @@ title: Construction, Renewal and Operations
 total_num_agencies: 15
 total_num_applicant_types: 42
 total_num_programs: 57
-total_obs: 41469803578.0
+total_obs: 37533642501.0
 ---

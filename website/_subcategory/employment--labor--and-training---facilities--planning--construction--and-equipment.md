@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":1,"total_obs":2461000000.0},{"title":"Department
-  of the Interior","total_num_programs":2,"total_obs":1224596817.0},{"title":"Department
+  of the Interior","total_num_programs":2,"total_obs":1211337210.0},{"title":"Department
   of Energy","total_num_programs":1,"total_obs":464268369.0},{"title":"Department
   of Commerce","total_num_programs":2,"total_obs":443414435.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":70494961.0},{"title":"Department
@@ -488,7 +488,7 @@ programs: '[{"cfda":"14.218","permalink":"/program/14.218","title":"Community De
   Program for Entitlement Communities.","agency":"Department of Housing and Urban
   Development","total_obs":2461000000.0,"program_type":"assistance_listing"},{"cfda":"15.875","permalink":"/program/15.875","title":"Economic,
   Social, and Political Development of the Territories","popular_name":null,"agency":"Department
-  of the Interior","total_obs":1224448195.0,"program_type":"assistance_listing"},{"cfda":"81.255","permalink":"/program/81.255","title":"Clean
+  of the Interior","total_obs":1211188588.0,"program_type":"assistance_listing"},{"cfda":"81.255","permalink":"/program/81.255","title":"Clean
   Energy Demonstrations","popular_name":null,"agency":"Department of Energy","total_obs":464268369.0,"program_type":"assistance_listing"},{"cfda":"11.039","permalink":"/program/11.039","title":"Regional
   Technology and Innovation Hubs","popular_name":"Tech Hubs","agency":"Department
   of Commerce","total_obs":345589964.0,"program_type":"assistance_listing"},{"cfda":"11.300","permalink":"/program/11.300","title":"Investments
@@ -522,5 +522,5 @@ title: Facilities, Planning, Construction, and Equipment
 total_num_agencies: 12
 total_num_applicant_types: 37
 total_num_programs: 16
-total_obs: 4740265657.0
+total_obs: 4727006050.0
 ---

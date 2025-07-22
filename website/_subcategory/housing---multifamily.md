@@ -1,6 +1,6 @@
 ---
 agencies: '[{"title":"Department of Housing and Urban Development","total_num_programs":31,"total_obs":44855089579.0},{"title":"Department
-  of Homeland Security","total_num_programs":1,"total_obs":8000000000.0},{"title":"Department
+  of Homeland Security","total_num_programs":1,"total_obs":685000000.0},{"title":"Department
   of Agriculture","total_num_programs":4,"total_obs":447728904.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Private nonprofit institution/organization (includes
@@ -478,8 +478,7 @@ programs: '[{"cfda":"14.134","permalink":"/program/14.134","title":"Mortgage Ins
   Rental Housing","popular_name":"Mortgage Insurance for Rental Housing -Section 207","agency":"Department
   of Housing and Urban Development","total_obs":17513000000.0,"program_type":"assistance_listing"},{"cfda":"14.195","permalink":"/program/14.195","title":"Project-Based
   Rental Assistance (PBRA)","popular_name":"(Project-based Section 8)","agency":"Department
-  of Housing and Urban Development","total_obs":14679000000.0,"program_type":"assistance_listing"},{"cfda":"97.141","permalink":"/program/97.141","title":"Shelter
-  and Services Program","popular_name":null,"agency":"Department of Homeland Security","total_obs":8000000000.0,"program_type":"assistance_listing"},{"cfda":"14.850","permalink":"/program/14.850","title":"Public
+  of Housing and Urban Development","total_obs":14679000000.0,"program_type":"assistance_listing"},{"cfda":"14.850","permalink":"/program/14.850","title":"Public
   Housing Operating Fund","popular_name":"Operating Subsidy Grant","agency":"Department
   of Housing and Urban Development","total_obs":5475784000.0,"program_type":"assistance_listing"},{"cfda":"14.872","permalink":"/program/14.872","title":"Public
   Housing Capital Fund","popular_name":"(CFP)","agency":"Department of Housing and
@@ -487,7 +486,8 @@ programs: '[{"cfda":"14.134","permalink":"/program/14.134","title":"Mortgage Ins
   Housing Block Grants","popular_name":"IHBG; Native American Housing Block Grant
   Program (NAHBG)","agency":"Department of Housing and Urban Development","total_obs":1257621361.0,"program_type":"assistance_listing"},{"cfda":"14.239","permalink":"/program/14.239","title":"Home
   Investment Partnerships Program","popular_name":"(HOME Program)","agency":"Department
-  of Housing and Urban Development","total_obs":1155641544.0,"program_type":"assistance_listing"},{"cfda":"14.327","permalink":"/program/14.327","title":"Performance
+  of Housing and Urban Development","total_obs":1155641544.0,"program_type":"assistance_listing"},{"cfda":"97.141","permalink":"/program/97.141","title":"Shelter
+  and Services Program","popular_name":null,"agency":"Department of Homeland Security","total_obs":685000000.0,"program_type":"assistance_listing"},{"cfda":"14.327","permalink":"/program/14.327","title":"Performance
   Based Contract Administrator Program","popular_name":"PBCA Program","agency":"Department
   of Housing and Urban Development","total_obs":448000000.0,"program_type":"assistance_listing"},{"cfda":"10.438","permalink":"/program/10.438","title":"Section
   538 Rural Rental Housing Guaranteed Loans","popular_name":"Rural Rental Housing
@@ -558,5 +558,5 @@ title: Multifamily
 total_num_agencies: 4
 total_num_applicant_types: 29
 total_num_programs: 37
-total_obs: 53302818483.0
+total_obs: 45987818483.0
 ---

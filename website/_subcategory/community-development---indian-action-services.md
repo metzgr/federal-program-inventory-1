@@ -2,7 +2,7 @@
 agencies: '[{"title":"Federal Communications Commission","total_num_programs":3,"total_obs":24293000000.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":5,"total_obs":2624965983.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":1828800290.0},{"title":"Department
-  of the Interior","total_num_programs":16,"total_obs":1479357697.0},{"title":"Department
+  of the Interior","total_num_programs":16,"total_obs":1472719403.0},{"title":"Department
   of Defense","total_num_programs":1,"total_obs":583069205.0},{"title":"Department
   of Justice","total_num_programs":9,"total_obs":197293909.0},{"title":"Department
   of Health and Human Services","total_num_programs":4,"total_obs":165601765.0},{"title":"Environmental
@@ -511,7 +511,7 @@ programs: '[{"cfda":"32.002","permalink":"/program/32.002","title":"UNIVERSAL SE
   Against Women Discretionary Grants for Indian Tribal Governments","popular_name":"Tribal
   Governments","agency":"Department of Justice","total_obs":52742438.0,"program_type":"assistance_listing"},{"cfda":"15.020","permalink":"/program/15.020","title":"Aid
   To Tribal Governments","popular_name":null,"agency":"Department of the Interior","total_obs":52336165.0,"program_type":"assistance_listing"},{"cfda":"15.036","permalink":"/program/15.036","title":"Indian
-  Rights Protection","popular_name":null,"agency":"Department of the Interior","total_obs":50643346.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Trible
+  Rights Protection","popular_name":null,"agency":"Department of the Interior","total_obs":50643346.0,"program_type":"assistance_listing"},{"cfda":"16.596","permalink":"/program/16.596","title":"Tribal
   Justice Assistance","popular_name":null,"agency":"Department of Justice","total_obs":40485652.0,"program_type":"assistance_listing"},{"cfda":"16.590","permalink":"/program/16.590","title":"Grants
   to Encourage Arrest Policies and Enforcement of Protection Orders Program","popular_name":"Improving
   Criminal Justice Responses","agency":"Department of Justice","total_obs":39383731.0,"program_type":"assistance_listing"},{"cfda":"15.024","permalink":"/program/15.024","title":"Indian
@@ -534,9 +534,7 @@ programs: '[{"cfda":"32.002","permalink":"/program/32.002","title":"UNIVERSAL SE
   Social Services Welfare Assistance","popular_name":null,"agency":"Department of
   the Interior","total_obs":11066681.0,"program_type":"assistance_listing"},{"cfda":"15.510","permalink":"/program/15.510","title":"Colorado
   Ute Indian Water Rights Settlement Act","popular_name":"NNMP 2-6","agency":"Department
-  of the Interior","total_obs":11043936.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
-  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
-  of the Interior","total_obs":7663756.0,"program_type":"assistance_listing"},{"cfda":"15.552","permalink":"/program/15.552","title":"Navajo-Gallup
+  of the Interior","total_obs":11043936.0,"program_type":"assistance_listing"},{"cfda":"15.552","permalink":"/program/15.552","title":"Navajo-Gallup
   Water Supply ","popular_name":null,"agency":"Department of the Interior","total_obs":7091010.0,"program_type":"assistance_listing"},{"cfda":"14.225","permalink":"/program/14.225","title":"Community
   Development Block Grants/Special Purpose Grants/Insular Areas","popular_name":"Insular
   CDBG","agency":"Department of Housing and Urban Development","total_obs":7000000.0,"program_type":"assistance_listing"},{"cfda":"16.583","permalink":"/program/16.583","title":"Children''s
@@ -548,7 +546,9 @@ programs: '[{"cfda":"32.002","permalink":"/program/32.002","title":"UNIVERSAL SE
   Disabilities ","popular_name":"(Disability Grant Program)","agency":"Department
   of Justice","total_obs":1425000.0,"program_type":"assistance_listing"},{"cfda":"93.444","permalink":"/program/93.444","title":"Tribal
   Self-Governance Program: Planning and Negotiation Cooperative Agreement","popular_name":"(Tribal
-  Self Governance)","agency":"Department of Health and Human Services","total_obs":1068000.0,"program_type":"assistance_listing"},{"cfda":"15.155","permalink":"/program/15.155","title":"Office
+  Self Governance)","agency":"Department of Health and Human Services","total_obs":1068000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
+  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
+  of the Interior","total_obs":1025462.0,"program_type":"assistance_listing"},{"cfda":"15.155","permalink":"/program/15.155","title":"Office
   of the Special Trustee for American Indians, Field Operations","popular_name":"(OST-
   Field Ops)","agency":"Department of the Interior","total_obs":352658.0,"program_type":"assistance_listing"},{"cfda":"15.067","permalink":"/program/15.067","title":"Strengthening
   Tribal Nations  ","popular_name":null,"agency":"Department of the Interior","total_obs":188553.0,"program_type":"assistance_listing"},{"cfda":"15.922","permalink":"/program/15.922","title":"Native
@@ -580,5 +580,5 @@ title: Indian Action Services
 total_num_agencies: 12
 total_num_applicant_types: 39
 total_num_programs: 47
-total_obs: 31220538849.0
+total_obs: 31213900555.0
 ---

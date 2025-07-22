@@ -1064,7 +1064,7 @@
             "elements": null,
             "description": null,
             "element_id": "20",
-            "value": "International (includes Export/Import)"
+            "value": "International (includes Export/lmport)"
           },
           {
             "code": "50",
@@ -1078,7 +1078,7 @@
             "elements": null,
             "description": null,
             "element_id": "22",
-            "value": "Libraries/Information/Statistics"
+            "value": "Libraries/lnformation/Statistics"
           },
           {
             "code": "54",

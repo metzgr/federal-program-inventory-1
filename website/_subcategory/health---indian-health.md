@@ -2,7 +2,7 @@
 agencies: '[{"title":"Department of Health and Human Services","total_num_programs":38,"total_obs":6921130461.0},{"title":"Federal
   Communications Commission","total_num_programs":3,"total_obs":787000000.0},{"title":"Department
   of Agriculture","total_num_programs":2,"total_obs":168827087.0},{"title":"Department
-  of the Interior","total_num_programs":4,"total_obs":105089577.0},{"title":"Department
+  of the Interior","total_num_programs":4,"total_obs":107288107.0},{"title":"Department
   of Justice","total_num_programs":5,"total_obs":73193862.0},{"title":"Department
   of Veterans Affairs","total_num_programs":1,"total_obs":52500000.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
@@ -15,10 +15,10 @@ applicant_types: '[{"title":"Federally Recognized Indian Tribal Governments","to
   (includes institutions of higher education and hospitals)","total_num_programs":28},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":24},{"title":"Local (includes State-designated
-  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":22},{"title":"State","total_num_programs":15},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":15},{"title":"Other
+  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":22},{"title":"State","total_num_programs":14},{"title":"State
+  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":14},{"title":"Other
   public institution/organization","total_num_programs":12},{"title":"U.S. Territories
-  and possessions","total_num_programs":12},{"title":"U.S. Territories and possessions
+  and possessions","total_num_programs":11},{"title":"U.S. Territories and possessions
   (includes institutions of higher education and hospitals)","total_num_programs":10},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":9},{"title":"Specialized
   group (e.g. health professionals, students, veterans)","total_num_programs":7},{"title":"Minority
@@ -524,13 +524,13 @@ programs: '[{"cfda":"93.210","permalink":"/program/93.210","title":"Tribal Self-
   Substance Abuse Treatment for State Prisoners","popular_name":"(RSAT)","agency":"Department
   of Justice","total_obs":30193359.0,"program_type":"assistance_listing"},{"cfda":"93.933","permalink":"/program/93.933","title":"Demonstration
   Projects for Indian Health","popular_name":null,"agency":"Department of Health and
-  Human Services","total_obs":24206718.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  Human Services","total_obs":24206718.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"93.972","permalink":"/program/93.972","title":"Health
   Professions Scholarship Program","popular_name":null,"agency":"Department of Health
-  and Human Services","total_obs":18692338.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"93.088","permalink":"/program/93.088","title":"Advancing
+  and Human Services","total_obs":18692338.0,"program_type":"assistance_listing"},{"cfda":"93.088","permalink":"/program/93.088","title":"Advancing
   System Improvements for Key Issues in Women''s Health","popular_name":"Improving
   Health of Women and Girls","agency":"Department of Health and Human Services","total_obs":15340000.0,"program_type":"assistance_listing"},{"cfda":"15.144","permalink":"/program/15.144","title":"Indian
   Child Welfare Act Title II Grants","popular_name":null,"agency":"Department of the
@@ -619,5 +619,5 @@ title: Indian Health
 total_num_agencies: 11
 total_num_applicant_types: 41
 total_num_programs: 61
-total_obs: 8132852199.0
+total_obs: 8135050729.0
 ---

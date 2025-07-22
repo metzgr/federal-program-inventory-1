@@ -1,21 +1,21 @@
 ---
 agencies: '[{"title":"Agency for International Development","total_num_programs":3,"total_obs":32538000000.0},{"title":"Department
-  of State","total_num_programs":15,"total_obs":239449996.0},{"title":"Department
+  of State","total_num_programs":15,"total_obs":239449998.0},{"title":"Department
   of Commerce","total_num_programs":6,"total_obs":177268827.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Southeast Crescent
   Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Small
-  Business Administration","total_num_programs":1,"total_obs":19500000.0},{"title":"Department
+  Business Administration","total_num_programs":1,"total_obs":17788578.0},{"title":"Department
   of Agriculture","total_num_programs":4,"total_obs":15283616.0},{"title":"Department
   of Education","total_num_programs":2,"total_obs":5071396.0},{"title":"U.S. Agency
   for Global Media","total_num_programs":1,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
   of higher education and hospitals)","total_num_programs":21},{"title":"Private nonprofit
   institution/organization (includes institutions of higher education and hospitals)","total_num_programs":18},{"title":"Non-Government
-  - General","total_num_programs":14},{"title":"Other public institution/organization","total_num_programs":14},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":13},{"title":"Quasi-public
-  nonprofit institution/organization","total_num_programs":12},{"title":"Other private
-  institutions/organizations","total_num_programs":11},{"title":"Local (includes State-designated
-  Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":9},{"title":"Profit
+  - General","total_num_programs":14},{"title":"Other public institution/organization","total_num_programs":14},{"title":"Quasi-public
+  nonprofit institution/organization","total_num_programs":12},{"title":"State (includes
+  District of Columbia, public institutions of higher education and hospitals)","total_num_programs":12},{"title":"Other
+  private institutions/organizations","total_num_programs":11},{"title":"Local (includes
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":8},{"title":"Profit
   organization","total_num_programs":8},{"title":"Federally Recognized Indian Tribal
   Governments","total_num_programs":7},{"title":"Small business (less than 500 employees)","total_num_programs":7},{"title":"State","total_num_programs":6},{"title":"U.S.
   Territories and possessions (includes institutions of higher education and hospitals)","total_num_programs":5},{"title":"Native
@@ -492,16 +492,16 @@ programs: '[{"cfda":"98.001","permalink":"/program/98.001","title":"USAID Foreig
   Refugee Assistance Program for Middle East and North Africa","agency":"Department
   of State","total_obs":140000000.0,"program_type":"assistance_listing"},{"cfda":"19.221","permalink":"/program/19.221","title":"Regional
   Democracy Program","popular_name":"Regional Democracy Program","agency":"Department
-  of State","total_obs":54999998.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
+  of State","total_obs":55000000.0,"program_type":"assistance_listing"},{"cfda":"85.751","permalink":"/program/85.751","title":"IAF
   Assistance for Overseas Programs","popular_name":null,"agency":"Inter-American Foundation","total_obs":31000000.0,"program_type":"assistance_listing"},{"cfda":"19.500","permalink":"/program/19.500","title":"Middle
   East Partnership Initiative","popular_name":"MEPI","agency":"Department of State","total_obs":24699999.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"59.061","permalink":"/program/59.061","title":"State
-  Trade Expansion","popular_name":"STEP","agency":"Small Business Administration","total_obs":19500000.0,"program_type":"assistance_listing"},{"cfda":"98.011","permalink":"/program/98.011","title":"Global
-  Development Alliance","popular_name":null,"agency":"Agency for International Development","total_obs":18000000.0,"program_type":"assistance_listing"},{"cfda":"11.313","permalink":"/program/11.313","title":"Trade
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"98.011","permalink":"/program/98.011","title":"Global
+  Development Alliance","popular_name":null,"agency":"Agency for International Development","total_obs":18000000.0,"program_type":"assistance_listing"},{"cfda":"59.061","permalink":"/program/59.061","title":"State
+  Trade Expansion","popular_name":"STEP","agency":"Small Business Administration","total_obs":17788578.0,"program_type":"assistance_listing"},{"cfda":"11.313","permalink":"/program/11.313","title":"Trade
   Adjustment Assistance for Firms","popular_name":"Trade Adjustment Assistance for
   Firms","agency":"Department of Commerce","total_obs":14601502.0,"program_type":"assistance_listing"},{"cfda":"11.805","permalink":"/program/11.805","title":"MBDA
   Business Center","popular_name":"Business Center Program","agency":"Department of
@@ -549,5 +549,5 @@ title: International
 total_num_agencies: 10
 total_num_applicant_types: 39
 total_num_programs: 36
-total_obs: 33045573835.0
+total_obs: 33043862415.0
 ---

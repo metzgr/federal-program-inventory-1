@@ -1,29 +1,28 @@
 ---
-agencies: '[{"title":"Department of Agriculture","total_num_programs":8,"total_obs":4681538269.0},{"title":"Department
+agencies: '[{"title":"Department of Agriculture","total_num_programs":8,"total_obs":4658690269.0},{"title":"Department
   of Homeland Security","total_num_programs":5,"total_obs":4384414584.0},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":2501033261.0},{"title":"Environmental
   Protection Agency","total_num_programs":6,"total_obs":291224604.0},{"title":"Department
   of Commerce","total_num_programs":1,"total_obs":97824471.0},{"title":"Department
   of Housing and Urban Development","total_num_programs":2,"total_obs":72030085.0},{"title":"Department
-  of the Interior","total_num_programs":3,"total_obs":41358297.0},{"title":"Southeast
+  of the Interior","total_num_programs":3,"total_obs":43556827.0},{"title":"Department
+  of Health and Human Services","total_num_programs":2,"total_obs":25000000.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of Transportation","total_num_programs":1,"total_obs":7347241.0},{"title":"Department
-  of State","total_num_programs":2,"total_obs":0.0},{"title":"Department of Health
-  and Human Services","total_num_programs":2,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
-applicant_types: '[{"title":"Local (includes State-designated Indian Tribes, excludes
-  institutions of higher education and hospitals","total_num_programs":19},{"title":"Public
+  of State","total_num_programs":2,"total_obs":0.0},{"title":"Denali Commission","total_num_programs":1,"total_obs":0.0}]'
+applicant_types: '[{"title":"Public nonprofit institution/organization (includes institutions
+  of higher education and hospitals)","total_num_programs":19},{"title":"Local (includes
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":18},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
-  hospitals)","total_num_programs":19},{"title":"Private nonprofit institution/organization
-  (includes institutions of higher education and hospitals)","total_num_programs":18},{"title":"State
-  (includes District of Columbia, public institutions of higher education and hospitals)","total_num_programs":16},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":13},{"title":"Quasi-public
+  hospitals)","total_num_programs":18},{"title":"State (includes District of Columbia,
+  public institutions of higher education and hospitals)","total_num_programs":15},{"title":"Federally
+  Recognized Indian Tribal Governments","total_num_programs":14},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":9},{"title":"U.S. Territories
-  and possessions (includes institutions of higher education and hospitals)","total_num_programs":9},{"title":"U.S.
-  Territories and possessions","total_num_programs":8},{"title":"Individual/Family","total_num_programs":7},{"title":"Native
+  and possessions (includes institutions of higher education and hospitals)","total_num_programs":9},{"title":"Individual/Family","total_num_programs":7},{"title":"Native
   American Organizations (includes Indian groups, cooperatives, corporations, partnerships,
-  associations)","total_num_programs":7},{"title":"Government - General","total_num_programs":6},{"title":"Other
-  public institution/organization","total_num_programs":6},{"title":"Profit organization","total_num_programs":6},{"title":"State","total_num_programs":6},{"title":"Non-Government
-  - General","total_num_programs":5},{"title":"Interstate","total_num_programs":4},{"title":"Intrastate","total_num_programs":4},{"title":"Other
+  associations)","total_num_programs":7},{"title":"U.S. Territories and possessions","total_num_programs":7},{"title":"Government
+  - General","total_num_programs":6},{"title":"Other public institution/organization","total_num_programs":6},{"title":"Profit
+  organization","total_num_programs":6},{"title":"Non-Government - General","total_num_programs":5},{"title":"State","total_num_programs":5},{"title":"Interstate","total_num_programs":4},{"title":"Intrastate","total_num_programs":4},{"title":"Other
   private institutions/organizations","total_num_programs":3},{"title":"Anyone/general
   public","total_num_programs":2},{"title":"Specialized group (e.g. health professionals,
   students, veterans)","total_num_programs":2},{"title":"Sponsored organization","total_num_programs":2},{"title":"City
@@ -517,20 +516,23 @@ programs: '[{"cfda":"97.022","permalink":"/program/97.022","title":"Flood Insura
   Projects.\r\nRestricted to entities designated by DHS or congressional statute.)","agency":"Department
   of Homeland Security","total_obs":45873584.0,"program_type":"assistance_listing"},{"cfda":"66.306","permalink":"/program/66.306","title":"Environmental
   Justice Collaborative Problem-Solving Cooperative Agreement Program","popular_name":"EJCPS","agency":"Environmental
-  Protection Agency","total_obs":43192607.0,"program_type":"assistance_listing"},{"cfda":"10.916","permalink":"/program/10.916","title":"Watershed
-  Rehabilitation Program","popular_name":"(Watershed Rehabilitation; PL-566 Watershed
-  Program)","agency":"Department of Agriculture","total_obs":42551000.0,"program_type":"assistance_listing"},{"cfda":"12.019","permalink":"/program/12.019","title":"Pacific
+  Protection Agency","total_obs":43192607.0,"program_type":"assistance_listing"},{"cfda":"12.019","permalink":"/program/12.019","title":"Pacific
   Center Disaster (PDC) Program","popular_name":"Disaster Services and Water Resilience
-  Cooperative Agreement","agency":"Department of Defense","total_obs":35389022.0,"program_type":"assistance_listing"},{"cfda":"15.674","permalink":"/program/15.674","title":"National
+  Cooperative Agreement","agency":"Department of Defense","total_obs":35389022.0,"program_type":"assistance_listing"},{"cfda":"93.661","permalink":"/program/93.661","title":"Extramural
+  Research Restoration Program:  Hurricanes Fiona and Ian","popular_name":"Extramural
+  Research Restoration Program:  Hurricanes Fiona and Ian","agency":"Department of
+  Health and Human Services","total_obs":25000000.0,"program_type":"assistance_listing"},{"cfda":"15.674","permalink":"/program/15.674","title":"National
   Fire Plan-Wildland Urban Interface Community Fire Assistance","popular_name":null,"agency":"Department
-  of the Interior","total_obs":22000000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  of the Interior","total_obs":22000000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
-  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"97.023","permalink":"/program/97.023","title":"Community
+  SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"10.916","permalink":"/program/10.916","title":"Watershed
+  Rehabilitation Program","popular_name":"(Watershed Rehabilitation; PL-566 Watershed
+  Program)","agency":"Department of Agriculture","total_obs":19703000.0,"program_type":"assistance_listing"},{"cfda":"97.023","permalink":"/program/97.023","title":"Community
   Assistance Program State Support Services Element (CAP-SSSE)","popular_name":"(CAP-SSSE)","agency":"Department
-  of Homeland Security","total_obs":18971000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  of Homeland Security","total_obs":18971000.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"20.723","permalink":"/program/20.723","title":"PHMSA
   Pipeline Safety Research and Development \u201cOther Transaction Agreements\u201d","popular_name":null,"agency":"Department
   of Transportation","total_obs":7347241.0,"program_type":"assistance_listing"},{"cfda":"15.821","permalink":"/program/15.821","title":"USGS
@@ -541,10 +543,7 @@ programs: '[{"cfda":"97.022","permalink":"/program/97.022","title":"Flood Insura
   Asia and Pacific Grants Program","popular_name":"U.S. Department of State, Bureau
   of East Asian and Pacific Affairs,\r\nGrant Awards","agency":"Department of State","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.927","permalink":"/program/10.927","title":"Emergency
   Watershed Protection Program - Disaster Relief Appropriations Act","popular_name":"EWP
-  - Disaster Relief (Hurricane Sandy)","agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.661","permalink":"/program/93.661","title":"Extramural
-  Research Restoration Program:  Hurricanes Fiona and Ian","popular_name":"Extramural
-  Research Restoration Program:  Hurricanes Fiona and Ian","agency":"Department of
-  Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.893","permalink":"/program/93.893","title":"Health
+  - Disaster Relief (Hurricane Sandy)","agency":"Department of Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"93.893","permalink":"/program/93.893","title":"Health
   Care and Public Health (HPH) Sector Information Sharing and Analysis Organization
   (ISAO)","popular_name":null,"agency":"Department of Health and Human Services","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"66.721","permalink":"/program/66.721","title":"Reducing
   Embodied Greenhouse Gas Emissions for Construction Materials and Products","popular_name":"Environmental
@@ -559,5 +558,5 @@ title: Flood Prevention and Control
 total_num_agencies: 12
 total_num_applicant_types: 40
 total_num_programs: 35
-total_obs: 12096770812.0
+total_obs: 12101121342.0
 ---

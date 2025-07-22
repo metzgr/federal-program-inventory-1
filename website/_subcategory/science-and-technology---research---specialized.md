@@ -4,8 +4,8 @@ agencies: '[{"title":"National Science Foundation","total_num_programs":8,"total
   of Health and Human Services","total_num_programs":11,"total_obs":2220213862.0},{"title":"Department
   of Commerce","total_num_programs":28,"total_obs":2165284655.87},{"title":"Department
   of Energy","total_num_programs":8,"total_obs":1813273409.0},{"title":"National Aeronautics
-  and Space Administration","total_num_programs":7,"total_obs":1183282578.0},{"title":"Department
-  of the Interior","total_num_programs":13,"total_obs":191794448.0},{"title":"Department
+  and Space Administration","total_num_programs":7,"total_obs":1185270022.0},{"title":"Department
+  of the Interior","total_num_programs":13,"total_obs":234867495.0},{"title":"Department
   of State","total_num_programs":8,"total_obs":127928997.0},{"title":"Department of
   Agriculture","total_num_programs":8,"total_obs":57757248.0},{"title":"Department
   of Transportation","total_num_programs":3,"total_obs":54395241.0},{"title":"Department
@@ -23,19 +23,19 @@ applicant_types: '[{"title":"Public nonprofit institution/organization (includes
   of higher education and hospitals)","total_num_programs":100},{"title":"Private
   nonprofit institution/organization (includes institutions of higher education and
   hospitals)","total_num_programs":89},{"title":"State (includes District of Columbia,
-  public institutions of higher education and hospitals)","total_num_programs":77},{"title":"Local
-  (includes State-designated Indian Tribes, excludes institutions of higher education
-  and hospitals","total_num_programs":62},{"title":"Other public institution/organization","total_num_programs":62},{"title":"Other
+  public institutions of higher education and hospitals)","total_num_programs":76},{"title":"Other
+  public institution/organization","total_num_programs":62},{"title":"Local (includes
+  State-designated Indian Tribes, excludes institutions of higher education and hospitals","total_num_programs":61},{"title":"Other
   private institutions/organizations","total_num_programs":48},{"title":"U.S. Territories
   and possessions (includes institutions of higher education and hospitals)","total_num_programs":48},{"title":"Profit
-  organization","total_num_programs":47},{"title":"State","total_num_programs":45},{"title":"Federally
-  Recognized Indian Tribal Governments","total_num_programs":44},{"title":"Quasi-public
+  organization","total_num_programs":47},{"title":"Federally Recognized Indian Tribal
+  Governments","total_num_programs":44},{"title":"State","total_num_programs":44},{"title":"Quasi-public
   nonprofit institution/organization","total_num_programs":41},{"title":"Native American
   Organizations (includes Indian groups, cooperatives, corporations, partnerships,
   associations)","total_num_programs":34},{"title":"Federal","total_num_programs":32},{"title":"Small
-  business (less than 500 employees)","total_num_programs":32},{"title":"U.S. Territories
-  and possessions","total_num_programs":26},{"title":"Specialized group (e.g. health
-  professionals, students, veterans)","total_num_programs":25},{"title":"Individual/Family","total_num_programs":23},{"title":"Minority
+  business (less than 500 employees)","total_num_programs":32},{"title":"Specialized
+  group (e.g. health professionals, students, veterans)","total_num_programs":25},{"title":"U.S.
+  Territories and possessions","total_num_programs":25},{"title":"Individual/Family","total_num_programs":23},{"title":"Minority
   group","total_num_programs":23},{"title":"Non-Government - General","total_num_programs":23},{"title":"Anyone/general
   public","total_num_programs":20},{"title":"Sponsored organization","total_num_programs":20},{"title":"Government
   - General","total_num_programs":19},{"title":"Interstate","total_num_programs":18},{"title":"Intrastate","total_num_programs":17},{"title":"Historically
@@ -550,7 +550,7 @@ programs: '[{"cfda":"93.853","permalink":"/program/93.853","title":"Extramural R
   Wireless Supply Chain Innovation Fund Grant Program","popular_name":"Innovation
   Fund","agency":"Department of Commerce","total_obs":134961165.87,"program_type":"assistance_listing"},{"cfda":"15.808","permalink":"/program/15.808","title":"U.S.
   Geological Survey Research and Data Collection","popular_name":null,"agency":"Department
-  of the Interior","total_obs":84192202.0,"program_type":"assistance_listing"},{"cfda":"19.033","permalink":"/program/19.033","title":"Global
+  of the Interior","total_obs":125066719.0,"program_type":"assistance_listing"},{"cfda":"19.033","permalink":"/program/19.033","title":"Global
   Threat Reduction","popular_name":" (GTR) ","agency":"Department of State","total_obs":76564999.0,"program_type":"assistance_listing"},{"cfda":"12.630","permalink":"/program/12.630","title":"Basic,
   Applied, and Advanced Research in Science and Engineering","popular_name":null,"agency":"Department
   of Defense","total_obs":74999999.0,"program_type":"assistance_listing"},{"cfda":"81.214","permalink":"/program/81.214","title":"Environmental
@@ -558,7 +558,7 @@ programs: '[{"cfda":"93.853","permalink":"/program/93.853","title":"Extramural R
   Technical Analysis","popular_name":"Savannah River Site Environmental Monitoring/Cleanup","agency":"Department
   of Energy","total_obs":69170729.0,"program_type":"assistance_listing"},{"cfda":"43.012","permalink":"/program/43.012","title":"Space
   Technology","popular_name":"STMD, Space Tech","agency":"National Aeronautics and
-  Space Administration","total_obs":66592443.0,"program_type":"assistance_listing"},{"cfda":"11.472","permalink":"/program/11.472","title":"Unallied
+  Space Administration","total_obs":68579887.0,"program_type":"assistance_listing"},{"cfda":"11.472","permalink":"/program/11.472","title":"Unallied
   Science Program","popular_name":null,"agency":"Department of Commerce","total_obs":65610000.0,"program_type":"assistance_listing"},{"cfda":"11.431","permalink":"/program/11.431","title":"Climate
   and Atmospheric Research","popular_name":null,"agency":"Department of Commerce","total_obs":63000000.0,"program_type":"assistance_listing"},{"cfda":"43.002","permalink":"/program/43.002","title":"Aeronautics","popular_name":"Aeronautics","agency":"National
   Aeronautics and Space Administration","total_obs":56711829.0,"program_type":"assistance_listing"},{"cfda":"43.014","permalink":"/program/43.014","title":"Congressionally
@@ -604,16 +604,16 @@ programs: '[{"cfda":"93.853","permalink":"/program/93.853","title":"Extramural R
   for Sponsored Coastal Ocean Research Coastal Ocean Program","popular_name":"(CRP/NCCOS)","agency":"Department
   of Commerce","total_obs":22500000.0,"program_type":"assistance_listing"},{"cfda":"81.124","permalink":"/program/81.124","title":"Predictive
   Science Academic Alliance Program","popular_name":"NNSA Predictive Science Academic
-  Alliance Program","agency":"Department of Energy","total_obs":21945000.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
+  Alliance Program","agency":"Department of Energy","total_obs":21945000.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
+  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau Grant Program","agency":"Department
+  of the Interior","total_obs":20722275.0,"program_type":"assistance_listing"},{"cfda":"90.705","permalink":"/program/90.705","title":"Southeast
   Crescent Regional Commission  - Economic and Infrastructure Development Grants","popular_name":"SCRC
   SEID Program","agency":"Southeast Crescent Regional Commission","total_obs":20000000.0,"program_type":"assistance_listing"},{"cfda":"10.329","permalink":"/program/10.329","title":"Crop
   Protection and Pest Management Competitive Grants Program","popular_name":"Crop
   Protection and Pest Management (CPPM)\r\n\r\n","agency":"Department of Agriculture","total_obs":19914669.0,"program_type":"assistance_listing"},{"cfda":"19.750","permalink":"/program/19.750","title":"Bureau
   of Western Hemisphere Affairs (WHA) Grant Programs (including Energy and Climate
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
-  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"15.098","permalink":"/program/15.098","title":"Native
-  Hawaiian Climate Resilience Program","popular_name":"Kapapahuliau","agency":"Department
-  of the Interior","total_obs":18523745.0,"program_type":"assistance_listing"},{"cfda":"11.467","permalink":"/program/11.467","title":"Meteorologic
+  WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"11.467","permalink":"/program/11.467","title":"Meteorologic
   and Hydrologic Modernization Development","popular_name":"(Hydrometeorological Development)","agency":"Department
   of Commerce","total_obs":17550000.0,"program_type":"assistance_listing"},{"cfda":"84.120","permalink":"/program/84.120","title":"Minority
   Science and Engineering Improvement","popular_name":"(MSEIP)","agency":"Department
@@ -631,7 +631,7 @@ programs: '[{"cfda":"93.853","permalink":"/program/93.853","title":"Extramural R
   of the Interior","total_obs":14949531.0,"program_type":"assistance_listing"},{"cfda":"15.810","permalink":"/program/15.810","title":"National
   Cooperative Geologic Mapping ","popular_name":"(StateMap and EdMap)","agency":"Department
   of the Interior","total_obs":14666399.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"12.902","permalink":"/program/12.902","title":"Information
   Security Grants","popular_name":"DoD Cyber Service Academy, DoD CSA","agency":"Department
   of Defense","total_obs":14000000.0,"program_type":"assistance_listing"},{"cfda":"43.009","permalink":"/program/43.009","title":"Mission
@@ -741,5 +741,5 @@ title: Research - Specialized
 total_num_agencies: 20
 total_num_applicant_types: 42
 total_num_programs: 123
-total_obs: 21412685181.59
+total_obs: 21457745672.59
 ---

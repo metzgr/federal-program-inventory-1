@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Defense","total_num_programs":5,"total_obs":2503126780.0},{"title":"Department
-  of the Interior","total_num_programs":60,"total_obs":1918498774.0},{"title":"Department
   of Agriculture","total_num_programs":8,"total_obs":1802747558.0},{"title":"Department
+  of the Interior","total_num_programs":60,"total_obs":1799911705.0},{"title":"Department
   of State","total_num_programs":3,"total_obs":1243552132.0},{"title":"National Aeronautics
   and Space Administration","total_num_programs":1,"total_obs":921764930.0},{"title":"Department
   of Commerce","total_num_programs":8,"total_obs":620657927.0},{"title":"Gulf Coast
@@ -496,12 +496,11 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   and Water Conservation","popular_name":null,"agency":"Department of Agriculture","total_obs":1717460546.0,"program_type":"assistance_listing"},{"cfda":"19.017","permalink":"/program/19.017","title":"Environmental
   and Scientific Partnerships and Programs","popular_name":null,"agency":"Department
   of State","total_obs":1223802133.0,"program_type":"assistance_listing"},{"cfda":"43.001","permalink":"/program/43.001","title":"Science","popular_name":"SMD","agency":"National
-  Aeronautics and Space Administration","total_obs":921764930.0,"program_type":"assistance_listing"},{"cfda":"15.018","permalink":"/program/15.018","title":"Energy
-  Community Revitalization Program (ECRP)","popular_name":"Orphaned Well Site Plugging
-  and Remediation, Methane Reduction, and Infrastructure Grants and Assistance","agency":"Department
-  of the Interior","total_obs":572223292.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
+  Aeronautics and Space Administration","total_obs":921764930.0,"program_type":"assistance_listing"},{"cfda":"11.307","permalink":"/program/11.307","title":"Economic
   Adjustment Assistance","popular_name":"Economic Adjustment Assistance","agency":"Department
-  of Commerce","total_obs":446598957.0,"program_type":"assistance_listing"},{"cfda":"12.017","permalink":"/program/12.017","title":"Readiness
+  of Commerce","total_obs":446598957.0,"program_type":"assistance_listing"},{"cfda":"15.018","permalink":"/program/15.018","title":"Energy
+  Community Revitalization Program (ECRP)","popular_name":"Orphaned Well Site Plugging
+  and Remediation, and Restoration","agency":"Department of the Interior","total_obs":419400000.0,"program_type":"assistance_listing"},{"cfda":"12.017","permalink":"/program/12.017","title":"Readiness
   and Environmental Protection Integration (REPI) Program","popular_name":"DoD REPI
   Program","agency":"Department of Defense","total_obs":172200000.0,"program_type":"assistance_listing"},{"cfda":"87.051","permalink":"/program/87.051","title":"Gulf
   Coast Ecosystem Restoration Council Comprehensive Plan Component Program","popular_name":"RESTORE
@@ -510,7 +509,9 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   (Sustain and Manage America\u2019s Resources for Tomorrow)","popular_name":"Water
   SMART Grants","agency":"Department of the Interior","total_obs":134068581.0,"program_type":"assistance_listing"},{"cfda":"15.623","permalink":"/program/15.623","title":"North
   American Wetlands Conservation Fund","popular_name":"NAWCF","agency":"Department
-  of the Interior","total_obs":132549814.0,"program_type":"assistance_listing"},{"cfda":"15.518","permalink":"/program/15.518","title":"Garrison
+  of the Interior","total_obs":132549814.0,"program_type":"assistance_listing"},{"cfda":"15.808","permalink":"/program/15.808","title":"U.S.
+  Geological Survey Research and Data Collection","popular_name":null,"agency":"Department
+  of the Interior","total_obs":125066719.0,"program_type":"assistance_listing"},{"cfda":"15.518","permalink":"/program/15.518","title":"Garrison
   Diversion Unit","popular_name":"Garrison Diversion Unit Project","agency":"Department
   of the Interior","total_obs":116900539.0,"program_type":"assistance_listing"},{"cfda":"66.466","permalink":"/program/66.466","title":"Geographic
   Programs - Chesapeake Bay Program","popular_name":"Chesapeake Bay Program","agency":"Environmental
@@ -518,14 +519,12 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   Wiconi Rural Water Supply Project","popular_name":"Mni Wiconi Project","agency":"Department
   of the Interior","total_obs":92853046.0,"program_type":"assistance_listing"},{"cfda":"15.520","permalink":"/program/15.520","title":"Lewis
   and Clark Rural Water System ","popular_name":"Lewis and Clark Project","agency":"Department
-  of the Interior","total_obs":92071752.0,"program_type":"assistance_listing"},{"cfda":"15.669","permalink":"/program/15.669","title":"Cooperative
+  of the Interior","total_obs":92071752.0,"program_type":"assistance_listing"},{"cfda":"15.669","permalink":"/program/15.669","title":"Collaborative
   Landscape Conservation","popular_name":"Cooperative Landscape Conservation Landscape","agency":"Department
   of the Interior","total_obs":90000000.0,"program_type":"assistance_listing"},{"cfda":"11.419","permalink":"/program/11.419","title":"Coastal
   Zone Management Administration Awards","popular_name":"Agency: Department of Commerce
   Office: National Oceanic and Atmospheric Administration (NOAA)","agency":"Department
-  of Commerce","total_obs":85500106.0,"program_type":"assistance_listing"},{"cfda":"15.808","permalink":"/program/15.808","title":"U.S.
-  Geological Survey Research and Data Collection","popular_name":null,"agency":"Department
-  of the Interior","total_obs":84192202.0,"program_type":"assistance_listing"},{"cfda":"87.052","permalink":"/program/87.052","title":"Gulf
+  of Commerce","total_obs":85500106.0,"program_type":"assistance_listing"},{"cfda":"87.052","permalink":"/program/87.052","title":"Gulf
   Coast Ecosystem Restoration Council Oil Spill Impact Program","popular_name":"RESTORE
   Council Oil Spill Impact Program","agency":"Gulf Coast Ecosystem Restoration Council","total_obs":75467833.0,"program_type":"assistance_listing"},{"cfda":"15.580","permalink":"/program/15.580","title":"Aquatic
   Ecosystem Restoration Program","popular_name":"AERP","agency":"Department of the
@@ -571,7 +570,7 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   of the Interior","total_obs":16424841.0,"program_type":"assistance_listing"},{"cfda":"15.810","permalink":"/program/15.810","title":"National
   Cooperative Geologic Mapping ","popular_name":"(StateMap and EdMap)","agency":"Department
   of the Interior","total_obs":14666399.0,"program_type":"assistance_listing"},{"cfda":"66.475","permalink":"/program/66.475","title":"Geographic
-  Programs \u2013 Gulf of Mexico Program","popular_name":null,"agency":"Environmental
+  Programs - Gulf of America Program","popular_name":null,"agency":"Environmental
   Protection Agency","total_obs":14058495.0,"program_type":"assistance_listing"},{"cfda":"10.763","permalink":"/program/10.763","title":"Emergency
   Community Water Assistance Grants","popular_name":"Emergency Community Water Assistance
   Grants","agency":"Department of Agriculture","total_obs":14048600.0,"program_type":"assistance_listing"},{"cfda":"15.560","permalink":"/program/15.560","title":"SECURE
@@ -596,9 +595,7 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   River Basin Water Enhancement (YRBWE) ","popular_name":null,"agency":"Department
   of the Interior","total_obs":9299454.0,"program_type":"assistance_listing"},{"cfda":"11.008","permalink":"/program/11.008","title":"NOAA
   Mission-Related Education Awards","popular_name":null,"agency":"Department of Commerce","total_obs":8348116.0,"program_type":"assistance_listing"},{"cfda":"15.670","permalink":"/program/15.670","title":"Adaptive
-  Science","popular_name":null,"agency":"Department of the Interior","total_obs":8000000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
-  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
-  of the Interior","total_obs":7663756.0,"program_type":"assistance_listing"},{"cfda":"15.554","permalink":"/program/15.554","title":"Cooperative
+  Science","popular_name":null,"agency":"Department of the Interior","total_obs":8000000.0,"program_type":"assistance_listing"},{"cfda":"15.554","permalink":"/program/15.554","title":"Cooperative
   Watershed Management ","popular_name":"Cooperative Watershed Management Program
   or CWMP","agency":"Department of the Interior","total_obs":7316253.0,"program_type":"assistance_listing"},{"cfda":"11.451","permalink":"/program/11.451","title":"Gulf
   Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology ","popular_name":"National
@@ -638,7 +635,9 @@ programs: '[{"cfda":"12.401","permalink":"/program/12.401","title":"National Gua
   for the Gulf Hypoxia Action Plan","popular_name":"Gulf Hypoxia Program","agency":"Environmental
   Protection Agency","total_obs":1095880.0,"program_type":"assistance_listing"},{"cfda":"15.070","permalink":"/program/15.070","title":"Experienced
   Services Program","popular_name":"Experienced Services Program (ESP)","agency":"Department
-  of the Interior","total_obs":1082670.0,"program_type":"assistance_listing"},{"cfda":"12.005","permalink":"/program/12.005","title":"Conservation
+  of the Interior","total_obs":1082670.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
+  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
+  of the Interior","total_obs":1025462.0,"program_type":"assistance_listing"},{"cfda":"12.005","permalink":"/program/12.005","title":"Conservation
   and Rehabilitation of Natural Resources on Military Installations","popular_name":"Sikes
   Act","agency":"Department of Defense","total_obs":592837.0,"program_type":"assistance_listing"},{"cfda":"10.961","permalink":"/program/10.961","title":"Scientific
   Cooperation and Research","popular_name":"SCRP","agency":"Department of Agriculture","total_obs":583844.0,"program_type":"assistance_listing"},{"cfda":"15.541","permalink":"/program/15.541","title":"Colorado
@@ -680,5 +679,5 @@ title: Water Conservation and Research
 total_num_agencies: 12
 total_num_applicant_types: 46
 total_num_programs: 99
-total_obs: 9548802589.0
+total_obs: 9430215520.0
 ---

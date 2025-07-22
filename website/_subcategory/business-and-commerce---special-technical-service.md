@@ -2,15 +2,15 @@
 agencies: '[{"title":"Department of Commerce","total_num_programs":11,"total_obs":357442140.0},{"title":"Department
   of Defense","total_num_programs":3,"total_obs":337689881.0},{"title":"Inter-American
   Foundation","total_num_programs":2,"total_obs":31000000.0},{"title":"Small Business
-  Administration","total_num_programs":2,"total_obs":23420000.0},{"title":"Southeast
+  Administration","total_num_programs":2,"total_obs":30220000.0},{"title":"Southeast
   Crescent Regional Commission","total_num_programs":1,"total_obs":20000000.0},{"title":"Department
   of State","total_num_programs":3,"total_obs":19749999.0},{"title":"Environmental
   Protection Agency","total_num_programs":1,"total_obs":17178557.0},{"title":"Federal
   Communications Commission","total_num_programs":1,"total_obs":11000000.0},{"title":"Department
-  of the Interior","total_num_programs":1,"total_obs":7663756.0},{"title":"Department
   of Transportation","total_num_programs":1,"total_obs":5000000.0},{"title":"Federal
   Financial Institutions Examination Council Appraisal Subcommittee","total_num_programs":1,"total_obs":2025000.0},{"title":"Department
   of Agriculture","total_num_programs":3,"total_obs":1920000.0},{"title":"Department
+  of the Interior","total_num_programs":1,"total_obs":1025462.0},{"title":"Department
   of Health and Human Services","total_num_programs":3,"total_obs":0.0},{"title":"Denali
   Commission","total_num_programs":1,"total_obs":0.0}]'
 applicant_types: '[{"title":"State (includes District of Columbia, public institutions
@@ -509,14 +509,12 @@ programs: '[{"cfda":"12.333","permalink":"/program/12.333","title":"Advanced Man
   Partnership for the Americas)","popular_name":"Bureau of Western Hemisphere Affairs
   WHA","agency":"Department of State","total_obs":19749999.0,"program_type":"assistance_listing"},{"cfda":"66.708","permalink":"/program/66.708","title":"Pollution
   Prevention Grants Program","popular_name":"P2 Grant Program","agency":"Environmental
-  Protection Agency","total_obs":17178557.0,"program_type":"assistance_listing"},{"cfda":"59.044","permalink":"/program/59.044","title":"Veterans
+  Protection Agency","total_obs":17178557.0,"program_type":"assistance_listing"},{"cfda":"59.026","permalink":"/program/59.026","title":"SCORE","popular_name":"SCORE","agency":"Small
+  Business Administration","total_obs":17000000.0,"program_type":"assistance_listing"},{"cfda":"59.044","permalink":"/program/59.044","title":"Veterans
   Outreach Program","popular_name":"Veterans Business Outreach Center Program (VBOC)","agency":"Small
   Business Administration","total_obs":13220000.0,"program_type":"assistance_listing"},{"cfda":"32.010","permalink":"/program/32.010","title":"Supply
   Chain Reimbursement Program","popular_name":"Supply Chain Reimbursement Program","agency":"Federal
-  Communications Commission","total_obs":11000000.0,"program_type":"assistance_listing"},{"cfda":"59.026","permalink":"/program/59.026","title":"SCORE","popular_name":"SCORE","agency":"Small
-  Business Administration","total_obs":10200000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
-  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
-  of the Interior","total_obs":7663756.0,"program_type":"assistance_listing"},{"cfda":"11.407","permalink":"/program/11.407","title":"Interjurisdictional
+  Communications Commission","total_obs":11000000.0,"program_type":"assistance_listing"},{"cfda":"11.407","permalink":"/program/11.407","title":"Interjurisdictional
   Fisheries Act of 1986","popular_name":null,"agency":"Department of Commerce","total_obs":6270000.0,"program_type":"assistance_listing"},{"cfda":"11.474","permalink":"/program/11.474","title":"Atlantic
   Coastal Fisheries Cooperative Management Act","popular_name":null,"agency":"Department
   of Commerce","total_obs":6210000.0,"program_type":"assistance_listing"},{"cfda":"11.606","permalink":"/program/11.606","title":"Weights
@@ -528,7 +526,9 @@ programs: '[{"cfda":"12.333","permalink":"/program/12.333","title":"Advanced Man
   Appraiser Agency Support Grants","popular_name":null,"agency":"Federal Financial
   Institutions Examination Council Appraisal Subcommittee","total_obs":2025000.0,"program_type":"assistance_listing"},{"cfda":"10.518","permalink":"/program/10.518","title":"Food
   Animal Residue Avoidance Databank","popular_name":"FARAD","agency":"Department of
-  Agriculture","total_obs":1920000.0,"program_type":"assistance_listing"},{"cfda":"11.610","permalink":"/program/11.610","title":"Standards
+  Agriculture","total_obs":1920000.0,"program_type":"assistance_listing"},{"cfda":"15.068","permalink":"/program/15.068","title":"Native
+  Hawaiian Community Guest Stewardship","popular_name":"H\u014d\u02bbihi Grant Program","agency":"Department
+  of the Interior","total_obs":1025462.0,"program_type":"assistance_listing"},{"cfda":"11.610","permalink":"/program/11.610","title":"Standards
   Information Center ","popular_name":"(SIC)","agency":"Department of Commerce","total_obs":116415.0,"program_type":"assistance_listing"},{"cfda":"10.231","permalink":"/program/10.231","title":"Agriculture
   Business Innovation Center at HBCU","popular_name":null,"agency":"Department of
   Agriculture","total_obs":0.0,"program_type":"assistance_listing"},{"cfda":"10.377","permalink":"/program/10.377","title":"Agriculture
@@ -557,5 +557,5 @@ title: Special Technical Service
 total_num_agencies: 14
 total_num_applicant_types: 39
 total_num_programs: 34
-total_obs: 834089333.0
+total_obs: 834251039.0
 ---

@@ -1,7 +1,7 @@
 ---
 agencies: '[{"title":"Department of Health and Human Services","total_num_programs":4,"total_obs":12174639048.0},{"title":"Federal
   Communications Commission","total_num_programs":1,"total_obs":2977000000.0},{"title":"Department
-  of the Interior","total_num_programs":3,"total_obs":1412699075.0},{"title":"Department
+  of the Interior","total_num_programs":3,"total_obs":1399439468.0},{"title":"Department
   of Labor","total_num_programs":4,"total_obs":660092541.0},{"title":"Department of
   Agriculture","total_num_programs":13,"total_obs":589709269.0},{"title":"Department
   of Defense","total_num_programs":2,"total_obs":253706301.0},{"title":"The Institute
@@ -490,7 +490,7 @@ categories_subcategories:
   title: Transportation
 fiscal_year: '2024'
 permalink: /category/information-and-statistics
-sub_cats: '[{"title":"Census Data","permalink":"/category/information-and-statistics/census-data","total_num_programs":4,"total_obs":1242820811.0},{"title":"General","permalink":"/category/information-and-statistics/general","total_num_programs":44,"total_obs":14037121543.0},{"title":"Libraries,
+sub_cats: '[{"title":"Census Data","permalink":"/category/information-and-statistics/census-data","total_num_programs":4,"total_obs":1229561204.0},{"title":"General","permalink":"/category/information-and-statistics/general","total_num_programs":44,"total_obs":14037121543.0},{"title":"Libraries,
   Clearinghouses, Archives","permalink":"/category/information-and-statistics/libraries--clearinghouses--archives","total_num_programs":13,"total_obs":15356147159.0},{"title":"Library
   of Congress","permalink":"/category/information-and-statistics/library-of-congress","total_num_programs":3,"total_obs":0.0}]'
 title: Information and Statistics
@@ -498,5 +498,5 @@ total_num_agencies: 19
 total_num_applicant_types: 39
 total_num_programs: 54
 total_num_sub_cats: 4
-total_obs: 18460628473.0
+total_obs: 18447368866.0
 ---
