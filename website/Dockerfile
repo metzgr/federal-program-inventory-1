@@ -6,6 +6,16 @@ FROM ruby:3.2.2 AS build-image
 ENV NODE_VERSION=18.17.1
 ENV NVM_DIR=/root/.nvm
 ENV PATH="/root/.nvm/versions/node/v${NODE_VERSION}/bin/:${PATH}"
+ARG http_proxy
+ARG https_proxy
+ARG no_proxy
+
+ENV http_proxy=$http_proxy \
+    https_proxy=$https_proxy \
+    no_proxy=$no_proxy \
+    HTTP_PROXY=$http_proxy \
+    HTTPS_PROXY=$https_proxy \
+    NO_PROXY=$no_proxy
 
 WORKDIR /app
 COPY ./Gemfile /app/Gemfile
@@ -28,6 +38,17 @@ RUN bundle exec jekyll build && \
 #          This stage is responsible for building the final nginx image that
 #          contains the static files generated in Stage 1.
 FROM nginxinc/nginx-unprivileged:alpine AS runtime-image
+ARG http_proxy
+ARG https_proxy
+ARG no_proxy
+
+ENV http_proxy=$http_proxy \
+    https_proxy=$https_proxy \
+    no_proxy=$no_proxy \
+    HTTP_PROXY=$http_proxy \
+    HTTPS_PROXY=$https_proxy \
+    NO_PROXY=$no_proxy
+
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=0 /app/_site /usr/share/nginx/html
 EXPOSE 8080
