@@ -1,5 +1,15 @@
 # Use a base Python image
 FROM python:3.9-slim
+ARG http_proxy
+ARG https_proxy
+ARG no_proxy
+
+ENV http_proxy=$http_proxy \
+    https_proxy=$https_proxy \
+    no_proxy=$no_proxy \
+    HTTP_PROXY=$http_proxy \
+    HTTPS_PROXY=$https_proxy \
+    NO_PROXY=$no_proxy
 
 # Set the working directory inside the container
 WORKDIR /app/
