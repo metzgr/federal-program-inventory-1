@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "@uswds/uswds": "^3.5.0"
+  },
+  "overrides": {
+    "undici": "<=7.12.0"
   }
 }
