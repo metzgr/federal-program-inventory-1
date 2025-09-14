@@ -20,13 +20,22 @@ ENV http_proxy=$http_proxy \
 WORKDIR /app
 COPY ./Gemfile /app/Gemfile
 COPY ./package.json /app/package.json
+## If you have corporate root CA certificates, place them in website/certs/
+## Copy the entire directory so build doesn't fail when there are no *.crt files
+COPY certs/ /usr/local/share/ca-certificates/
+ENV SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt \
+    CURL_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt \
+    BUNDLE_SSL_CA_CERT=/etc/ssl/certs/ca-certificates.crt \
+    SSL_CERT_DIR=/etc/ssl/certs
 RUN apt-get clean && \
     apt-get update && \
-    apt-get install -y curl git && \
-    curl -k -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash && \
-    . "$NVM_DIR/nvm.sh" && nvm use v${NODE_VERSION} && \
-    . "$NVM_DIR/nvm.sh" && nvm alias default v${NODE_VERSION} && \
+    apt-get install -y curl git ca-certificates nodejs npm && \
+    update-ca-certificates && \
+    git config --global http.sslCAInfo /etc/ssl/certs/ca-certificates.crt && \
+    npm config set cafile /etc/ssl/certs/ca-certificates.crt && \
     npm install --legacy-peer-deps chart.js && \
+    bundle config set ssl_ca_cert /etc/ssl/certs/ca-certificates.crt && \
+    bundle config set ssl_verify_mode 0 && \
     bundle install
 
 COPY . /app

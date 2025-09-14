@@ -1,0 +1,4 @@
+# Ignore local corporate certificates used only for local Docker builds
+certs/*.crt
+certs/*.cer
+!certs/.gitkeep
