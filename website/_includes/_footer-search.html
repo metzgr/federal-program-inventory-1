@@ -1,5 +1,6 @@
 <script>
-  const apiBaseUrl = "";
+  // Use same-origin reverse proxy (configured in nginx.conf)
+  const apiBaseUrl = "/api";
   let currentPage = 1;
   const pageSize = 10;
   let currentSort = { field: "obligations", order: "desc" };

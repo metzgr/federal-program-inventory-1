@@ -3,25 +3,33 @@ import json
 import logging
 import time
 import requests
+import os
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Resolve Elasticsearch connection settings from environment or defaults
+ES_HOST = os.getenv("ES_HOST", "elasticsearch")
+ES_PORT = int(os.getenv("ES_PORT", "9200"))
+ES_SCHEME = os.getenv("ES_SCHEME", "http")
+ES_BASE = f"{ES_SCHEME}://{ES_HOST}:{ES_PORT}"
+
 # Wait until elasticsearch service is live
 status_code = 0
 while status_code != 200:
     try:
-        r = requests.get("http://localhost:9200")
-    except (requests.exceptions.ConnectionError,
-            requests.exceptions.ReadTimeout):
+        r = requests.get(ES_BASE, timeout=5)
+        status_code = r.status_code
+        if status_code != 200:
+            print(f"Elasticsearch returned {status_code}; waiting 5 seconds.")
+            time.sleep(5)
+    except (requests.exceptions.ConnectionError, requests.exceptions.ReadTimeout):
         print("Elasticsearch service not available; waiting 5 seconds.")
         time.sleep(5)
-    else:
-        status_code = r.status_code
 
 # Elasticsearch client connected to the service
-es = Elasticsearch(hosts=["http://localhost:9200"])
+es = Elasticsearch(hosts=[ES_BASE])
 
 
 def delete_index(index_name):
